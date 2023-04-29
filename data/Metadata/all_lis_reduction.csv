@@ -1,0 +1,972 @@
+﻿Microorganism,Species,Strain,Product group,Product,Treatment,aw,pH,T,D,z,log D,log D (model),Ref,Year,Remarks,,log D model dairy,log D model milk,log D model meat,log D model beef,log D model chicken,,F-test,logD (all),logD (10% NaCl),logD (rest)
+Listeria,monocytogenes,1151,Dairy,Butter,(82.7% fat),,,68,0.188333333,,-0.725072807,-0.7804,Casadei et al.,1998,,,-0.9469,,,,,,,-0.720514278,,-0.779688573
+Listeria,monocytogenes,Scott A,Dairy,Butter,(82.7% fat),,,68,0.1075,,-0.968591536,-0.7804,Casadei et al.,1998,,,-0.9469,,,,,,,-0.720514278,,-0.779688573
+Listeria,monocytogenes,1151,Dairy,Butter,(82.7% fat),,,52,44.641,6.71,1.649733915,1.4916,Casadei et al.,1998,,,1.5651,,,,,,,1.488697674,,1.492155513
+Listeria,monocytogenes,Scott A,Dairy,Butter,(82.7% fat),,,52,23.68316667,6.67,1.374439771,1.4916,Casadei et al.,1998,,,1.5651,,,,,,,1.488697674,,1.492155513
+Listeria,monocytogenes,1151,Dairy,Butter,(82.7% fat),,,56,6.578666667,6.71,0.818137882,0.9236,Casadei et al.,1998,,,0.9371,,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,Scott A,Dairy,Butter,(82.7% fat),,,56,4.129833333,6.67,0.615932525,0.9236,Casadei et al.,1998,,,0.9371,,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,1151,Dairy,Butter,(82.7% fat),,,60,1.243166667,6.71,0.094529357,0.3556,Casadei et al.,1998,,,0.3091,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Dairy,Butter,(82.7% fat),,,60,0.550333333,6.67,-0.259374181,0.3556,Casadei et al.,1998,,,0.3091,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,1151,Dairy,Butter,(82.7% fat),,,64,0.4205,6.71,-0.376234,-0.2124,Casadei et al.,1998,,,-0.3189,,,,,,,-0.16821129,,-0.211727551
+Listeria,monocytogenes,Scott A,Dairy,Butter,(82.7% fat),,,64,0.193833333,6.67,-0.712571536,-0.2124,Casadei et al.,1998,,,-0.3189,,,,,,,-0.16821129,,-0.211727551
+Listeria,monocytogenes,1151,Dairy,Cream,half (13.4% fat),,,68,0.152333333,,-0.817205055,-0.7804,Casadei et al.,1998,,,-0.9469,,,,,,,-0.720514278,,-0.779688573
+Listeria,monocytogenes,Scott A,Dairy,Cream,half (13.4% fat),,,68,0.128666667,,-0.89053395,-0.7804,Casadei et al.,1998,,,-0.9469,,,,,,,-0.720514278,,-0.779688573
+Listeria,monocytogenes,1151,Dairy,Cream,half (13.4% fat),,,52,105.0771667,5.32,2.021508354,1.4916,Casadei et al.,1998,,,1.5651,,,,,,,1.488697674,,1.492155513
+Listeria,monocytogenes,Scott A,Dairy,Cream,half (13.4% fat),,,52,43.297,6.2,1.636457806,1.4916,Casadei et al.,1998,,,1.5651,,,,,,,1.488697674,,1.492155513
+Listeria,monocytogenes,1151,Dairy,Cream,half (13.4% fat),,,56,23.1185,5.32,1.363959652,0.9236,Casadei et al.,1998,,,0.9371,,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,Scott A,Dairy,Cream,half (13.4% fat),,,56,5.0425,6.2,0.702645907,0.9236,Casadei et al.,1998,,,0.9371,,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,1151,Dairy,Cream,half (13.4% fat),,,60,1.582333333,5.32,0.199297977,0.3556,Casadei et al.,1998,,,0.3091,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Dairy,Cream,half (13.4% fat),,,60,0.7815,6.2,-0.107071018,0.3556,Casadei et al.,1998,,,0.3091,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,1151,Dairy,Cream,half (13.4% fat),,,64,0.331333333,5.32,-0.47973487,-0.2124,Casadei et al.,1998,,,-0.3189,,,,,,,-0.16821129,,-0.211727551
+Listeria,monocytogenes,Scott A,Dairy,Cream,half (13.4% fat),,,64,0.197666667,6.2,-0.704066561,-0.2124,Casadei et al.,1998,,,-0.3189,,,,,,,-0.16821129,,-0.211727551
+Listeria,monocytogenes,,Dairy,Cream,raw,,,52.2,28.5,6.8,1.45484486,1.4632,ICMSF,1996,,,1.5337,,,,,,,1.461082525,,1.463757462
+Listeria,monocytogenes,,Dairy,Cream,raw,,,57.8,3.97,6.8,0.598790507,0.668,ICMSF,1996,,,0.6545,,,,,,,0.687858341,,0.668612032
+Listeria,monocytogenes,,Dairy,Cream,raw,,,63.3,0.51,6.8,-0.292429824,-0.113,ICMSF,1996,,,-0.209,,,,,,,-0.071558267,,-0.112334372
+Listeria,monocytogenes,,Dairy,Cream,raw,,,66.1,0.243333333,6.8,-0.613798395,-0.5106,ICMSF,1996,,,-0.6486,,,,,,,-0.458170359,,-0.509907088
+Listeria,monocytogenes,,Dairy,Cream,raw,,,68.9,0.1,6.8,-1,-0.9082,ICMSF,1996,,,-1.0882,,,,,,,-0.84478245,,-0.907479803
+Listeria,monocytogenes,,Dairy,Cream,sterile,,,52.2,29.68,7.1,1.472463897,1.4632,ICMSF,1996,,,1.5337,,,,,,,1.461082525,,1.463757462
+Listeria,monocytogenes,,Dairy,Cream,sterile,,,57.8,4.34,7.1,0.63748973,0.668,ICMSF,1996,,,0.6545,,,,,,,0.687858341,,0.668612032
+Listeria,monocytogenes,,Dairy,Cream,sterile,,,63.3,0.476666667,7.1,-0.321785217,-0.113,ICMSF,1996,,,-0.209,,,,,,,-0.071558267,,-0.112334372
+Listeria,monocytogenes,,Dairy,Cream,sterile,,,66.1,0.293333333,7.1,-0.532638583,-0.5106,ICMSF,1996,,,-0.6486,,,,,,,-0.458170359,,-0.509907088
+Listeria,monocytogenes,,Dairy,Cream,sterile,,,68.9,0.13,7.1,-0.886056648,-0.9082,ICMSF,1996,,,-1.0882,,,,,,,-0.84478245,,-0.907479803
+Listeria,monocytogenes,1151,Dairy,Cream,"UHT, double (55.6% fat)",,,68,0.131,,-0.882728704,-0.7804,Casadei et al.,1998,,,-0.9469,,,,,,,-0.720514278,,-0.779688573
+Listeria,monocytogenes,Scott A,Dairy,Cream,"UHT, double (55.6% fat)",,,68,0.157666667,,-0.802260114,-0.7804,Casadei et al.,1998,,,-0.9469,,,,,,,-0.720514278,,-0.779688573
+Listeria,monocytogenes,1151,Dairy,Cream,"UHT, double (55.6% fat)",,,52,71.71616667,5.83,1.855617068,1.4916,Casadei et al.,1998,,,1.5651,,,,,,,1.488697674,,1.492155513
+Listeria,monocytogenes,Scott A,Dairy,Cream,"UHT, double (55.6% fat)",,,52,58.055,6.08,1.763839629,1.4916,Casadei et al.,1998,,,1.5651,,,,,,,1.488697674,,1.492155513
+Listeria,monocytogenes,1151,Dairy,Cream,"UHT, double (55.6% fat)",,,56,8.543833333,5.83,0.931652768,0.9236,Casadei et al.,1998,,,0.9371,,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,Scott A,Dairy,Cream,"UHT, double (55.6% fat)",,,56,6.059166667,6.08,0.782412899,0.9236,Casadei et al.,1998,,,0.9371,,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,1151,Dairy,Cream,"UHT, double (55.6% fat)",,,60,1.014166667,5.83,0.006109332,0.3556,Casadei et al.,1998,,,0.3091,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Dairy,Cream,"UHT, double (55.6% fat)",,,60,0.648333333,6.08,-0.188201649,0.3556,Casadei et al.,1998,,,0.3091,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,1151,Dairy,Cream,"UHT, double (55.6% fat)",,,64,0.341333333,5.83,-0.466821298,-0.2124,Casadei et al.,1998,,,-0.3189,,,,,,,-0.16821129,,-0.211727551
+Listeria,monocytogenes,Scott A,Dairy,Cream,"UHT, double (55.6% fat)",,,64,0.211166667,6.08,-0.675374636,-0.2124,Casadei et al.,1998,,,-0.3189,,,,,,,-0.16821129,,-0.211727551
+Listeria,monocytogenes,,Dairy,Ice-cream,mix,,,57.2,13.559,,1.132227661,0.7532,Bradshaw et al.,1987,D-value calculated from endpoint measurement (time divided by 5 log reductions),,0.7487,,,,,,,0.77070379,,0.753806185
+Listeria,monocytogenes,,Dairy,Ice-cream,mix,,,62.8,4.038,,0.606166315,-0.042,Bradshaw et al.,1987,D-value calculated from endpoint measurement (time divided by 5 log reductions),,-0.1305,,,,,,,-0.002520394,,-0.041339245
+Listeria,monocytogenes,,Dairy,Ice-cream,mix,,,68.3,0.77,,-0.113509275,-0.823,Bradshaw et al.,1987,D-value calculated from endpoint measurement (time divided by 5 log reductions),,-0.994,,,,,,,-0.761937002,,-0.822285649
+Listeria,monocytogenes,,Dairy,Ice-cream,mix,,,73.9,0.105,,-0.978810701,-1.6182,Bradshaw et al.,1987,D-value calculated from endpoint measurement (time divided by 5 log reductions),,-1.8732,,,,,,,-1.535161185,,-1.61743108
+Listeria,monocytogenes,,Dairy,Ice-cream,mix,,,79.4,0.008666667,,-2.062147907,-2.3992,Bradshaw et al.,1987,D-value calculated from endpoint measurement (time divided by 5 log reductions),,-2.7367,,,,,,,-2.294577794,,-2.398377484
+Listeria,monocytogenes,,Dairy,Ice-cream,mix,,,60,2.808,,0.448397103,0.3556,Holsinger et al.,1992,D-value including lag phase: D = (5*D+lag)/5,,0.3091,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Dairy,Ice-cream,mix,,,60,3.108,,0.49248101,0.3556,Holsinger et al.,1992,D-value including lag phase: D = (5*D+lag)/5,,0.3091,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Dairy,Ice-cream,mix,,,60,3.89,,0.589949601,0.3556,Holsinger et al.,1992,D-value including lag phase: D = (5*D+lag)/5,,0.3091,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Dairy,Ice-cream,mix,,,60,4.65,,0.667452953,0.3556,Holsinger et al.,1992,D-value including lag phase: D = (5*D+lag)/5,,0.3091,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Dairy,Ice-cream,mix,,,60,3.458,,0.538824989,0.3556,Holsinger et al.,1992,D-value including lag phase: D = (5*D+lag)/5,,0.3091,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Dairy,Ice-cream,mix,,,60,3.61,,0.557507202,0.3556,Holsinger et al.,1992,D-value including lag phase: D = (5*D+lag)/5,,0.3091,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Dairy,Ice-cream,mix,,,60,3.07,,0.487138375,0.3556,Holsinger et al.,1992,D-value including lag phase: D = (5*D+lag)/5,,0.3091,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Dairy,Ice-cream,mix,,,60,5.546,,0.743979865,0.3556,Holsinger et al.,1992,D-value including lag phase: D = (5*D+lag)/5,,0.3091,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Dairy,Ice-cream,mix,,,60,3.498,,0.543819805,0.3556,Holsinger et al.,1992,D-value including lag phase: D = (5*D+lag)/5,,0.3091,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,F5069,Dairy,Milk,11% nonfat milk solids,,,62.7,0.9,,-0.045757491,-0.0278,Donnelly and Briggs,1986,,,-0.1148,-0.13271,,,,,,0.011287181,,-0.027140219
+Listeria,monocytogenes,Scott A,Dairy,Milk,formulated,,5,55,19,,1.278753601,1.0656,Chhabra et al.,1999,,,1.0941,1.1016,,,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,Scott A,Dairy,Milk,formulated,,6,55,79.5,,1.900367129,1.0656,Chhabra et al.,1999,,,1.0941,1.1016,,,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,Scott A,Dairy,Milk,formulated,,7,55,77.5,,1.889301703,1.0656,Chhabra et al.,1999,,,1.0941,1.1016,,,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,Scott A,Dairy,Milk,formulated,,5,60,2.4,,0.380211242,0.3556,Chhabra et al.,1999,,,0.3091,0.3001,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Dairy,Milk,formulated,,6,60,2.425,,0.384711743,0.3556,Chhabra et al.,1999,,,0.3091,0.3001,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Dairy,Milk,formulated,,7,60,2.975,,0.47348697,0.3556,Chhabra et al.,1999,,,0.3091,0.3001,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Dairy,Milk,formulated,,5,65,0.325,,-0.488116639,-0.3544,Chhabra et al.,1999,,,-0.4759,-0.5014,,,,,,-0.306287037,,-0.353717807
+Listeria,monocytogenes,Scott A,Dairy,Milk,formulated,,6,65,0.4,,-0.397940009,-0.3544,Chhabra et al.,1999,,,-0.4759,-0.5014,,,,,,-0.306287037,,-0.353717807
+Listeria,monocytogenes,Scott A,Dairy,Milk,formulated,,7,65,0.4,,-0.397940009,-0.3544,Chhabra et al.,1999,,,-0.4759,-0.5014,,,,,,-0.306287037,,-0.353717807
+Listeria,monocytogenes,Scott A,Dairy,Milk,formulated (+ milkfat (2.5%)),,5,55,18.25,,1.261262869,1.0656,Chhabra et al.,1999,,,1.0941,1.1016,,,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,Scott A,Dairy,Milk,formulated (+ milkfat (2.5%)),,6,55,82.75,,1.917768002,1.0656,Chhabra et al.,1999,,,1.0941,1.1016,,,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,Scott A,Dairy,Milk,formulated (+ milkfat (2.5%)),,7,55,82,,1.913813852,1.0656,Chhabra et al.,1999,,,1.0941,1.1016,,,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,Scott A,Dairy,Milk,formulated (+ milkfat (2.5%)),,5,60,2.575,,0.410777233,0.3556,Chhabra et al.,1999,,,0.3091,0.3001,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Dairy,Milk,formulated (+ milkfat (2.5%)),,6,60,2.9,,0.462397998,0.3556,Chhabra et al.,1999,,,0.3091,0.3001,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Dairy,Milk,formulated (+ milkfat (2.5%)),,7,60,3.275,,0.515211304,0.3556,Chhabra et al.,1999,,,0.3091,0.3001,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Dairy,Milk,formulated (+ milkfat (2.5%)),,5,65,0.425,,-0.37161107,-0.3544,Chhabra et al.,1999,,,-0.4759,-0.5014,,,,,,-0.306287037,,-0.353717807
+Listeria,monocytogenes,Scott A,Dairy,Milk,formulated (+ milkfat (2.5%)),,6,65,0.35,,-0.455931956,-0.3544,Chhabra et al.,1999,,,-0.4759,-0.5014,,,,,,-0.306287037,,-0.353717807
+Listeria,monocytogenes,Scott A,Dairy,Milk,formulated (+ milkfat (2.5%)),,7,65,0.45,,-0.346787486,-0.3544,Chhabra et al.,1999,,,-0.4759,-0.5014,,,,,,-0.306287037,,-0.353717807
+Listeria,monocytogenes,Scott A,Dairy,Milk,formulated (+ milkfat (5%)),,5,55,18.5,,1.267171728,1.0656,Chhabra et al.,1999,,,1.0941,1.1016,,,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,Scott A,Dairy,Milk,formulated (+ milkfat (5%)),,6,55,78.75,,1.896250562,1.0656,Chhabra et al.,1999,,,1.0941,1.1016,,,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,Scott A,Dairy,Milk,formulated (+ milkfat (5%)),,7,55,66.25,,1.821185883,1.0656,Chhabra et al.,1999,,,1.0941,1.1016,,,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,Scott A,Dairy,Milk,formulated (+ milkfat (5%)),,5,60,2.5,,0.397940009,0.3556,Chhabra et al.,1999,,,0.3091,0.3001,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Dairy,Milk,formulated (+ milkfat (5%)),,6,60,2.3,,0.361727836,0.3556,Chhabra et al.,1999,,,0.3091,0.3001,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Dairy,Milk,formulated (+ milkfat (5%)),,7,60,3.55,,0.550228353,0.3556,Chhabra et al.,1999,,,0.3091,0.3001,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Dairy,Milk,formulated (+ milkfat (5%)),,5,65,0.35,,-0.455931956,-0.3544,Chhabra et al.,1999,,,-0.4759,-0.5014,,,,,,-0.306287037,,-0.353717807
+Listeria,monocytogenes,Scott A,Dairy,Milk,formulated (+ milkfat (5%)),,6,65,0.375,,-0.425968732,-0.3544,Chhabra et al.,1999,,,-0.4759,-0.5014,,,,,,-0.306287037,,-0.353717807
+Listeria,monocytogenes,Scott A,Dairy,Milk,formulated (+ milkfat (5%)),,7,65,0.375,,-0.425968732,-0.3544,Chhabra et al.,1999,,,-0.4759,-0.5014,,,,,,-0.306287037,,-0.353717807
+Listeria,monocytogenes,,Dairy,Milk,raw,,,52.2,26.9,,1.42975228,1.4632,ICMSF,1996,,,1.5337,1.55044,,,,,,1.461082525,,1.463757462
+Listeria,monocytogenes,,Dairy,Milk,raw,,,52.2,29.2,,1.465382851,1.4632,ICMSF,1996,,,1.5337,1.55044,,,,,,1.461082525,,1.463757462
+Listeria,monocytogenes,,Dairy,Milk,raw,,,52.2,52.8,,1.722633923,1.4632,ICMSF,1996,,,1.5337,1.55044,,,,,,1.461082525,,1.463757462
+Listeria,monocytogenes,,Dairy,Milk,raw,,,52.2,38.16,,1.581608366,1.4632,ICMSF,1996,,,1.5337,1.55044,,,,,,1.461082525,,1.463757462
+Listeria,monocytogenes,,Dairy,Milk,raw,,,57.8,4.49,,0.652246341,0.668,ICMSF,1996,,,0.6545,0.65276,,,,,,0.687858341,,0.668612032
+Listeria,monocytogenes,,Dairy,Milk,raw,,,57.8,5.16,,0.712649702,0.668,ICMSF,1996,,,0.6545,0.65276,,,,,,0.687858341,,0.668612032
+Listeria,monocytogenes,,Dairy,Milk,raw,,,57.8,8.17,,0.912222057,0.668,ICMSF,1996,,,0.6545,0.65276,,,,,,0.687858341,,0.668612032
+Listeria,monocytogenes,,Dairy,Milk,raw,,,57.8,7.42,,0.870403905,0.668,ICMSF,1996,,,0.6545,0.65276,,,,,,0.687858341,,0.668612032
+Listeria,monocytogenes,,Dairy,Milk,raw,,,63.3,0.223333333,,-0.651046452,-0.113,ICMSF,1996,,,-0.209,-0.22889,,,,,,-0.071558267,,-0.112334372
+Listeria,monocytogenes,,Dairy,Milk,raw,,,63.3,0.473333333,,-0.32483291,-0.113,ICMSF,1996,,,-0.209,-0.22889,,,,,,-0.071558267,,-0.112334372
+Listeria,monocytogenes,,Dairy,Milk,raw,,,63.3,0.555,,-0.255707017,-0.113,ICMSF,1996,,,-0.209,-0.22889,,,,,,-0.071558267,,-0.112334372
+Listeria,monocytogenes,,Dairy,Milk,raw,,,63.3,0.556666667,,-0.254404784,-0.113,ICMSF,1996,,,-0.209,-0.22889,,,,,,-0.071558267,,-0.112334372
+Listeria,monocytogenes,,Dairy,Milk,raw,,,63.3,0.495,,-0.305394801,-0.113,ICMSF,1996,,,-0.209,-0.22889,,,,,,-0.071558267,,-0.112334372
+Listeria,monocytogenes,,Dairy,Milk,raw,,,66.1,0.103333333,,-0.985759561,-0.5106,ICMSF,1996,,,-0.6486,-0.67773,,,,,,-0.458170359,,-0.509907088
+Listeria,monocytogenes,,Dairy,Milk,raw,,,66.1,0.168333333,,-0.773829877,-0.5106,ICMSF,1996,,,-0.6486,-0.67773,,,,,,-0.458170359,,-0.509907088
+Listeria,monocytogenes,,Dairy,Milk,raw,,,66.1,0.251666667,,-0.599174303,-0.5106,ICMSF,1996,,,-0.6486,-0.67773,,,,,,-0.458170359,,-0.509907088
+Listeria,monocytogenes,,Dairy,Milk,raw,,,68.9,0.035,,-1.455931956,-0.9082,ICMSF,1996,,,-1.0882,-1.12657,,,,,,-0.84478245,,-0.907479803
+Listeria,monocytogenes,,Dairy,Milk,raw,,,68.9,0.07,,-1.15490196,-0.9082,ICMSF,1996,,,-1.0882,-1.12657,,,,,,-0.84478245,,-0.907479803
+Listeria,monocytogenes,,Dairy,Milk,raw,,,68.9,0.116666667,,-0.93305321,-0.9082,ICMSF,1996,,,-1.0882,-1.12657,,,,,,-0.84478245,,-0.907479803
+Listeria,monocytogenes,,Dairy,Milk,raw,,,68.9,0.12,,-0.920818754,-0.9082,ICMSF,1996,,,-1.0882,-1.12657,,,,,,-0.84478245,,-0.907479803
+Listeria,monocytogenes,,Dairy,Milk,raw,,,68.9,0.088333333,,-1.053875381,-0.9082,ICMSF,1996,,,-1.0882,-1.12657,,,,,,-0.84478245,,-0.907479803
+Listeria,monocytogenes,,Dairy,Milk,raw,,,71.7,0.013333333,,-1.875061263,-1.3058,ICMSF,1996,,,-1.5278,-1.57541,,,,,,-1.231394542,,-1.305052518
+Listeria,monocytogenes,,Dairy,Milk,raw,,,71.7,0.018333333,,-1.736758565,-1.3058,ICMSF,1996,,,-1.5278,-1.57541,,,,,,-1.231394542,,-1.305052518
+Listeria,monocytogenes,,Dairy,Milk,raw,,,71.7,0.021666667,,-1.664207898,-1.3058,ICMSF,1996,,,-1.5278,-1.57541,,,,,,-1.231394542,,-1.305052518
+Listeria,monocytogenes,,Dairy,Milk,raw,,,74.4,0.008333333,,-2.079181246,-1.6892,ICMSF,1996,,,-1.9517,-2.00822,,,,,,-1.604199059,,-1.688426207
+Listeria,monocytogenes,,Dairy,Milk,raw,,,74.4,0.015,,-1.823908741,-1.6892,ICMSF,1996,,,-1.9517,-2.00822,,,,,,-1.604199059,,-1.688426207
+Listeria,monocytogenes,,Dairy,Milk,reconstituted nonfat dry,,,50,31.67,,1.500648063,1.7756,ICMSF,1996,,,1.8791,1.9031,,,,,,1.764849168,,1.776136024
+Listeria,monocytogenes,,Dairy,Milk,reconstituted nonfat dry,,,55,4.5,,0.653212514,1.0656,ICMSF,1996,,,1.0941,1.1016,,,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,,Dairy,Milk,reconstituted nonfat dry,,,60,0.95,,-0.022276395,0.3556,ICMSF,1996,,,0.3091,0.3001,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Dairy,Milk,reconstituted nonfat dry,,,62.8,0.333333333,,-0.477121255,-0.042,ICMSF,1996,,,-0.1305,-0.14874,,,,,,-0.002520394,,-0.041339245
+Listeria,monocytogenes,,Dairy,Milk,reconstituted nonfat dry,,,65,0.1,,-1,-0.3544,ICMSF,1996,,,-0.4759,-0.5014,,,,,,-0.306287037,,-0.353717807
+Listeria,monocytogenes,,Dairy,Milk,reconstituted nonfat dry,,,70,0.023333333,,-1.632023215,-1.0644,ICMSF,1996,,,-1.2609,-1.3029,,,,,,-0.996665772,,-1.063669084
+Listeria,monocytogenes,,Dairy,Milk,reconstituted nonfat dry,,,71.7,0.015666667,,-1.805023397,-1.3058,ICMSF,1996,,,-1.5278,-1.57541,,,,,,-1.231394542,,-1.305052518
+Listeria,monocytogenes,,Dairy,Milk,reconstituted nonfat dry,,,75,0.007666667,,-2.115393419,-1.7744,ICMSF,1996,,,-2.0459,-2.1044,,,,,,-1.687044507,,-1.773620361
+Listeria,monocytogenes,F5069,Dairy,Milk,skim,,,62.7,0.9,,-0.045757491,-0.0278,Donnelly and Briggs,1986,,,-0.1148,-0.13271,,,,,,0.011287181,,-0.027140219
+Listeria,monocytogenes,F5027,Dairy,Milk,skim,,,61.9,0.4,,-0.397940009,0.0858,Doyle et al.,2001,sealed tube,,0.0108,-0.00447,,,,,,0.121747779,,0.086451985
+Listeria,monocytogenes,19115,Dairy,Milk,skim,,,61.9,0.1,,-1,0.0858,Doyle et al.,2001,sealed tube,,0.0108,-0.00447,,,,,,0.121747779,,0.086451985
+Listeria,monocytogenes,F5069,Dairy,Milk,skim,,,61.9,0.4,,-0.397940009,0.0858,Doyle et al.,2001,sealed tube,,0.0108,-0.00447,,,,,,0.121747779,,0.086451985
+Listeria,monocytogenes,F5069,Dairy,Milk,skim,,,56,9,,0.954242509,0.9236,Doyle et al.,2001,,,0.9371,0.9413,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,F5069,Dairy,Milk,skim,,,60,1,,0,0.3556,Doyle et al.,2001,,,0.3091,0.3001,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,F5069,Dairy,Milk,skim,,,65.85,0.1,,-1,-0.4751,Doyle et al.,2001,,,-0.60935,-0.63765,,,,,,-0.423651422,,-0.474409524
+Listeria,monocytogenes,F5069,Dairy,Milk,skim,,,61.9,0.64,,-0.193820026,0.0858,Doyle et al.,2001,,,0.0108,-0.00447,,,,,,0.121747779,,0.086451985
+Listeria,monocytogenes,F5069,Dairy,Milk,skim,,,65.85,0.13,,-0.886056648,-0.4751,Doyle et al.,2001,,,-0.60935,-0.63765,,,,,,-0.423651422,,-0.474409524
+Listeria,monocytogenes,F5069,Dairy,Milk,skim,,,67.75,0.058,,-1.236572006,-0.7449,Doyle et al.,2001,,,-0.90765,-0.94222,,,,,,-0.685995341,,-0.744191009
+Listeria,monocytogenes,F5069,Dairy,Milk,skim,,,69.75,0.023,,-1.638272164,-1.0289,Doyle et al.,2001,,,-1.22165,-1.26283,,,,,,-0.962146835,,-1.02817152
+Listeria,monocytogenes,V7,Dairy,Milk,skim,,,55,4.65,,0.667452953,1.0656,Doyle et al.,2001,,,1.0941,1.1016,,,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,V7,Dairy,Milk,skim,,,60,1.05,,0.021189299,0.3556,Doyle et al.,2001,,,0.3091,0.3001,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,V7,Dairy,Milk,skim,,,62.8,0.33,,-0.48148606,-0.042,Doyle et al.,2001,,,-0.1305,-0.14874,,,,,,-0.002520394,,-0.041339245
+Listeria,monocytogenes,V7,Dairy,Milk,skim,,,65.15,0.1,,-1,-0.3757,Doyle et al.,2001,,,-0.49945,-0.52544,,,,,,-0.326998399,,-0.375016345
+Listeria,monocytogenes,V7,Dairy,Milk,skim,,,69.75,0.023,,-1.638272164,-1.0289,Doyle et al.,2001,,,-1.22165,-1.26283,,,,,,-0.962146835,,-1.02817152
+Listeria,monocytogenes,V7,Dairy,Milk,skim,,,71.7,0.016,,-1.795880017,-1.3058,Doyle et al.,2001,,,-1.5278,-1.57541,,,,,,-1.231394542,,-1.305052518
+Listeria,monocytogenes,,Dairy,Milk,skim,,,55,4.5,,0.653212514,1.0656,Doyle et al.,2001,,,1.0941,1.1016,,,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,,Dairy,Milk,skim,,,60,0.95,,-0.022276395,0.3556,Doyle et al.,2001,,,0.3091,0.3001,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Dairy,Milk,skim,,,55,4.35,,0.638489257,1.0656,Doyle et al.,2001,,,1.0941,1.1016,,,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,Scott A,Dairy,Milk,skim,,,60,0.97,,-0.013228266,0.3556,Doyle et al.,2001,,,0.3091,0.3001,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,California,Dairy,Milk,skim,,,55,4.02,,0.604226053,1.0656,Doyle et al.,2001,,,1.0941,1.1016,,,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,California,Dairy,Milk,skim,,,60,0.95,,-0.022276395,0.3556,Doyle et al.,2001,,,0.3091,0.3001,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Dairy,Milk,"skim, raw",,,52.2,43.57,5.8,1.63918756,1.4632,ICMSF,1996,,,1.5337,1.55044,,,,,,1.461082525,,1.463757462
+Listeria,monocytogenes,,Dairy,Milk,"skim, raw",,,57.8,6.25,5.8,0.795880017,0.668,ICMSF,1996,,,0.6545,0.65276,,,,,,0.687858341,,0.668612032
+Listeria,monocytogenes,,Dairy,Milk,"skim, raw",,,63.3,0.466666667,5.8,-0.330993219,-0.113,ICMSF,1996,,,-0.209,-0.22889,,,,,,-0.071558267,,-0.112334372
+Listeria,monocytogenes,,Dairy,Milk,"skim, raw",,,66.1,0.213333333,5.8,-0.670941281,-0.5106,ICMSF,1996,,,-0.6486,-0.67773,,,,,,-0.458170359,,-0.509907088
+Listeria,monocytogenes,,Dairy,Milk,"skim, raw",,,68.9,0.061666667,5.8,-1.209949526,-0.9082,ICMSF,1996,,,-1.0882,-1.12657,,,,,,-0.84478245,,-0.907479803
+Listeria,monocytogenes,,Dairy,Milk,"skim, sterile",,,52.2,28.53,6.5,1.455301772,1.4632,ICMSF,1996,,,1.5337,1.55044,,,,,,1.461082525,,1.463757462
+Listeria,monocytogenes,,Dairy,Milk,"skim, sterile",,,57.8,4.1,6.5,0.612783857,0.668,ICMSF,1996,,,0.6545,0.65276,,,,,,0.687858341,,0.668612032
+Listeria,monocytogenes,,Dairy,Milk,"skim, sterile",,,63.3,0.431666667,6.5,-0.364851486,-0.113,ICMSF,1996,,,-0.209,-0.22889,,,,,,-0.071558267,,-0.112334372
+Listeria,monocytogenes,,Dairy,Milk,"skim, sterile",,,66.1,0.2,6.5,-0.698970004,-0.5106,ICMSF,1996,,,-0.6486,-0.67773,,,,,,-0.458170359,,-0.509907088
+Listeria,monocytogenes,,Dairy,Milk,"skim, sterile",,,68.9,0.073333333,6.5,-1.134698574,-0.9082,ICMSF,1996,,,-1.0882,-1.12657,,,,,,-0.84478245,,-0.907479803
+Listeria,monocytogenes,,Dairy,Milk,"skim, sterile",,,71.7,0.028333333,6.5,-1.547702329,-1.3058,ICMSF,1996,,,-1.5278,-1.57541,,,,,,-1.231394542,,-1.305052518
+Listeria,monocytogenes,19113,Dairy,Milk,whole,,,62.7,0.4,,-0.397940009,-0.0278,Donnelly and Briggs,1986,,,-0.1148,-0.13271,,,,,,0.011287181,,-0.027140219
+Listeria,monocytogenes,19115,Dairy,Milk,whole,,,62.7,0.4,,-0.397940009,-0.0278,Donnelly and Briggs,1986,,,-0.1148,-0.13271,,,,,,0.011287181,,-0.027140219
+Listeria,monocytogenes,F5069,Dairy,Milk,whole,,,62.7,1,4.3,0,-0.0278,Donnelly and Briggs,1986,,,-0.1148,-0.13271,,,,,,0.011287181,,-0.027140219
+Listeria,monocytogenes,19111,Dairy,Milk,whole,,,62.7,0.65,,-0.187086643,-0.0278,Donnelly and Briggs,1986,,,-0.1148,-0.13271,,,,,,0.011287181,,-0.027140219
+Listeria,monocytogenes,F5027,Dairy,Milk,whole,,,62.7,0.35,,-0.455931956,-0.0278,Donnelly and Briggs,1986,,,-0.1148,-0.13271,,,,,,0.011287181,,-0.027140219
+Listeria,monocytogenes,F5069,Dairy,Milk,whole,,,55,24,4.3,1.380211242,1.0656,Donnelly and Briggs,1986,,,1.0941,1.1016,,,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,F5069,Dairy,Milk,whole,,,65,0.1,4.3,-1,-0.3544,Donnelly and Briggs,1986,,,-0.4759,-0.5014,,,,,,-0.306287037,,-0.353717807
+Listeria,monocytogenes,F5069,Dairy,Milk,whole,,,62.9,0.6,,-0.22184875,-0.0562,Doyle et al.,2001,"Growth 37 ﾂｰC, aerobic",,-0.1462,-0.16477,,,,,,-0.016327968,,-0.05553827
+Listeria,monocytogenes,F5069,Dairy,Milk,whole,,,62.9,2.5,,0.397940009,-0.0562,Doyle et al.,2001,"Growth 37 ﾂｰC, anaerobic",,-0.1462,-0.16477,,,,,,-0.016327968,,-0.05553827
+Listeria,monocytogenes,F5069,Dairy,Milk,whole,,,62.9,1.53,,0.184691431,-0.0562,Doyle et al.,2001,"Growth 43 ﾂｰC, aerobic",,-0.1462,-0.16477,,,,,,-0.016327968,,-0.05553827
+Listeria,monocytogenes,F5069,Dairy,Milk,whole,,,62.9,4.05,,0.607455023,-0.0562,Doyle et al.,2001,"Growth 43 ﾂｰC, anaerobic",,-0.1462,-0.16477,,,,,,-0.016327968,,-0.05553827
+Listeria,monocytogenes,NCTC 98635S,Dairy,Milk,whole,,,56,9.6,5,0.982271233,0.9236,Doyle et al.,2001,Growth 37 ﾂｰC,,0.9371,0.9413,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,NCTC 98635S,Dairy,Milk,whole,,,60,1.5,5,0.176091259,0.3556,Doyle et al.,2001,Growth 37 ﾂｰC,,0.3091,0.3001,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,NCTC 98635S,Dairy,Milk,whole,,,62.9,0.4,5,-0.397940009,-0.0562,Doyle et al.,2001,Growth 37 ﾂｰC,,-0.1462,-0.16477,,,,,,-0.016327968,,-0.05553827
+Listeria,monocytogenes,NCTC 98635S,Dairy,Milk,whole,,,56,24.5,5.1,1.389166084,0.9236,Doyle et al.,2001,Growth 42.8 ﾂｰC,,0.9371,0.9413,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,NCTC 98635S,Dairy,Milk,whole,,,60,3.7,5.1,0.568201724,0.3556,Doyle et al.,2001,Growth 42.8 ﾂｰC,,0.3091,0.3001,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,NCTC 98635S,Dairy,Milk,whole,,,62.9,1.1,5.1,0.041392685,-0.0562,Doyle et al.,2001,Growth 42.8 ﾂｰC,,-0.1462,-0.16477,,,,,,-0.016327968,,-0.05553827
+Listeria,monocytogenes,NCTC 98635R,Dairy,Milk,whole,,,56,10.5,5,1.021189299,0.9236,Doyle et al.,2001,Growth 37 ﾂｰC,,0.9371,0.9413,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,NCTC 98635R,Dairy,Milk,whole,,,60,1.7,5,0.230448921,0.3556,Doyle et al.,2001,Growth 37 ﾂｰC,,0.3091,0.3001,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,NCTC 98635R,Dairy,Milk,whole,,,62.9,0.4,5,-0.397940009,-0.0562,Doyle et al.,2001,Growth 37 ﾂｰC,,-0.1462,-0.16477,,,,,,-0.016327968,,-0.05553827
+Listeria,monocytogenes,NCTC 98635R,Dairy,Milk,whole,,,56,29.1,5.2,1.463892989,0.9236,Doyle et al.,2001,Growth 42.8 ﾂｰC,,0.9371,0.9413,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,NCTC 98635R,Dairy,Milk,whole,,,60,4.4,5.2,0.643452676,0.3556,Doyle et al.,2001,Growth 42.8 ﾂｰC,,0.3091,0.3001,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,NCTC 98635R,Dairy,Milk,whole,,,62.9,1.4,5.2,0.146128036,-0.0562,Doyle et al.,2001,Growth 42.8 ﾂｰC,,-0.1462,-0.16477,,,,,,-0.016327968,,-0.05553827
+Listeria,monocytogenes,NCTC 11994S,Dairy,Milk,whole,,,56,10.1,5,1.004321374,0.9236,Doyle et al.,2001,Growth 37 ﾂｰC,,0.9371,0.9413,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,NCTC 11994S,Dairy,Milk,whole,,,60,1.5,5,0.176091259,0.3556,Doyle et al.,2001,Growth 37 ﾂｰC,,0.3091,0.3001,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,NCTC 11994S,Dairy,Milk,whole,,,62.9,0.4,5,-0.397940009,-0.0562,Doyle et al.,2001,Growth 37 ﾂｰC,,-0.1462,-0.16477,,,,,,-0.016327968,,-0.05553827
+Listeria,monocytogenes,NCTC 11994S,Dairy,Milk,whole,,,56,26.5,5.1,1.423245874,0.9236,Doyle et al.,2001,Growth 42.8 ﾂｰC,,0.9371,0.9413,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,NCTC 11994S,Dairy,Milk,whole,,,60,3.9,5.1,0.591064607,0.3556,Doyle et al.,2001,Growth 42.8 ﾂｰC,,0.3091,0.3001,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,NCTC 11994S,Dairy,Milk,whole,,,62.9,1.2,5.1,0.079181246,-0.0562,Doyle et al.,2001,Growth 42.8 ﾂｰC,,-0.1462,-0.16477,,,,,,-0.016327968,,-0.05553827
+Listeria,monocytogenes,NCTC 11994R,Dairy,Milk,whole,,,56,11.4,5.1,1.056904851,0.9236,Doyle et al.,2001,Growth 37 ﾂｰC,,0.9371,0.9413,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,NCTC 11994R,Dairy,Milk,whole,,,60,1.8,5.1,0.255272505,0.3556,Doyle et al.,2001,Growth 37 ﾂｰC,,0.3091,0.3001,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,NCTC 11994R,Dairy,Milk,whole,,,62.9,0.5,5.1,-0.301029996,-0.0562,Doyle et al.,2001,Growth 37 ﾂｰC,,-0.1462,-0.16477,,,,,,-0.016327968,,-0.05553827
+Listeria,monocytogenes,NCTC 11994R,Dairy,Milk,whole,,,56,31.5,5.2,1.498310554,0.9236,Doyle et al.,2001,Growth 42.8 ﾂｰC,,0.9371,0.9413,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,NCTC 11994R,Dairy,Milk,whole,,,60,4.8,5.2,0.681241237,0.3556,Doyle et al.,2001,Growth 42.8 ﾂｰC,,0.3091,0.3001,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,NCTC 11994R,Dairy,Milk,whole,,,62.9,1.4,5.2,0.146128036,-0.0562,Doyle et al.,2001,Growth 42.8 ﾂｰC,,-0.1462,-0.16477,,,,,,-0.016327968,,-0.05553827
+Listeria,monocytogenes,F5069,Dairy,Milk,whole,,,71.7,0.05,,-1.301029996,-1.3058,Doyle et al.,2001,,,-1.5278,-1.57541,,,,,,-1.231394542,,-1.305052518
+Listeria,monocytogenes,F5069,Dairy,Milk,whole,,,71.7,0.077,,-1.113509275,-1.3058,Doyle et al.,2001,"Heat shock, 15 min 48 ﾂｰC",,-1.5278,-1.57541,,,,,,-1.231394542,,-1.305052518
+Listeria,monocytogenes,V7; F6861,Dairy,Milk,whole,,,57.9,2.45,,0.389166084,0.6538,Doyle et al.,2001,,,0.6388,0.63673,,,,,,0.674050767,,0.654413007
+Listeria,monocytogenes,V7; F6861,Dairy,Milk,whole,,,57.9,3,,0.477121255,0.6538,Doyle et al.,2001,"Acid shock, 24h",,0.6388,0.63673,,,,,,0.674050767,,0.654413007
+Listeria,monocytogenes,V7; F6861,Dairy,Milk,whole,,,57.9,2.17,,0.336459734,0.6538,Doyle et al.,2001,,,0.6388,0.63673,,,,,,0.674050767,,0.654413007
+Listeria,monocytogenes,V7; F6861,Dairy,Milk,whole,,,57.9,2.66,,0.424881637,0.6538,Doyle et al.,2001,"Acid shock, 4h",,0.6388,0.63673,,,,,,0.674050767,,0.654413007
+Listeria,monocytogenes,V7; F6861,Dairy,Milk,whole,,,57.9,2.75,,0.439332694,0.6538,Doyle et al.,2001,,,0.6388,0.63673,,,,,,0.674050767,,0.654413007
+Listeria,monocytogenes,V7; F6861,Dairy,Milk,whole,,,57.9,3.9,,0.591064607,0.6538,Doyle et al.,2001,"Acid shock, instantly",,0.6388,0.63673,,,,,,0.674050767,,0.654413007
+Listeria,monocytogenes,Scott A,Dairy,Milk,whole,,,52.2,30.2,,1.480006943,1.4632,Doyle et al.,2001,,,1.5337,1.55044,,,,,,1.461082525,,1.463757462
+Listeria,monocytogenes,Scott A,Dairy,Milk,whole,,,55.2,8.2,,0.913813852,1.0372,Doyle et al.,2001,,,1.0627,1.06954,,,,,,1.046855284,,1.037786696
+Listeria,monocytogenes,Scott A,Dairy,Milk,whole,,,57.9,2.3,,0.361727836,0.6538,Doyle et al.,2001,,,0.6388,0.63673,,,,,,0.674050767,,0.654413007
+Listeria,monocytogenes,Scott A,Dairy,Milk,whole,,,52.2,29.4,,1.46834733,1.4632,Doyle et al.,2001,with H2O2,,1.5337,1.55044,,,,,,1.461082525,,1.463757462
+Listeria,monocytogenes,Scott A,Dairy,Milk,whole,,,55.2,11.1,,1.045322979,1.0372,Doyle et al.,2001,with H2O2,,1.0627,1.06954,,,,,,1.046855284,,1.037786696
+Listeria,monocytogenes,Scott A,Dairy,Milk,whole,,,57.9,2.6,,0.414973348,0.6538,Doyle et al.,2001,with H2O2,,0.6388,0.63673,,,,,,0.674050767,,0.654413007
+Listeria,monocytogenes,Scott A,Dairy,Milk,whole,,,52.2,10.7,,1.029383778,1.4632,Doyle et al.,2001,with lactoperoxidase,,1.5337,1.55044,,,,,,1.461082525,,1.463757462
+Listeria,monocytogenes,Scott A,Dairy,Milk,whole,,,55.2,1.6,,0.204119983,1.0372,Doyle et al.,2001,with lactoperoxidase,,1.0627,1.06954,,,,,,1.046855284,,1.037786696
+Listeria,monocytogenes,Scott A,Dairy,Milk,whole,,,57.9,0.5,,-0.301029996,0.6538,Doyle et al.,2001,with lactoperoxidase,,0.6388,0.63673,,,,,,0.674050767,,0.654413007
+Listeria,monocytogenes,,Dairy,Milk,"whole and skim, pasteurized",,,62.7,0.35,,-0.455931956,-0.0278,ICMSF,1996,,,-0.1148,-0.13271,,,,,,0.011287181,,-0.027140219
+Listeria,monocytogenes,,Dairy,Milk,"whole and skim, pasteurized",,,62.7,1,,0,-0.0278,ICMSF,1996,,,-0.1148,-0.13271,,,,,,0.011287181,,-0.027140219
+Listeria,monocytogenes,,Dairy,Milk,"whole, commercially sterile",,,52.2,36.83,6.6,1.566201719,1.4632,ICMSF,1996,,,1.5337,1.55044,,,,,,1.461082525,,1.463757462
+Listeria,monocytogenes,,Dairy,Milk,"whole, commercially sterile",,,57.8,4.97,6.6,0.696356389,0.668,ICMSF,1996,,,0.6545,0.65276,,,,,,0.687858341,,0.668612032
+Listeria,monocytogenes,,Dairy,Milk,"whole, commercially sterile",,,66.1,0.231666667,6.6,-0.63513645,-0.5106,ICMSF,1996,,,-0.6486,-0.67773,,,,,,-0.458170359,,-0.509907088
+Listeria,monocytogenes,,Dairy,Milk,"whole, commercially sterile",,,68.9,0.096666667,6.6,-1.014723257,-0.9082,ICMSF,1996,,,-1.0882,-1.12657,,,,,,-0.84478245,,-0.907479803
+Listeria,monocytogenes,,Dairy,Milk,"whole, commercially sterile",,,71.7,0.045,6.6,-1.346787486,-1.3058,ICMSF,1996,,,-1.5278,-1.57541,,,,,,-1.231394542,,-1.305052518
+Listeria,monocytogenes,,Dairy,Milk,"whole, homogenate",,,62.8,0.6,,-0.22184875,-0.042,ICMSF,1996,,,-0.1305,-0.14874,,,,,,-0.002520394,,-0.041339245
+Listeria,monocytogenes,,Dairy,Milk,"whole, homogenate",,,62.8,4.05,,0.607455023,-0.042,ICMSF,1996,,,-0.1305,-0.14874,,,,,,-0.002520394,,-0.041339245
+Listeria,monocytogenes,BS-9,Dairy,Milk,"whole, raw",,,57.9,7.26,5.8,0.860936621,0.6538,Doyle et al.,2001,,,0.6388,0.63673,,,,,,0.674050767,,0.654413007
+Listeria,monocytogenes,BS-9,Dairy,Milk,"whole, raw",,,63.15,0.65,5.8,-0.187086643,-0.0917,Doyle et al.,2001,,,-0.18545,-0.20484,,,,,,-0.050846905,,-0.091035834
+Listeria,monocytogenes,BS-9,Dairy,Milk,"whole, raw",,,68.9,0.055,5.8,-1.259637311,-0.9082,Doyle et al.,2001,,,-1.0882,-1.12657,,,,,,-0.84478245,,-0.907479803
+Listeria,monocytogenes,SE-31,Dairy,Milk,"whole, raw",,,57.9,8.81,5.3,0.944975908,0.6538,Doyle et al.,2001,,,0.6388,0.63673,,,,,,0.674050767,,0.654413007
+Listeria,monocytogenes,SE-31,Dairy,Milk,"whole, raw",,,63.15,0.77,5.3,-0.113509275,-0.0917,Doyle et al.,2001,,,-0.18545,-0.20484,,,,,,-0.050846905,,-0.091035834
+Listeria,monocytogenes,SE-31,Dairy,Milk,"whole, raw",,,68.9,0.047,5.3,-1.327902142,-0.9082,Doyle et al.,2001,,,-1.0882,-1.12657,,,,,,-0.84478245,,-0.907479803
+Listeria,monocytogenes,,Dairy,Milk,"whole, raw",,,52.2,28.06,6.3,1.448087667,1.4632,ICMSF,1996,,,1.5337,1.55044,,,,,,1.461082525,,1.463757462
+Listeria,monocytogenes,,Dairy,Milk,"whole, raw",,,57.8,4.83,6.3,0.683947131,0.668,ICMSF,1996,,,0.6545,0.65276,,,,,,0.687858341,,0.668612032
+Listeria,monocytogenes,,Dairy,Milk,"whole, raw",,,63.3,0.331666667,6.3,-0.479298174,-0.113,ICMSF,1996,,,-0.209,-0.22889,,,,,,-0.071558267,,-0.112334372
+Listeria,monocytogenes,,Dairy,Milk,"whole, raw",,,66.1,0.121666667,6.3,-0.91482839,-0.5106,ICMSF,1996,,,-0.6486,-0.67773,,,,,,-0.458170359,,-0.509907088
+Listeria,monocytogenes,,Dairy,Milk,"whole, raw",,,68.9,0.05,6.3,-1.301029996,-0.9082,ICMSF,1996,,,-1.0882,-1.12657,,,,,,-0.84478245,,-0.907479803
+Listeria,monocytogenes,,Dairy,Milk,"whole, raw",,,71.7,0.015,6.3,-1.823908741,-1.3058,ICMSF,1996,,,-1.5278,-1.57541,,,,,,-1.231394542,,-1.305052518
+Listeria,monocytogenes,Scott A,Dairy,Milk,"whole, sterile",,,57.9,4.8,7,0.681241237,0.6538,Doyle et al.,2001,,,0.6388,0.63673,,,,,,0.674050767,,0.654413007
+Listeria,monocytogenes,Scott A,Dairy,Milk,"whole, sterile",,,63.15,0.84,7,-0.075720714,-0.0917,Doyle et al.,2001,,,-0.18545,-0.20484,,,,,,-0.050846905,,-0.091035834
+Listeria,monocytogenes,Scott A,Dairy,Milk,"whole, sterile",,,68.9,0.12,7,-0.920818754,-0.9082,Doyle et al.,2001,,,-1.0882,-1.12657,,,,,,-0.84478245,,-0.907479803
+Listeria,monocytogenes,BS-9,Dairy,Milk,"whole, sterile",,,57.9,6.8,6.7,0.832508913,0.6538,Doyle et al.,2001,,,0.6388,0.63673,,,,,,0.674050767,,0.654413007
+Listeria,monocytogenes,BS-9,Dairy,Milk,"whole, sterile",,,63.15,1.13,6.7,0.053078443,-0.0917,Doyle et al.,2001,,,-0.18545,-0.20484,,,,,,-0.050846905,,-0.091035834
+Listeria,monocytogenes,BS-9,Dairy,Milk,"whole, sterile",,,68.9,0.152,6.7,-0.818156412,-0.9082,Doyle et al.,2001,,,-1.0882,-1.12657,,,,,,-0.84478245,,-0.907479803
+Listeria,monocytogenes,SE-31,Dairy,Milk,"whole, sterile",,,57.9,7.34,6.8,0.86569606,0.6538,Doyle et al.,2001,,,0.6388,0.63673,,,,,,0.674050767,,0.654413007
+Listeria,monocytogenes,SE-31,Dairy,Milk,"whole, sterile",,,63.15,0.83,6.8,-0.080921908,-0.0917,Doyle et al.,2001,,,-0.18545,-0.20484,,,,,,-0.050846905,,-0.091035834
+Listeria,monocytogenes,SE-31,Dairy,Milk,"whole, sterile",,,68.9,0.103,6.8,-0.987162775,-0.9082,Doyle et al.,2001,,,-1.0882,-1.12657,,,,,,-0.84478245,,-0.907479803
+Listeria,monocytogenes,V7; F6861,Dairy,Milk,"whole, sterile",,,57.9,2.2,,0.342422681,0.6538,Doyle et al.,2001,,,0.6388,0.63673,,,,,,0.674050767,,0.654413007
+Listeria,monocytogenes,V7; F6861,Dairy,Milk,"whole, sterile",,,57.9,2.75,,0.439332694,0.6538,Doyle et al.,2001,,,0.6388,0.63673,,,,,,0.674050767,,0.654413007
+Listeria,monocytogenes,ATCC 19111,Dairy,Milk,"whole, sterile",,,62.75,0.65,,-0.187086643,-0.0349,Doyle et al.,2001,,,-0.12265,-0.14073,,,,,,0.004383394,,-0.034239732
+Listeria,monocytogenes,ATCC 19113,Dairy,Milk,"whole, sterile",,,62.75,0.4,,-0.397940009,-0.0349,Doyle et al.,2001,,,-0.12265,-0.14073,,,,,,0.004383394,,-0.034239732
+Listeria,monocytogenes,ATCC 19115,Dairy,Milk,"whole, sterile",,,62.75,0.4,,-0.397940009,-0.0349,Doyle et al.,2001,,,-0.12265,-0.14073,,,,,,0.004383394,,-0.034239732
+Listeria,monocytogenes,F5027,Dairy,Milk,"whole, sterile",,,62.75,0.35,,-0.455931956,-0.0349,Doyle et al.,2001,,,-0.12265,-0.14073,,,,,,0.004383394,,-0.034239732
+Listeria,monocytogenes,F5069,Dairy,Milk,"whole, sterile",,,55.1,24,4.3,1.380211242,1.0514,Doyle et al.,2001,,,1.0784,1.08557,,,,,,1.060662858,,1.051985722
+Listeria,monocytogenes,F5069,Dairy,Milk,"whole, sterile",,,62.75,1,4.3,0,-0.0349,Doyle et al.,2001,,,-0.12265,-0.14073,,,,,,0.004383394,,-0.034239732
+Listeria,monocytogenes,F5069,Dairy,Milk,"whole, sterile",,,71.7,0.05,4.3,-1.301029996,-1.3058,Doyle et al.,2001,,,-1.5278,-1.57541,,,,,,-1.231394542,,-1.305052518
+Listeria,monocytogenes,F5069,Dairy,Milk,"whole, sterile",,,62.75,0.6,,-0.22184875,-0.0349,Doyle et al.,2001,,,-0.12265,-0.14073,,,,,,0.004383394,,-0.034239732
+Listeria,monocytogenes,F5069,Dairy,Milk,"whole, sterile",,,71.7,0.05,,-1.301029996,-1.3058,Doyle et al.,2001,,,-1.5278,-1.57541,,,,,,-1.231394542,,-1.305052518
+Listeria,monocytogenes,F5069,Dairy,Milk,"whole, sterile",,,57.9,5.52,7.3,0.741939078,0.6538,Doyle et al.,2001,,,0.6388,0.63673,,,,,,0.674050767,,0.654413007
+Listeria,monocytogenes,F5069,Dairy,Milk,"whole, sterile",,,62.75,0.64,7.3,-0.193820026,-0.0349,Doyle et al.,2001,,,-0.12265,-0.14073,,,,,,0.004383394,,-0.034239732
+Listeria,monocytogenes,F5069,Dairy,Milk,"whole, sterile",,,66.1,0.28,7.3,-0.552841969,-0.5106,Doyle et al.,2001,,,-0.6486,-0.67773,,,,,,-0.458170359,,-0.509907088
+Listeria,monocytogenes,F5069,Dairy,Milk,"whole, sterile",,,66.1,0.3,7.3,-0.522878745,-0.5106,Doyle et al.,2001,,,-0.6486,-0.67773,,,,,,-0.458170359,,-0.509907088
+Listeria,monocytogenes,F5069,Dairy,Milk,"whole, sterile",,,68.9,0.085,7.3,-1.070581074,-0.9082,Doyle et al.,2001,,,-1.0882,-1.12657,,,,,,-0.84478245,,-0.907479803
+Listeria,monocytogenes,F5069,Dairy,Milk,"whole, sterile",,,68.9,0.14,7.3,-0.853871964,-0.9082,Doyle et al.,2001,,,-1.0882,-1.12657,,,,,,-0.84478245,,-0.907479803
+Listeria,monocytogenes,F5069,Dairy,Milk,"whole, sterile",,,57.9,7.16,5.6,0.854913022,0.6538,Doyle et al.,2001,intracellular,,0.6388,0.63673,,,,,,0.674050767,,0.654413007
+Listeria,monocytogenes,F5069,Dairy,Milk,"whole, sterile",,,62.75,0.92,5.6,-0.036212173,-0.0349,Doyle et al.,2001,intracellular,,-0.12265,-0.14073,,,,,,0.004383394,,-0.034239732
+Listeria,monocytogenes,F5069,Dairy,Milk,"whole, sterile",,,66.1,0.28,5.6,-0.552841969,-0.5106,Doyle et al.,2001,intracellular,,-0.6486,-0.67773,,,,,,-0.458170359,,-0.509907088
+Listeria,monocytogenes,F5069,Dairy,Milk,"whole, sterile",,,66.1,0.3,5.6,-0.522878745,-0.5106,Doyle et al.,2001,intracellular,,-0.6486,-0.67773,,,,,,-0.458170359,,-0.509907088
+Listeria,monocytogenes,F5069,Dairy,Milk,"whole, sterile",,,68.9,0.065,5.6,-1.187086643,-0.9082,Doyle et al.,2001,intracellular,,-1.0882,-1.12657,,,,,,-0.84478245,,-0.907479803
+Listeria,monocytogenes,F5069,Dairy,Milk,"whole, sterile",,,68.9,0.15,5.6,-0.823908741,-0.9082,Doyle et al.,2001,intracellular,,-1.0882,-1.12657,,,,,,-0.84478245,,-0.907479803
+Listeria,monocytogenes,NCTC 98635S,Dairy,Milk,"whole, sterile",,,56,9.6,5,0.982271233,0.9236,Doyle et al.,2001,,,0.9371,0.9413,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,NCTC 98635S,Dairy,Milk,"whole, sterile",,,60,1.5,5,0.176091259,0.3556,Doyle et al.,2001,,,0.3091,0.3001,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,NCTC 98635S,Dairy,Milk,"whole, sterile",,,63.15,0.4,5,-0.397940009,-0.0917,Doyle et al.,2001,,,-0.18545,-0.20484,,,,,,-0.050846905,,-0.091035834
+Listeria,monocytogenes,NCTC 98635R,Dairy,Milk,"whole, sterile",,,56,10.5,5,1.021189299,0.9236,Doyle et al.,2001,,,0.9371,0.9413,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,NCTC 98635R,Dairy,Milk,"whole, sterile",,,60,1.7,5,0.230448921,0.3556,Doyle et al.,2001,,,0.3091,0.3001,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,NCTC 98635R,Dairy,Milk,"whole, sterile",,,63.15,0.4,5,-0.397940009,-0.0917,Doyle et al.,2001,,,-0.18545,-0.20484,,,,,,-0.050846905,,-0.091035834
+Listeria,monocytogenes,NCTC 11994S,Dairy,Milk,"whole, sterile",,,56,10.1,5,1.004321374,0.9236,Doyle et al.,2001,,,0.9371,0.9413,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,NCTC 11994S,Dairy,Milk,"whole, sterile",,,60,1.5,5,0.176091259,0.3556,Doyle et al.,2001,,,0.3091,0.3001,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,NCTC 11994S,Dairy,Milk,"whole, sterile",,,63.15,0.4,5,-0.397940009,-0.0917,Doyle et al.,2001,,,-0.18545,-0.20484,,,,,,-0.050846905,,-0.091035834
+Listeria,monocytogenes,NCTC 11994R,Dairy,Milk,"whole, sterile",,,56,11.4,5.1,1.056904851,0.9236,Doyle et al.,2001,,,0.9371,0.9413,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,NCTC 11994R,Dairy,Milk,"whole, sterile",,,60,1.8,5.1,0.255272505,0.3556,Doyle et al.,2001,,,0.3091,0.3001,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,NCTC 11994R,Dairy,Milk,"whole, sterile",,,63.15,0.5,5.1,-0.301029996,-0.0917,Doyle et al.,2001,,,-0.18545,-0.20484,,,,,,-0.050846905,,-0.091035834
+Listeria,monocytogenes,,Dairy,Milk,"whole, sterile",,,52.2,24.08,6.5,1.381656483,1.4632,ICMSF,1996,,,1.5337,1.55044,,,,,,1.461082525,,1.463757462
+Listeria,monocytogenes,,Dairy,Milk,"whole, sterile",,,57.8,4.26,6.5,0.629409599,0.668,ICMSF,1996,,,0.6545,0.65276,,,,,,0.687858341,,0.668612032
+Listeria,monocytogenes,,Dairy,Milk,"whole, sterile",,,63.3,0.581666667,6.5,-0.235325823,-0.113,ICMSF,1996,,,-0.209,-0.22889,,,,,,-0.071558267,,-0.112334372
+Listeria,monocytogenes,,Dairy,Milk,"whole, sterile",,,66.1,0.165,6.5,-0.782516056,-0.5106,ICMSF,1996,,,-0.6486,-0.67773,,,,,,-0.458170359,,-0.509907088
+Listeria,monocytogenes,,Dairy,Milk,"whole, sterile",,,68.9,0.053333333,6.5,-1.273001272,-0.9082,ICMSF,1996,,,-1.0882,-1.12657,,,,,,-0.84478245,,-0.907479803
+Listeria,monocytogenes,,Dairy,Milk,"whole, sterile",,,71.7,0.033333333,6.5,-1.477121255,-1.3058,ICMSF,1996,,,-1.5278,-1.57541,,,,,,-1.231394542,,-1.305052518
+Listeria,monocytogenes,,Dairy,Milk,"whole, sterile",,,71.7,0.083333333,,-1.079181246,-1.3058,ICMSF,1996,,,-1.5278,-1.57541,,,,,,-1.231394542,,-1.305052518
+Listeria,monocytogenes,,Dairy,Milk,"whole, sterile",,,71.7,0.051666667,,-1.286789557,-1.3058,ICMSF,1996,,,-1.5278,-1.57541,,,,,,-1.231394542,,-1.305052518
+Listeria,monocytogenes,,Dairy,Milk,"whole, sterile",,,71.7,0.05,,-1.301029996,-1.3058,ICMSF,1996,,,-1.5278,-1.57541,,,,,,-1.231394542,,-1.305052518
+Listeria,monocytogenes,,Dairy,Milk,"whole, sterile",,,71.7,0.076666667,,-1.115393419,-1.3058,ICMSF,1996,,,-1.5278,-1.57541,,,,,,-1.231394542,,-1.305052518
+Listeria,monocytogenes,,Dairy,Milk,"whole, sterile",,,74.4,0.025,,-1.602059991,-1.6892,ICMSF,1996,,,-1.9517,-2.00822,,,,,,-1.604199059,,-1.688426207
+Listeria,monocytogenes,,Dairy,Milk,"whole, sterile",,,74.4,0.018333333,,-1.736758565,-1.6892,ICMSF,1996,,,-1.9517,-2.00822,,,,,,-1.604199059,,-1.688426207
+Listeria,monocytogenes,,Dairy,Milk,,,,71.7,0.015,,-1.823908741,-1.3058,Gormley,1990,,,-1.5278,-1.57541,,,,,,-1.231394542,,-1.305052518
+Listeria,monocytogenes,O57,Fish,Cod,,,,57.6,6.18,6.1,0.790988475,0.6964,Doyle et al.,2001,,,,,,,,,,0.715473491,,0.697010083
+Listeria,monocytogenes,O57,Fish,Cod,,,,60,1.95,6.1,0.290034611,0.3556,Doyle et al.,2001,,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,O57,Fish,Cod,,,,65.5,0.27,6.1,-0.568636236,-0.4254,Doyle et al.,2001,,,,,,,,,,-0.37532491,,-0.424712934
+Listeria,monocytogenes,O62,Fish,Cod,,,,57.6,7.28,5.7,0.862131379,0.6964,Doyle et al.,2001,,,,,,,,,,0.715473491,,0.697010083
+Listeria,monocytogenes,O62,Fish,Cod,,,,60,1.98,5.7,0.29666519,0.3556,Doyle et al.,2001,,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,O62,Fish,Cod,,,,62,0.87,5.7,-0.060480747,0.0716,Doyle et al.,2001,,,,,,,,,,0.107940204,,0.07225296
+Listeria,monocytogenes,O62,Fish,Cod,,,,65.5,0.28,5.7,-0.552841969,-0.4254,Doyle et al.,2001,,,,,,,,,,-0.37532491,,-0.424712934
+Listeria,monocytogenes,,Fish,Crabmeat,imitation,,,57.6,9.7,5.7,0.986771734,0.6964,Doyle et al.,2001,,,,,,,,,,0.715473491,,0.697010083
+Listeria,monocytogenes,,Fish,Crabmeat,imitation,,,62,2.1,5.7,0.322219295,0.0716,Doyle et al.,2001,,,,,,,,,,0.107940204,,0.07225296
+Listeria,monocytogenes,,Fish,Crabmeat,imitation,,,65.5,0.4,5.7,-0.397940009,-0.4254,Doyle et al.,2001,,,,,,,,,,-0.37532491,,-0.424712934
+Listeria,monocytogenes,Scott A,Fish,Crabmeat,,,,55,12,8.4,1.079181246,1.0656,Doyle et al.,2001,,,,,,,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,Scott A,Fish,Crabmeat,,,,60,2.61,8.4,0.416640507,0.3556,Doyle et al.,2001,,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Fish,Crawfish,"cooked, tail meat",,,55,10.23,5.5,1.009875634,1.0656,Doyle et al.,2001,,,,,,,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,,Fish,Crawfish,"cooked, tail meat",,,60,1.98,5.5,0.29666519,0.3556,Doyle et al.,2001,,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Fish,Crawfish,"cooked, tail meat",,,65.5,0.19,5.5,-0.721246399,-0.4254,Doyle et al.,2001,,,,,,,,,,-0.37532491,,-0.424712934
+Listeria,monocytogenes,,Fish,Crawfish,tail meat,,,55,10.23,,1.009875634,1.0656,ICMSF,1996,"27 ﾂｰC, overnight",,,,,,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,,Fish,Crawfish,tail meat,,,60,1.98,,0.29666519,0.3556,ICMSF,1996,"27 ﾂｰC, overnight",,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Fish,Crawfish,tail meat,,,65,0.19,,-0.721246399,-0.3544,ICMSF,1996,"27 ﾂｰC, overnight",,,,,,,,,-0.306287037,,-0.353717807
+Listeria,monocytogenes,,Fish,Lobster,meat,,,51.6,97,,1.986771734,1.5484,ICMSF,1996,"35 ﾂｰC, 24h",,,,,,,,,1.543927973,,1.548951616
+Listeria,monocytogenes,,Fish,Lobster,meat,,,54.4,55,,1.740362689,1.1508,ICMSF,1996,"35 ﾂｰC, 24h",,,,,,,,,1.157315881,,1.151378901
+Listeria,monocytogenes,,Fish,Lobster,meat,,,57.2,8.3,,0.919078092,0.7532,ICMSF,1996,"35 ﾂｰC, 24h",,,,,,,,,0.77070379,,0.753806185
+Listeria,monocytogenes,,Fish,Lobster,meat,,,60,2.39,,0.378397901,0.3556,ICMSF,1996,"35 ﾂｰC, 24h",,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Fish,Lobster,meat,,,62.7,1.06,,0.025305865,-0.0278,ICMSF,1996,"35 ﾂｰC, 24h",,,,,,,,,0.011287181,,-0.027140219
+Listeria,monocytogenes,,Fish,Lobster,,,,51.6,97,5,1.986771734,1.5484,Doyle et al.,2001,,,,,,,,,,1.543927973,,1.548951616
+Listeria,monocytogenes,,Fish,Lobster,,,,54.2,55,5,1.740362689,1.1792,Doyle et al.,2001,,,,,,,,,,1.184931031,,1.179776952
+Listeria,monocytogenes,,Fish,Lobster,,,,57.6,8.3,5,0.919078092,0.6964,Doyle et al.,2001,,,,,,,,,,0.715473491,,0.697010083
+Listeria,monocytogenes,,Fish,Lobster,,,,60,2.39,5,0.378397901,0.3556,Doyle et al.,2001,,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Fish,Mussels,"heated, brined",,,54.2,111.1,4.25,2.045714059,1.1792,Doyle et al.,2001,,,,,,,,,,1.184931031,,1.179776952
+Listeria,monocytogenes,,Fish,Mussels,"heated, brined",,,57.6,19.84,4.25,1.297541668,0.6964,Doyle et al.,2001,,,,,,,,,,0.715473491,,0.697010083
+Listeria,monocytogenes,,Fish,Mussels,"heated, brined",,,60,6.3,4.25,0.799340549,0.3556,Doyle et al.,2001,,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Fish,Mussels,"heated, brined",,,62,1.69,4.25,0.227886705,0.0716,Doyle et al.,2001,,,,,,,,,,0.107940204,,0.07225296
+Listeria,monocytogenes,O57,Fish,Salmon,,,,57.6,8.48,6.7,0.928395852,0.6964,Doyle et al.,2001,,,,,,,,,,0.715473491,,0.697010083
+Listeria,monocytogenes,O57,Fish,Salmon,,,,60,4.23,6.7,0.626340367,0.3556,Doyle et al.,2001,,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,O57,Fish,Salmon,,,,62,3.02,6.7,0.480006943,0.0716,Doyle et al.,2001,,,,,,,,,,0.107940204,,0.07225296
+Listeria,monocytogenes,O57,Fish,Salmon,,,,65.5,1.18,6.7,0.071882007,-0.4254,Doyle et al.,2001,,,,,,,,,,-0.37532491,,-0.424712934
+Listeria,monocytogenes,O62,Fish,Salmon,,,,57.6,10.73,5.6,1.030599722,0.6964,Doyle et al.,2001,,,,,,,,,,0.715473491,,0.697010083
+Listeria,monocytogenes,O62,Fish,Salmon,,,,60,4.48,5.6,0.651278014,0.3556,Doyle et al.,2001,,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,O62,Fish,Salmon,,,,62,2.07,5.6,0.315970345,0.0716,Doyle et al.,2001,,,,,,,,,,0.107940204,,0.07225296
+Listeria,monocytogenes,O62,Fish,Salmon,,,,65.5,0.87,5.6,-0.060480747,-0.4254,Doyle et al.,2001,,,,,,,,,,-0.37532491,,-0.424712934
+Listeria,monocytogenes,,Liquids,Apple,juice,,3.9,56,1.59,6.3,0.201397124,0.9236,Mazzotta,2001,Stationary phase cells,,,,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,,Liquids,Apple,juice,,3.9,60,0.45,6.3,-0.346787486,0.3556,Mazzotta,2001,Stationary phase cells,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Liquids,Apple,juice,,3.9,62,0.17,6.3,-0.769551079,0.0716,Mazzotta,2001,Stationary phase cells,,,,,,,,,0.107940204,,0.07225296
+Listeria,monocytogenes,,Liquids,Apple,juice,,3.9,56,5,5.6,0.698970004,0.9236,Mazzotta,2001,Acid adapted cells,,,,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,,Liquids,Apple,juice,,3.9,60,0.9,5.6,-0.045757491,0.3556,Mazzotta,2001,Acid adapted cells,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Liquids,Apple,juice,,3.9,62,0.43,5.6,-0.366531544,0.0716,Mazzotta,2001,Acid adapted cells,,,,,,,,,0.107940204,,0.07225296
+Listeria,monocytogenes,,Liquids,Grape (white),juice,,3.9,56,2.29,6.6,0.359835482,0.9236,Mazzotta,2001,Stationary phase cells,,,,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,,Liquids,Grape (white),juice,,3.9,60,0.59,6.6,-0.229147988,0.3556,Mazzotta,2001,Stationary phase cells,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Liquids,Grape (white),juice,,3.9,62,0.29,6.6,-0.537602002,0.0716,Mazzotta,2001,Stationary phase cells,,,,,,,,,0.107940204,,0.07225296
+Listeria,monocytogenes,,Liquids,Grape (white),juice,,3.9,56,4.59,6.3,0.661812686,0.9236,Mazzotta,2001,Acid adapted cells,,,,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,,Liquids,Grape (white),juice,,3.9,60,1.38,6.3,0.139879086,0.3556,Mazzotta,2001,Acid adapted cells,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Liquids,Grape (white),juice,,3.9,62,0.48,6.3,-0.318758763,0.0716,Mazzotta,2001,Acid adapted cells,,,,,,,,,0.107940204,,0.07225296
+Listeria,monocytogenes,,Liquids,Orange,juice,,3.9,56,2.05,6,0.311753861,0.9236,Mazzotta,2001,Stationary phase cells,,,,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,,Liquids,Orange,juice,,3.9,60,0.43,6,-0.366531544,0.3556,Mazzotta,2001,Stationary phase cells,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Liquids,Orange,juice,,3.9,62,0.21,6,-0.677780705,0.0716,Mazzotta,2001,Stationary phase cells,,,,,,,,,0.107940204,,0.07225296
+Listeria,monocytogenes,,Liquids,Orange,juice,,3.9,56,3.83,5.9,0.583198774,0.9236,Mazzotta,2001,Acid adapted cells,,,,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,,Liquids,Orange,juice,,3.9,60,0.67,5.9,-0.173925197,0.3556,Mazzotta,2001,Acid adapted cells,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Liquids,Orange,juice,,3.9,62,0.38,5.9,-0.420216403,0.0716,Mazzotta,2001,Acid adapted cells,,,,,,,,,0.107940204,,0.07225296
+Listeria,monocytogenes,Scott A,Meat,Beef,+1.5M NaCl,,,60,3.98,,0.599883072,0.3556,Doyle et al.,2001,Cells grown in 0.09M NaCl,,,,0.4828,0.4656,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Meat,Beef,+1.5M NaCl,,,60,10.8,,1.033423755,0.3556,Doyle et al.,2001,Cells grown in 1.5M NaCl,,,,0.4828,0.4656,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Meat,Beef,2% fat,,,51.7,81.3,5.17,1.910090546,1.5342,Doyle et al.,2001,,,,,1.5784,1.36366,,,,1.530120398,,1.53475259
+Listeria,monocytogenes,Scott A,Meat,Beef,2% fat,,,57.2,2.6,5.17,0.414973348,0.7532,Doyle et al.,2001,,,,,0.8524,0.76856,,,,0.77070379,,0.753806185
+Listeria,monocytogenes,Scott A,Meat,Beef,2% fat,,,62.8,0.6,5.17,-0.22184875,-0.042,Doyle et al.,2001,,,,,0.1132,0.16264,,,,-0.002520394,,-0.041339245
+Listeria,monocytogenes,NCTC 11994,Meat,Beef,2.35% fat,,,50,36.1,4.9,1.557507202,1.7756,Doyle et al.,2001,,,,,1.8028,1.5476,,,,1.764849168,,1.776136024
+Listeria,monocytogenes,NCTC 11994,Meat,Beef,2.35% fat,,,55,3.53,4.9,0.547774705,1.0656,Doyle et al.,2001,,,,,1.1428,1.0066,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,NCTC 11994,Meat,Beef,2.35% fat,,,60,0.33,4.9,-0.48148606,0.3556,Doyle et al.,2001,,,,,0.4828,0.4656,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,NCTC 11994,Meat,Beef,2.35% fat,,,50,43.5,4.4,1.638489257,1.7756,Doyle et al.,2001,,,,,1.8028,1.5476,,,,1.764849168,,1.776136024
+Listeria,monocytogenes,NCTC 11994,Meat,Beef,2.35% fat,,,55,3.14,4.4,0.496929648,1.0656,Doyle et al.,2001,,,,,1.1428,1.0066,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,NCTC 11994,Meat,Beef,2.35% fat,,,60,0.24,4.4,-0.619788758,0.3556,Doyle et al.,2001,,,,,0.4828,0.4656,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Meat,Beef,20% fat,,,54.4,22.4,7.9,1.350248018,1.1508,Doyle et al.,2001,,,,,1.222,1.07152,,,,1.157315881,,1.151378901
+Listeria,monocytogenes,,Meat,Beef,20% fat,,,57.2,15.7,7.9,1.195899652,0.7532,Doyle et al.,2001,,,,,0.8524,0.76856,,,,0.77070379,,0.753806185
+Listeria,monocytogenes,,Meat,Beef,20% fat,,,60,4.47,7.9,0.650307523,0.3556,Doyle et al.,2001,,,,,0.4828,0.4656,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Meat,Beef,20% fat,,,62.8,2.56,7.9,0.408239965,-0.042,Doyle et al.,2001,,,,,0.1132,0.16264,,,,-0.002520394,,-0.041339245
+Listeria,monocytogenes,,Meat,Beef,20% fat,,,54.4,12.5,7.9,1.096910013,1.1508,Doyle et al.,2001,,,,,1.222,1.07152,,,,1.157315881,,1.151378901
+Listeria,monocytogenes,,Meat,Beef,20% fat,,,57.2,3.41,7.9,0.532754379,0.7532,Doyle et al.,2001,,,,,0.8524,0.76856,,,,0.77070379,,0.753806185
+Listeria,monocytogenes,,Meat,Beef,20% fat,,,60,1.62,7.9,0.209515015,0.3556,Doyle et al.,2001,,,,,0.4828,0.4656,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Meat,Beef,20% fat,,,62.8,0.73,7.9,-0.13667714,-0.042,Doyle et al.,2001,,,,,0.1132,0.16264,,,,-0.002520394,,-0.041339245
+Listeria,monocytogenes,NCTC 11994,Meat,Beef,3.1% fat,,7.2,55,2.94,,0.46834733,1.0656,Doyle et al.,2001,,,,,1.1428,1.0066,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,NCTC 11994,Meat,Beef,3.1% fat,,5.7,55,3.93,,0.59439255,1.0656,Doyle et al.,2001,,,,,1.1428,1.0066,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,NCTC 11994,Meat,Beef,3.1% fat+2.4% lactate,,7.2,55,2.39,,0.378397901,1.0656,Doyle et al.,2001,,,,,1.1428,1.0066,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,NCTC 11994,Meat,Beef,3.1% fat+2.4% lactate,,5.7,55,2.5,,0.397940009,1.0656,Doyle et al.,2001,,,,,1.1428,1.0066,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,NCTC 11994,Meat,Beef,3.1% fat+4.8% lactate,,7.2,55,2.17,,0.336459734,1.0656,Doyle et al.,2001,,,,,1.1428,1.0066,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,NCTC 11994,Meat,Beef,3.1% fat+4.8% lactate,,5.7,55,2.05,,0.311753861,1.0656,Doyle et al.,2001,,,,,1.1428,1.0066,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,Scott A,Meat,Beef,30.5% fat,,,51.7,71.1,6.3,1.851869601,1.5342,Doyle et al.,2001,,,,,1.5784,1.36366,,,,1.530120398,,1.53475259
+Listeria,monocytogenes,Scott A,Meat,Beef,30.5% fat,,,57.2,5.8,6.3,0.763427994,0.7532,Doyle et al.,2001,,,,,0.8524,0.76856,,,,0.77070379,,0.753806185
+Listeria,monocytogenes,Scott A,Meat,Beef,30.5% fat,,,62.8,1.2,6.3,0.079181246,-0.042,Doyle et al.,2001,,,,,0.1132,0.16264,,,,-0.002520394,,-0.041339245
+Listeria,monocytogenes,Scott A,Meat,Beef,"Cooked, <7% fat",,,60,8.32,5.98,0.920123326,0.3556,Doyle et al.,2001,,,,,0.4828,0.4656,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Meat,Beef,"Cooked, <7% fat",,,62,4.2,5.98,0.62324929,0.0716,Doyle et al.,2001,,,,,0.2188,0.2492,,,,0.107940204,,0.07225296
+Listeria,monocytogenes,Scott A,Meat,Beef,"Cooked, <7% fat",,,64.5,2.19,5.98,0.340444115,-0.2834,Doyle et al.,2001,,,,,-0.1112,-0.0213,,,,-0.237249163,,-0.282722679
+Listeria,monocytogenes,Scott A,Meat,Beef,"Cooked, <7% fat",,,70,0.2,5.98,-0.698970004,-1.0644,Doyle et al.,2001,,,,,-0.8372,-0.6164,,,,-0.996665772,,-1.063669084
+Listeria,monocytogenes,NCTC 11994,Meat,Beef,"Cooked, <7% fat",,,60,6.27,5.98,0.797267541,0.3556,Doyle et al.,2001,,,,,0.4828,0.4656,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,NCTC 11994,Meat,Beef,"Cooked, <7% fat",,,62,2.9,5.98,0.462397998,0.0716,Doyle et al.,2001,,,,,0.2188,0.2492,,,,0.107940204,,0.07225296
+Listeria,monocytogenes,NCTC 11994,Meat,Beef,"Cooked, <7% fat",,,64.5,2.21,5.98,0.344392274,-0.2834,Doyle et al.,2001,,,,,-0.1112,-0.0213,,,,-0.237249163,,-0.282722679
+Listeria,monocytogenes,NCTC 11994,Meat,Beef,"Cooked, <7% fat",,,70,0.14,5.98,-0.853871964,-1.0644,Doyle et al.,2001,,,,,-0.8372,-0.6164,,,,-0.996665772,,-1.063669084
+Listeria,monocytogenes,,Meat,Beef,"ground, naturally contaminated",,,54.4,12.5,,1.096910013,1.1508,ICMSF,1996,,,,,1.222,1.07152,,,,1.157315881,,1.151378901
+Listeria,monocytogenes,,Meat,Beef,"ground, naturally contaminated",,,54.4,6.84,,0.835056102,1.1508,ICMSF,1996,,,,,1.222,1.07152,,,,1.157315881,,1.151378901
+Listeria,monocytogenes,,Meat,Beef,"ground, naturally contaminated",,,57.2,3.41,,0.532754379,0.7532,ICMSF,1996,,,,,0.8524,0.76856,,,,0.77070379,,0.753806185
+Listeria,monocytogenes,,Meat,Beef,"ground, naturally contaminated",,,57.2,1.97,,0.294466226,0.7532,ICMSF,1996,,,,,0.8524,0.76856,,,,0.77070379,,0.753806185
+Listeria,monocytogenes,,Meat,Beef,"ground, naturally contaminated",,,60,1.62,,0.209515015,0.3556,ICMSF,1996,,,,,0.4828,0.4656,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Meat,Beef,"ground, naturally contaminated",,,60,1.11,,0.045322979,0.3556,ICMSF,1996,,,,,0.4828,0.4656,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Meat,Beef,"ground, naturally contaminated",,,62.8,0.73,,-0.13667714,-0.042,ICMSF,1996,,,,,0.1132,0.16264,,,,-0.002520394,,-0.041339245
+Listeria,monocytogenes,,Meat,Beef,"ground, naturally contaminated",,,62.8,0.47,,-0.327902142,-0.042,ICMSF,1996,,,,,0.1132,0.16264,,,,-0.002520394,,-0.041339245
+Listeria,monocytogenes,,Meat,Beef,"ground, roast",,,54.4,22.4,,1.350248018,1.1508,ICMSF,1996,"37 ﾂｰC, overnight",,,,1.222,1.07152,,,,1.157315881,,1.151378901
+Listeria,monocytogenes,,Meat,Beef,"ground, roast",,,54.4,19.3,,1.285557309,1.1508,ICMSF,1996,"37 ﾂｰC, overnight",,,,1.222,1.07152,,,,1.157315881,,1.151378901
+Listeria,monocytogenes,,Meat,Beef,"ground, roast",,,57.2,15.7,,1.195899652,0.7532,ICMSF,1996,"37 ﾂｰC, overnight",,,,0.8524,0.76856,,,,0.77070379,,0.753806185
+Listeria,monocytogenes,,Meat,Beef,"ground, roast",,,57.2,17.6,,1.245512668,0.7532,ICMSF,1996,"37 ﾂｰC, overnight",,,,0.8524,0.76856,,,,0.77070379,,0.753806185
+Listeria,monocytogenes,,Meat,Beef,"ground, roast",,,60,4.47,,0.650307523,0.3556,ICMSF,1996,"37 ﾂｰC, overnight",,,,0.4828,0.4656,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Meat,Beef,"ground, roast",,,60,3.5,,0.544068044,0.3556,ICMSF,1996,"37 ﾂｰC, overnight",,,,0.4828,0.4656,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Meat,Beef,"ground, roast",,,62.8,2.56,,0.408239965,-0.042,ICMSF,1996,"37 ﾂｰC, overnight",,,,0.1132,0.16264,,,,-0.002520394,,-0.041339245
+Listeria,monocytogenes,,Meat,Beef,"ground, roast",,,62.8,2.82,,0.450249108,-0.042,ICMSF,1996,"37 ﾂｰC, overnight",,,,0.1132,0.16264,,,,-0.002520394,,-0.041339245
+Listeria,monocytogenes,,Meat,Beef,"Meat slurry, 1.25% fat",,,60,2.54,,0.404833717,0.3556,Doyle et al.,2001,,,,,0.4828,0.4656,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Meat,Beef,"Meat slurry, 1.25% fat",,,64.5,0.75,,-0.124938737,-0.2834,Doyle et al.,2001,,,,,-0.1112,-0.0213,,,,-0.237249163,,-0.282722679
+Listeria,monocytogenes,,Meat,Beef,"Meat slurry, 1.25% fat",,,70,0.23,,-0.638272164,-1.0644,Doyle et al.,2001,,,,,-0.8372,-0.6164,,,,-0.996665772,,-1.063669084
+Listeria,monocytogenes,NCTC 11994,Meat,Beef,minced,,,50,32.7,,1.514547753,1.7756,Bolton et al.,2000,Vacutainer,,,,1.8028,1.5476,,,,1.764849168,,1.776136024
+Listeria,monocytogenes,NCTC 11994,Meat,Beef,minced,,,50,36.1,,1.557507202,1.7756,Bolton et al.,2000,Vacuum pack,,,,1.8028,1.5476,,,,1.764849168,,1.776136024
+Listeria,monocytogenes,NCTC 11994,Meat,Beef,minced,,,55,3.4,,0.531478917,1.0656,Bolton et al.,2000,Vacutainer,,,,1.1428,1.0066,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,NCTC 11994,Meat,Beef,minced,,,55,3.2,,0.505149978,1.0656,Bolton et al.,2000,Vacuum pack,,,,1.1428,1.0066,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,NCTC 11994,Meat,Beef,minced,,,60,0.31,,-0.508638306,0.3556,Bolton et al.,2000,Vacutainer,,,,0.4828,0.4656,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,NCTC 11994,Meat,Beef,minced,,,60,0.15,,-0.823908741,0.3556,Bolton et al.,2000,Vacuum pack,,,,0.4828,0.4656,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,NCTC 11994,Meat,Beef,minced,,,48,74.1,,1.869818208,2.0596,Bolton et al.,2000,"Heated in commercial retort, PALCAM as culture medium",,,,2.0668,1.764,,,,2.041000662,,2.060116535
+Listeria,monocytogenes,NCTC 11994,Meat,Beef,minced,,,48,65.8,,1.818225894,2.0596,Bolton et al.,2000,"Heated in commercial retort, TSA as culture medium",,,,2.0668,1.764,,,,2.041000662,,2.060116535
+Listeria,monocytogenes,NCTC 11994,Meat,Beef,minced,,,52,16.3,,1.212187604,1.4916,Bolton et al.,2000,"Heated in commercial retort, PALCAM as culture medium",,,,1.5388,1.3312,,,,1.488697674,,1.492155513
+Listeria,monocytogenes,NCTC 11994,Meat,Beef,minced,,,52,21.3,,1.328379603,1.4916,Bolton et al.,2000,"Heated in commercial retort, TSA as culture medium",,,,1.5388,1.3312,,,,1.488697674,,1.492155513
+Listeria,monocytogenes,NCTC 11994,Meat,Beef,minced,,,56,2.3,,0.361727836,0.9236,Bolton et al.,2000,"Heated in commercial retort, PALCAM as culture medium",,,,1.0108,0.8984,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,NCTC 11994,Meat,Beef,minced,,,56,3,,0.477121255,0.9236,Bolton et al.,2000,"Heated in commercial retort, TSA as culture medium",,,,1.0108,0.8984,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,,Meat,Beef,naturally contaminated,,,54.4,6.8,,0.832508913,1.1508,ICMSF,1996,,,,,1.222,1.07152,,,,1.157315881,,1.151378901
+Listeria,monocytogenes,,Meat,Beef,naturally contaminated,,,54.4,13,,1.113943352,1.1508,ICMSF,1996,,,,,1.222,1.07152,,,,1.157315881,,1.151378901
+Listeria,monocytogenes,,Meat,Beef,naturally contaminated,,,57.2,2,,0.301029996,0.7532,ICMSF,1996,,,,,0.8524,0.76856,,,,0.77070379,,0.753806185
+Listeria,monocytogenes,,Meat,Beef,naturally contaminated,,,57.2,3.4,,0.531478917,0.7532,ICMSF,1996,,,,,0.8524,0.76856,,,,0.77070379,,0.753806185
+Listeria,monocytogenes,,Meat,Beef,naturally contaminated,,,60,1.6,,0.204119983,0.3556,ICMSF,1996,,,,,0.4828,0.4656,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Meat,Beef,naturally contaminated,,,62.8,0.5,,-0.301029996,-0.042,ICMSF,1996,,,,,0.1132,0.16264,,,,-0.002520394,,-0.041339245
+Listeria,monocytogenes,,Meat,Beef,naturally contaminated,,,62.8,0.7,,-0.15490196,-0.042,ICMSF,1996,,,,,0.1132,0.16264,,,,-0.002520394,,-0.041339245
+Listeria,monocytogenes,,Meat,Beef,Raw,,,50,85,7.2,1.929418926,1.7756,Doyle et al.,2001,,,,,1.8028,1.5476,,,,1.764849168,,1.776136024
+Listeria,monocytogenes,,Meat,Beef,Raw,,,55,21,7.2,1.322219295,1.0656,Doyle et al.,2001,,,,,1.1428,1.0066,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,,Meat,Beef,Raw,,,60,3.8,7.2,0.579783597,0.3556,Doyle et al.,2001,,,,,0.4828,0.4656,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Meat,Beef,Raw,,,64.5,0.93,7.2,-0.031517051,-0.2834,Doyle et al.,2001,,,,,-0.1112,-0.0213,,,,-0.237249163,,-0.282722679
+Listeria,monocytogenes,,Meat,Beef,Raw,,,70,0.14,7.2,-0.853871964,-1.0644,Doyle et al.,2001,,,,,-0.8372,-0.6164,,,,-0.996665772,,-1.063669084
+Listeria,monocytogenes,NCTC 9863,Meat,Beef,raw,,,60,4.5,,0.653212514,0.3556,MacKey and Bratchell,1989,,,,,0.4828,0.4656,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,NCTC 9863,Meat,Beef,raw,,,65,0.65,,-0.187086643,-0.3544,MacKey and Bratchell,1989,,,,,-0.1772,-0.0754,,,,-0.306287037,,-0.353717807
+Listeria,monocytogenes,NCTC 9863,Meat,Beef,raw,,,70,0.15,,-0.823908741,-1.0644,MacKey and Bratchell,1989,,,,,-0.8372,-0.6164,,,,-0.996665772,,-1.063669084
+Listeria,monocytogenes,,Meat,Beef,roast,,,54.4,19,,1.278753601,1.1508,ICMSF,1996,,,,,1.222,1.07152,,,,1.157315881,,1.151378901
+Listeria,monocytogenes,,Meat,Beef,roast,,,54.4,22,,1.342422681,1.1508,ICMSF,1996,,,,,1.222,1.07152,,,,1.157315881,,1.151378901
+Listeria,monocytogenes,,Meat,Beef,roast,,,57.2,16,,1.204119983,0.7532,ICMSF,1996,,,,,0.8524,0.76856,,,,0.77070379,,0.753806185
+Listeria,monocytogenes,,Meat,Beef,roast,,,57.2,18,,1.255272505,0.7532,ICMSF,1996,,,,,0.8524,0.76856,,,,0.77070379,,0.753806185
+Listeria,monocytogenes,,Meat,Beef,roast,,,60,3.5,,0.544068044,0.3556,ICMSF,1996,,,,,0.4828,0.4656,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Meat,Beef,roast,,,60,4.5,,0.653212514,0.3556,ICMSF,1996,,,,,0.4828,0.4656,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Meat,Beef,roast,,,62.8,2.6,,0.414973348,-0.042,ICMSF,1996,,,,,0.1132,0.16264,,,,-0.002520394,,-0.041339245
+Listeria,monocytogenes,,Meat,Beef,roast,,,62.8,2.8,,0.447158031,-0.042,ICMSF,1996,,,,,0.1132,0.16264,,,,-0.002520394,,-0.041339245
+Listeria,monocytogenes,NCTC 11994,Meat,Beef,solid,,,48,88.6,,1.947433722,2.0596,Bolton et al.,2000,"Heated in commercial retort, PALCAM as culture medium",,,,2.0668,1.764,,,,2.041000662,,2.060116535
+Listeria,monocytogenes,NCTC 11994,Meat,Beef,solid,,,48,92.6,,1.966610987,2.0596,Bolton et al.,2000,"Heated in commercial retort, TSA as culture medium",,,,2.0668,1.764,,,,2.041000662,,2.060116535
+Listeria,monocytogenes,NCTC 11994,Meat,Beef,solid,,,52,26.7,,1.426511261,1.4916,Bolton et al.,2000,"Heated in commercial retort, PALCAM as culture medium",,,,1.5388,1.3312,,,,1.488697674,,1.492155513
+Listeria,monocytogenes,NCTC 11994,Meat,Beef,solid,,,52,29,,1.462397998,1.4916,Bolton et al.,2000,"Heated in commercial retort, TSA as culture medium",,,,1.5388,1.3312,,,,1.488697674,,1.492155513
+Listeria,monocytogenes,NCTC 11994,Meat,Beef,solid,,,56,3.1,,0.491361694,0.9236,Bolton et al.,2000,"Heated in commercial retort, PALCAM as culture medium",,,,1.0108,0.8984,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,NCTC 11994,Meat,Beef,solid,,,56,3.3,,0.51851394,0.9236,Bolton et al.,2000,"Heated in commercial retort, TSA as culture medium",,,,1.0108,0.8984,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,,Meat,Beef,"steak, homogenate",,,60,6.27,,0.797267541,0.3556,ICMSF,1996,,,,,0.4828,0.4656,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Meat,Beef,"steak, homogenate",,,60,8.32,,0.920123326,0.3556,ICMSF,1996,,,,,0.4828,0.4656,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Meat,Beef,"steak, homogenate",,,62,2.9,,0.462397998,0.0716,ICMSF,1996,,,,,0.2188,0.2492,,,,0.107940204,,0.07225296
+Listeria,monocytogenes,,Meat,Beef,"steak, homogenate",,,62,4.2,,0.62324929,0.0716,ICMSF,1996,,,,,0.2188,0.2492,,,,0.107940204,,0.07225296
+Listeria,monocytogenes,,Meat,Beef,"steak, homogenate",,,64,2.19,,0.340444115,-0.2124,ICMSF,1996,,,,,-0.0452,0.0328,,,,-0.16821129,,-0.211727551
+Listeria,monocytogenes,,Meat,Beef,"steak, homogenate",,,64,2.21,,0.344392274,-0.2124,ICMSF,1996,,,,,-0.0452,0.0328,,,,-0.16821129,,-0.211727551
+Listeria,monocytogenes,,Meat,Beef,"steak, homogenate",,,66,0.93,,-0.031517051,-0.4964,ICMSF,1996,,,,,-0.3092,-0.1836,,,,-0.444362784,,-0.495708062
+Listeria,monocytogenes,,Meat,Beef,"steak, homogenate",,,66,0.94,,-0.026872146,-0.4964,ICMSF,1996,,,,,-0.3092,-0.1836,,,,-0.444362784,,-0.495708062
+Listeria,monocytogenes,,Meat,Beef,"steak, homogenate",,,68,0.27,,-0.568636236,-0.7804,ICMSF,1996,,,,,-0.5732,-0.4,,,,-0.720514278,,-0.779688573
+Listeria,monocytogenes,,Meat,Beef,"steak, homogenate",,,68,0.35,,-0.455931956,-0.7804,ICMSF,1996,,,,,-0.5732,-0.4,,,,-0.720514278,,-0.779688573
+Listeria,monocytogenes,,Meat,Beef,"steak, homogenate",,,70,0.14,,-0.853871964,-1.0644,ICMSF,1996,,,,,-0.8372,-0.6164,,,,-0.996665772,,-1.063669084
+Listeria,monocytogenes,,Meat,Beef,"steak, homogenate",,,70,0.2,,-0.698970004,-1.0644,ICMSF,1996,,,,,-0.8372,-0.6164,,,,-0.996665772,,-1.063669084
+Listeria,monocytogenes,Scott A,Meat,Beef,thick slurry,,,60,8.32,,0.920123326,0.3556,MacKey and Bratchell,1989,,,,,0.4828,0.4656,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,NCTC 11994,Meat,Beef,thick slurry,,,60,6.27,,0.797267541,0.3556,MacKey and Bratchell,1989,,,,,0.4828,0.4656,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Meat,Beef,,,,60,1.15,,0.06069784,0.3556,Doyle et al.,2001,Cells grown in 0.09M NaCl,,,,0.4828,0.4656,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Meat,Beef,,,,60,1.95,,0.290034611,0.3556,Doyle et al.,2001,Cells grown in 1.5M NaCl,,,,0.4828,0.4656,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,13-249,Meat,Beef,,,5.4,60,3.07,,0.487138375,0.3556,Doyle et al.,2001,Log phase cells,,,,0.4828,0.4656,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,13-249,Meat,Beef,,,5.4,60,3.83,,0.583198774,0.3556,Doyle et al.,2001,Log phase cells;heat shock 30 min 46 ﾂｰC,,,,0.4828,0.4656,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,13-249,Meat,Beef,,,5.4,60,8.65,,0.937016107,0.3556,Doyle et al.,2001,Stationary phase cells,,,,0.4828,0.4656,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,13-249,Meat,Beef,,,5.4,60,7.88,,0.896526217,0.3556,Doyle et al.,2001,Stationary phase cells; heat shock 30 min 46 ﾂｰC,,,,0.4828,0.4656,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,13-249,Meat,Beef,,,6.2,60,4.03,,0.605305046,0.3556,Doyle et al.,2001,Log phase cells,,,,0.4828,0.4656,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,13-249,Meat,Beef,,,6.2,60,9.51,,0.978180517,0.3556,Doyle et al.,2001,Log phase cells;heat shock 30 min 46 ﾂｰC,,,,0.4828,0.4656,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,13-249,Meat,Beef,,,6.2,60,12.53,,1.097951071,0.3556,Doyle et al.,2001,Stationary phase cells,,,,0.4828,0.4656,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,13-249,Meat,Beef,,,6.2,60,12.23,,1.087426457,0.3556,Doyle et al.,2001,Stationary phase cells; heat shock 30 min 46 ﾂｰC,,,,0.4828,0.4656,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Meat,Beef,,,5.64,60,6.7,6.9,0.826074803,0.3556,Doyle et al.,2001,Heating rate > 10 ﾂｰC/min,,,,0.4828,0.4656,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Meat,Beef,,,5.64,64.5,1.4,6.9,0.146128036,-0.2834,Doyle et al.,2001,Heating rate > 10 ﾂｰC/min,,,,-0.1112,-0.0213,,,,-0.237249163,,-0.282722679
+Listeria,monocytogenes,,Meat,Beef,,,5.64,60,6.4,6.5,0.806179974,0.3556,Doyle et al.,2001,Heating rate 0.6 ﾂｰC/min,,,,0.4828,0.4656,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Meat,Beef,,,5.64,64.5,1.6,6.5,0.204119983,-0.2834,Doyle et al.,2001,Heating rate 0.6 ﾂｰC/min,,,,-0.1112,-0.0213,,,,-0.237249163,,-0.282722679
+Listeria,monocytogenes,,Meat,Beef,,,5.64,60,7.1,6.6,0.851258349,0.3556,Doyle et al.,2001,Heating rate 0.3 ﾂｰC/min,,,,0.4828,0.4656,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Meat,Beef,,,5.64,64.5,1.7,6.6,0.230448921,-0.2834,Doyle et al.,2001,Heating rate 0.3 ﾂｰC/min,,,,-0.1112,-0.0213,,,,-0.237249163,,-0.282722679
+Listeria,monocytogenes,CRA 433,Meat,Beef,,,6,60,1.5,19.8,0.176091259,0.3556,Doyle et al.,2001,,,,,0.4828,0.4656,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,CRA 433,Meat,Beef,,,6,64.5,0.88,19.8,-0.055517328,-0.2834,Doyle et al.,2001,,,,,-0.1112,-0.0213,,,,-0.237249163,,-0.282722679
+Listeria,monocytogenes,CRA 433,Meat,Beef,,,6,70,0.47,19.8,-0.327902142,-1.0644,Doyle et al.,2001,,,,,-0.8372,-0.6164,,,,-0.996665772,,-1.063669084
+Listeria,monocytogenes,P(10)4,Meat,Beef,,,6,60,1.63,15.6,0.212187604,0.3556,Doyle et al.,2001,,,,,0.4828,0.4656,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,P(10)4,Meat,Beef,,,6,64.5,0.56,15.6,-0.251811973,-0.2834,Doyle et al.,2001,,,,,-0.1112,-0.0213,,,,-0.237249163,,-0.282722679
+Listeria,monocytogenes,P(10)4,Meat,Beef,,,6,70,0.37,15.6,-0.431798276,-1.0644,Doyle et al.,2001,,,,,-0.8372,-0.6164,,,,-0.996665772,,-1.063669084
+Listeria,monocytogenes,,Meat,Beef,,,,62,2.9,,0.462397998,0.0716,Forsythe,2000,,,,,0.2188,0.2492,,,,0.107940204,,0.07225296
+Listeria,monocytogenes,,Meat,Beef,,,,62,4.2,,0.62324929,0.0716,Forsythe,2000,,,,,0.2188,0.2492,,,,0.107940204,,0.07225296
+Listeria,monocytogenes,,Meat,Beef,,,5.5,50,85,,1.929418926,1.7756,ICMSF,1996,,,,,1.8028,1.5476,,,,1.764849168,,1.776136024
+Listeria,monocytogenes,,Meat,Beef,,,5.5,55,21,,1.322219295,1.0656,ICMSF,1996,,,,,1.1428,1.0066,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,,Meat,Beef,,,5.5,60,3.8,,0.579783597,0.3556,ICMSF,1996,,,,,0.4828,0.4656,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Meat,Beef,,,5.5,65,0.93,,-0.031517051,-0.3544,ICMSF,1996,,,,,-0.1772,-0.0754,,,,-0.306287037,,-0.353717807
+Listeria,monocytogenes,,Meat,Beef,,,5.5,70,0.14,,-0.853871964,-1.0644,ICMSF,1996,,,,,-0.8372,-0.6164,,,,-0.996665772,,-1.063669084
+Listeria,monocytogenes,,Meat,Chicken,breast,,5.75,50,100,,2,1.7756,ICMSF,1996,,,,,1.8028,,2.1,,,1.764849168,,1.776136024
+Listeria,monocytogenes,,Meat,Chicken,breast,,5.75,55,13,,1.113943352,1.0656,ICMSF,1996,,,,,1.1428,,1.286,,,1.074470433,,1.066184747
+Listeria,monocytogenes,,Meat,Chicken,breast,,5.75,60,8.7,,0.939519253,0.3556,ICMSF,1996,,,,,0.4828,,0.472,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Meat,Chicken,breast,,5.75,65,0.52,,-0.283996656,-0.3544,ICMSF,1996,,,,,-0.1772,,-0.342,,,-0.306287037,,-0.353717807
+Listeria,monocytogenes,,Meat,Chicken,breast,,5.75,70,0.13,,-0.886056648,-1.0644,ICMSF,1996,,,,,-0.8372,,-1.156,,,-0.996665772,,-1.063669084
+Listeria,monocytogenes,,Meat,Chicken,breast,,,55,51.02,5.71,1.707740454,1.0656,Murphy et al.,2003,,,,,1.1428,,1.286,,,1.074470433,,1.066184747
+Listeria,monocytogenes,,Meat,Chicken,breast,,,57.5,13.93,5.71,1.143951116,0.7106,Murphy et al.,2003,,,,,0.8128,,0.879,,,0.729281066,,0.711209109
+Listeria,monocytogenes,,Meat,Chicken,breast,,,60,8.49,5.71,0.92890769,0.3556,Murphy et al.,2003,,,,,0.4828,,0.472,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Meat,Chicken,breast,,,62.5,2.6,5.71,0.414973348,0.0006,Murphy et al.,2003,,,,,0.1528,,0.065,,,0.038902331,,0.001257832
+Listeria,monocytogenes,,Meat,Chicken,breast,,,65,0.65,5.71,-0.187086643,-0.3544,Murphy et al.,2003,,,,,-0.1772,,-0.342,,,-0.306287037,,-0.353717807
+Listeria,monocytogenes,,Meat,Chicken,breast,,,67.5,0.29,5.71,-0.537602002,-0.7094,Murphy et al.,2003,,,,,-0.5072,,-0.749,,,-0.651476404,,-0.708693445
+Listeria,monocytogenes,,Meat,Chicken,breast,,,70,0.13,5.71,-0.886056648,-1.0644,Murphy et al.,2003,,,,,-0.8372,,-1.156,,,-0.996665772,,-1.063669084
+Listeria,monocytogenes,Scott A,Meat,Chicken,Cooked,,,60,5.29,6.72,0.723455672,0.3556,Doyle et al.,2001,,,,,0.4828,,0.472,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Meat,Chicken,Cooked,,,62,2.51,6.72,0.399673721,0.0716,Doyle et al.,2001,,,,,0.2188,,0.1464,,,0.107940204,,0.07225296
+Listeria,monocytogenes,Scott A,Meat,Chicken,Cooked,,,64.5,1.56,6.72,0.193124598,-0.2834,Doyle et al.,2001,,,,,-0.1112,,-0.2606,,,-0.237249163,,-0.282722679
+Listeria,monocytogenes,Scott A,Meat,Chicken,Cooked,,,70,0.16,6.72,-0.795880017,-1.0644,Doyle et al.,2001,,,,,-0.8372,,-1.156,,,-0.996665772,,-1.063669084
+Listeria,monocytogenes,NCTC 11994,Meat,Chicken,Cooked,,,60,5.02,7.39,0.700703717,0.3556,Doyle et al.,2001,,,,,0.4828,,0.472,,,0.384091698,,0.35623347
+Listeria,monocytogenes,NCTC 11994,Meat,Chicken,Cooked,,,62,2.21,7.39,0.344392274,0.0716,Doyle et al.,2001,,,,,0.2188,,0.1464,,,0.107940204,,0.07225296
+Listeria,monocytogenes,NCTC 11994,Meat,Chicken,Cooked,,,64.5,1.84,7.39,0.264817823,-0.2834,Doyle et al.,2001,,,,,-0.1112,,-0.2606,,,-0.237249163,,-0.282722679
+Listeria,monocytogenes,NCTC 11994,Meat,Chicken,Cooked,,,70,0.2,7.39,-0.698970004,-1.0644,Doyle et al.,2001,,,,,-0.8372,,-1.156,,,-0.996665772,,-1.063669084
+Listeria,monocytogenes,Scott A,Meat,Chicken,gravy,,,50,119,,2.075546961,1.7756,ICMSF,1996,"7 ﾂｰC, 0d in gravy prior to heating",,,,1.8028,,2.1,,,1.764849168,,1.776136024
+Listeria,monocytogenes,V7,Meat,Chicken,gravy,,,50,195,,2.290034611,1.7756,ICMSF,1996,"7 ﾂｰC, 0d in gravy prior to heating",,,,1.8028,,2.1,,,1.764849168,,1.776136024
+Listeria,monocytogenes,V7,Meat,Chicken,gravy,,,50,99.9,,1.999565488,1.7756,ICMSF,1996,"7 ﾂｰC, 1d in gravy prior to heating",,,,1.8028,,2.1,,,1.764849168,,1.776136024
+Listeria,monocytogenes,Scott A,Meat,Chicken,gravy,,,50,118,,2.071882007,1.7756,ICMSF,1996,"7 ﾂｰC, 1d in gravy prior to heating",,,,1.8028,,2.1,,,1.764849168,,1.776136024
+Listeria,monocytogenes,Scott A,Meat,Chicken,gravy,,,50,83.2,,1.920123326,1.7756,ICMSF,1996,"7 ﾂｰC, 3d in gravy prior to heating",,,,1.8028,,2.1,,,1.764849168,,1.776136024
+Listeria,monocytogenes,V7,Meat,Chicken,gravy,,,50,132,,2.120573931,1.7756,ICMSF,1996,"7 ﾂｰC, 3d in gravy prior to heating",,,,1.8028,,2.1,,,1.764849168,,1.776136024
+Listeria,monocytogenes,Scott A,Meat,Chicken,gravy,,,50,114,,2.056904851,1.7756,ICMSF,1996,"7 ﾂｰC, 5d in gravy prior to heating",,,,1.8028,,2.1,,,1.764849168,,1.776136024
+Listeria,monocytogenes,V7,Meat,Chicken,gravy,,,50,365,,2.562292864,1.7756,ICMSF,1996,"7 ﾂｰC, 5d in gravy prior to heating",,,,1.8028,,2.1,,,1.764849168,,1.776136024
+Listeria,monocytogenes,Scott A,Meat,Chicken,gravy,,,50,115,,2.06069784,1.7756,ICMSF,1996,"7 ﾂｰC, 10d in gravy prior to heating",,,,1.8028,,2.1,,,1.764849168,,1.776136024
+Listeria,monocytogenes,V7,Meat,Chicken,gravy,,,50,199,,2.298853076,1.7756,ICMSF,1996,"7 ﾂｰC, 10d in gravy prior to heating",,,,1.8028,,2.1,,,1.764849168,,1.776136024
+Listeria,monocytogenes,V7,Meat,Chicken,gravy,,,55,39.4,,1.595496222,1.0656,ICMSF,1996,"7 ﾂｰC, 0d in gravy prior to heating",,,,1.1428,,1.286,,,1.074470433,,1.066184747
+Listeria,monocytogenes,Scott A,Meat,Chicken,gravy,,,55,79.1,,1.898176483,1.0656,ICMSF,1996,"7 ﾂｰC, 0d in gravy prior to heating",,,,1.1428,,1.286,,,1.074470433,,1.066184747
+Listeria,monocytogenes,V7,Meat,Chicken,gravy,,,55,19.4,,1.28780173,1.0656,ICMSF,1996,"7 ﾂｰC, 1d in gravy prior to heating",,,,1.1428,,1.286,,,1.074470433,,1.066184747
+Listeria,monocytogenes,Scott A,Meat,Chicken,gravy,,,55,34.6,,1.539076099,1.0656,ICMSF,1996,"7 ﾂｰC, 1d in gravy prior to heating",,,,1.1428,,1.286,,,1.074470433,,1.066184747
+Listeria,monocytogenes,Scott A,Meat,Chicken,gravy,,,55,10.7,,1.029383778,1.0656,ICMSF,1996,"7 ﾂｰC, 3d in gravy prior to heating",,,,1.1428,,1.286,,,1.074470433,,1.066184747
+Listeria,monocytogenes,V7,Meat,Chicken,gravy,,,55,18.2,,1.260071388,1.0656,ICMSF,1996,"7 ﾂｰC, 3d in gravy prior to heating",,,,1.1428,,1.286,,,1.074470433,,1.066184747
+Listeria,monocytogenes,Scott A,Meat,Chicken,gravy,,,55,10.4,,1.017033339,1.0656,ICMSF,1996,"7 ﾂｰC, 5d in gravy prior to heating",,,,1.1428,,1.286,,,1.074470433,,1.066184747
+Listeria,monocytogenes,V7,Meat,Chicken,gravy,,,55,16.2,,1.209515015,1.0656,ICMSF,1996,"7 ﾂｰC, 5d in gravy prior to heating",,,,1.1428,,1.286,,,1.074470433,,1.066184747
+Listeria,monocytogenes,Scott A,Meat,Chicken,gravy,,,55,13,,1.113943352,1.0656,ICMSF,1996,"7 ﾂｰC, 10d in gravy prior to heating",,,,1.1428,,1.286,,,1.074470433,,1.066184747
+Listeria,monocytogenes,V7,Meat,Chicken,gravy,,,55,17.4,,1.240549248,1.0656,ICMSF,1996,"7 ﾂｰC, 10d in gravy prior to heating",,,,1.1428,,1.286,,,1.074470433,,1.066184747
+Listeria,monocytogenes,V7,Meat,Chicken,gravy,,,60,3.13,,0.495544338,0.3556,ICMSF,1996,"7 ﾂｰC, 0d in gravy prior to heating",,,,0.4828,,0.472,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Meat,Chicken,gravy,,,60,7.07,,0.849419414,0.3556,ICMSF,1996,"7 ﾂｰC, 0d in gravy prior to heating",,,,0.4828,,0.472,,,0.384091698,,0.35623347
+Listeria,monocytogenes,V7,Meat,Chicken,gravy,,,60,1.1,,0.041392685,0.3556,ICMSF,1996,"7 ﾂｰC, 1d in gravy prior to heating",,,,0.4828,,0.472,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Meat,Chicken,gravy,,,60,1.63,,0.212187604,0.3556,ICMSF,1996,"7 ﾂｰC, 1d in gravy prior to heating",,,,0.4828,,0.472,,,0.384091698,,0.35623347
+Listeria,monocytogenes,V7,Meat,Chicken,gravy,,,60,1.23,,0.089905111,0.3556,ICMSF,1996,"7 ﾂｰC, 3d in gravy prior to heating",,,,0.4828,,0.472,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Meat,Chicken,gravy,,,60,1.42,,0.152288344,0.3556,ICMSF,1996,"7 ﾂｰC, 3d in gravy prior to heating",,,,0.4828,,0.472,,,0.384091698,,0.35623347
+Listeria,monocytogenes,V7,Meat,Chicken,gravy,,,60,1.05,,0.021189299,0.3556,ICMSF,1996,"7 ﾂｰC, 5d in gravy prior to heating",,,,0.4828,,0.472,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Meat,Chicken,gravy,,,60,1.36,,0.133538908,0.3556,ICMSF,1996,"7 ﾂｰC, 5d in gravy prior to heating",,,,0.4828,,0.472,,,0.384091698,,0.35623347
+Listeria,monocytogenes,V7,Meat,Chicken,gravy,,,60,0.75,,-0.124938737,0.3556,ICMSF,1996,"7 ﾂｰC, 10d in gravy prior to heating",,,,0.4828,,0.472,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Meat,Chicken,gravy,,,60,0.88,,-0.055517328,0.3556,ICMSF,1996,"7 ﾂｰC, 10d in gravy prior to heating",,,,0.4828,,0.472,,,0.384091698,,0.35623347
+Listeria,monocytogenes,V7,Meat,Chicken,gravy,,,65,0.19,,-0.721246399,-0.3544,ICMSF,1996,"7 ﾂｰC, 0d in gravy prior to heating",,,,-0.1772,,-0.342,,,-0.306287037,,-0.353717807
+Listeria,monocytogenes,Scott A,Meat,Chicken,gravy,,,65,0.48,,-0.318758763,-0.3544,ICMSF,1996,"7 ﾂｰC, 0d in gravy prior to heating",,,,-0.1772,,-0.342,,,-0.306287037,,-0.353717807
+Listeria,monocytogenes,V7,Meat,Chicken,gravy,,,65,0.16,,-0.795880017,-0.3544,ICMSF,1996,"7 ﾂｰC, 1d in gravy prior to heating",,,,-0.1772,,-0.342,,,-0.306287037,,-0.353717807
+Listeria,monocytogenes,Scott A,Meat,Chicken,gravy,,,65,0.22,,-0.657577319,-0.3544,ICMSF,1996,"7 ﾂｰC, 1d in gravy prior to heating",,,,-0.1772,,-0.342,,,-0.306287037,,-0.353717807
+Listeria,monocytogenes,V7,Meat,Chicken,gravy,,,65,0.031,,-1.508638306,-0.3544,ICMSF,1996,"7 ﾂｰC, 3d in gravy prior to heating",,,,-0.1772,,-0.342,,,-0.306287037,,-0.353717807
+Listeria,monocytogenes,Scott A,Meat,Chicken,gravy,,,65,0.07,,-1.15490196,-0.3544,ICMSF,1996,"7 ﾂｰC, 3d in gravy prior to heating",,,,-0.1772,,-0.342,,,-0.306287037,,-0.353717807
+Listeria,monocytogenes,V7,Meat,Chicken,gravy,,,65,0.011,,-1.958607315,-0.3544,ICMSF,1996,"7 ﾂｰC, 5d in gravy prior to heating",,,,-0.1772,,-0.342,,,-0.306287037,,-0.353717807
+Listeria,monocytogenes,Scott A,Meat,Chicken,gravy,,,65,0.029,,-1.537602002,-0.3544,ICMSF,1996,"7 ﾂｰC, 5d in gravy prior to heating",,,,-0.1772,,-0.342,,,-0.306287037,,-0.353717807
+Listeria,monocytogenes,V7,Meat,Chicken,gravy,,,65,0.007,,-2.15490196,-0.3544,ICMSF,1996,"7 ﾂｰC, 10d in gravy prior to heating",,,,-0.1772,,-0.342,,,-0.306287037,,-0.353717807
+Listeria,monocytogenes,Scott A,Meat,Chicken,gravy,,,65,0.014,,-1.853871964,-0.3544,ICMSF,1996,"7 ﾂｰC, 10d in gravy prior to heating",,,,-0.1772,,-0.342,,,-0.306287037,,-0.353717807
+Listeria,monocytogenes,,Meat,Chicken,homogenate,,,60,5.02,,0.700703717,0.3556,ICMSF,1996,,,,,0.4828,,0.472,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Meat,Chicken,homogenate,,,60,5.29,,0.723455672,0.3556,ICMSF,1996,,,,,0.4828,,0.472,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Meat,Chicken,homogenate,,,62,2.21,,0.344392274,0.0716,ICMSF,1996,,,,,0.2188,,0.1464,,,0.107940204,,0.07225296
+Listeria,monocytogenes,,Meat,Chicken,homogenate,,,62,2.51,,0.399673721,0.0716,ICMSF,1996,,,,,0.2188,,0.1464,,,0.107940204,,0.07225296
+Listeria,monocytogenes,,Meat,Chicken,homogenate,,,64,1.56,,0.193124598,-0.2124,ICMSF,1996,,,,,-0.0452,,-0.1792,,,-0.16821129,,-0.211727551
+Listeria,monocytogenes,,Meat,Chicken,homogenate,,,64,1.84,,0.264817823,-0.2124,ICMSF,1996,,,,,-0.0452,,-0.1792,,,-0.16821129,,-0.211727551
+Listeria,monocytogenes,,Meat,Chicken,homogenate,,,66,0.68,,-0.167491087,-0.4964,ICMSF,1996,,,,,-0.3092,,-0.5048,,,-0.444362784,,-0.495708062
+Listeria,monocytogenes,,Meat,Chicken,homogenate,,,66,0.95,,-0.022276395,-0.4964,ICMSF,1996,,,,,-0.3092,,-0.5048,,,-0.444362784,,-0.495708062
+Listeria,monocytogenes,,Meat,Chicken,homogenate,,,68,0.38,,-0.420216403,-0.7804,ICMSF,1996,,,,,-0.5732,,-0.8304,,,-0.720514278,,-0.779688573
+Listeria,monocytogenes,,Meat,Chicken,homogenate,,,68,0.41,,-0.387216143,-0.7804,ICMSF,1996,,,,,-0.5732,,-0.8304,,,-0.720514278,,-0.779688573
+Listeria,monocytogenes,,Meat,Chicken,homogenate,,,70,0.16,,-0.795880017,-1.0644,ICMSF,1996,,,,,-0.8372,,-1.156,,,-0.996665772,,-1.063669084
+Listeria,monocytogenes,,Meat,Chicken,homogenate,,,70,0.2,,-0.698970004,-1.0644,ICMSF,1996,,,,,-0.8372,,-1.156,,,-0.996665772,,-1.063669084
+Listeria,monocytogenes,,Meat,Chicken,leg,,6.55,50,179,,2.252853031,1.7756,ICMSF,1996,,,,,1.8028,,2.1,,,1.764849168,,1.776136024
+Listeria,monocytogenes,,Meat,Chicken,leg,,6.55,55,14,,1.146128036,1.0656,ICMSF,1996,,,,,1.1428,,1.286,,,1.074470433,,1.066184747
+Listeria,monocytogenes,,Meat,Chicken,leg,,6.55,60,5.6,,0.748188027,0.3556,ICMSF,1996,,,,,0.4828,,0.472,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Meat,Chicken,leg,,6.55,65,0.53,,-0.27572413,-0.3544,ICMSF,1996,,,,,-0.1772,,-0.342,,,-0.306287037,,-0.353717807
+Listeria,monocytogenes,,Meat,Chicken,leg,,6.55,70,0.11,,-0.958607315,-1.0644,ICMSF,1996,,,,,-0.8372,,-1.156,,,-0.996665772,,-1.063669084
+Listeria,monocytogenes,,Meat,Chicken,"Raw, breast",,,50,100,6.3,2,1.7756,Doyle et al.,2001,,,,,1.8028,,2.1,,,1.764849168,,1.776136024
+Listeria,monocytogenes,,Meat,Chicken,"Raw, breast",,,55,13,6.3,1.113943352,1.0656,Doyle et al.,2001,,,,,1.1428,,1.286,,,1.074470433,,1.066184747
+Listeria,monocytogenes,,Meat,Chicken,"Raw, breast",,,60,8.7,6.3,0.939519253,0.3556,Doyle et al.,2001,,,,,0.4828,,0.472,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Meat,Chicken,"Raw, breast",,,64.5,0.52,6.3,-0.283996656,-0.2834,Doyle et al.,2001,,,,,-0.1112,,-0.2606,,,-0.237249163,,-0.282722679
+Listeria,monocytogenes,,Meat,Chicken,"Raw, breast",,,70,0.13,6.3,-0.886056648,-1.0644,Doyle et al.,2001,,,,,-0.8372,,-1.156,,,-0.996665772,,-1.063669084
+Listeria,monocytogenes,,Meat,Chicken,"Raw, leg",,,50,179,6.7,2.252853031,1.7756,Doyle et al.,2001,,,,,1.8028,,2.1,,,1.764849168,,1.776136024
+Listeria,monocytogenes,,Meat,Chicken,"Raw, leg",,,55,14,6.7,1.146128036,1.0656,Doyle et al.,2001,,,,,1.1428,,1.286,,,1.074470433,,1.066184747
+Listeria,monocytogenes,,Meat,Chicken,"Raw, leg",,,60,5.6,6.7,0.748188027,0.3556,Doyle et al.,2001,,,,,0.4828,,0.472,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Meat,Chicken,"Raw, leg",,,64.5,0.53,6.7,-0.27572413,-0.2834,Doyle et al.,2001,,,,,-0.1112,,-0.2606,,,-0.237249163,,-0.282722679
+Listeria,monocytogenes,,Meat,Chicken,"Raw, leg",,,70,0.11,6.7,-0.958607315,-1.0644,Doyle et al.,2001,,,,,-0.8372,,-1.156,,,-0.996665772,,-1.063669084
+Listeria,monocytogenes,Scott A,Meat,Chicken,thick slurry,,,60,5.29,,0.723455672,0.3556,MacKey and Bratchell,1989,,,,,0.4828,,0.472,,,0.384091698,,0.35623347
+Listeria,monocytogenes,NCTC 11994,Meat,Chicken,thick slurry,,,60,5.02,,0.700703717,0.3556,MacKey and Bratchell,1989,,,,,0.4828,,0.472,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Meat,Duck,muscle,,,55,131.58,5.04,2.119189882,1.0656,Murphy et al.,2003,,,,,1.1428,,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,,Meat,Duck,muscle,,,57.5,23.64,5.04,1.373647472,0.7106,Murphy et al.,2003,,,,,0.8128,,,,,0.729281066,,0.711209109
+Listeria,monocytogenes,,Meat,Duck,muscle,,,60,9.84,5.04,0.992995098,0.3556,Murphy et al.,2003,,,,,0.4828,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Meat,Duck,muscle,,,62.5,2.23,5.04,0.348304863,0.0006,Murphy et al.,2003,,,,,0.1528,,,,,0.038902331,,0.001257832
+Listeria,monocytogenes,,Meat,Duck,muscle,,,65,0.93,5.04,-0.031517051,-0.3544,Murphy et al.,2003,,,,,-0.1772,,,,,-0.306287037,,-0.353717807
+Listeria,monocytogenes,,Meat,Duck,muscle,,,67.5,0.42,5.04,-0.37675071,-0.7094,Murphy et al.,2003,,,,,-0.5072,,,,,-0.651476404,,-0.708693445
+Listeria,monocytogenes,,Meat,Duck,muscle,,,70,0.11,5.04,-0.958607315,-1.0644,Murphy et al.,2003,,,,,-0.8372,,,,,-0.996665772,,-1.063669084
+Listeria,monocytogenes,,Meat,Duck,skin,,,55,82.65,5.76,1.917242858,1.0656,Murphy et al.,2003,,,,,1.1428,,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,,Meat,Duck,skin,,,57.5,21.69,5.76,1.336259552,0.7106,Murphy et al.,2003,,,,,0.8128,,,,,0.729281066,,0.711209109
+Listeria,monocytogenes,,Meat,Duck,skin,,,60,8.9,5.76,0.949390007,0.3556,Murphy et al.,2003,,,,,0.4828,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Meat,Duck,skin,,,62.5,3.57,5.76,0.552668216,0.0006,Murphy et al.,2003,,,,,0.1528,,,,,0.038902331,,0.001257832
+Listeria,monocytogenes,,Meat,Duck,skin,,,65,1.16,5.76,0.064457989,-0.3544,Murphy et al.,2003,,,,,-0.1772,,,,,-0.306287037,,-0.353717807
+Listeria,monocytogenes,,Meat,Duck,skin,,,67.5,0.4,5.76,-0.397940009,-0.7094,Murphy et al.,2003,,,,,-0.5072,,,,,-0.651476404,,-0.708693445
+Listeria,monocytogenes,,Meat,Duck,skin,,,70,0.21,5.76,-0.677780705,-1.0644,Murphy et al.,2003,,,,,-0.8372,,,,,-0.996665772,,-1.063669084
+Listeria,monocytogenes,,Meat,Egg,"liquid, white",,9,53.2,17.7,7,1.247973266,1.3212,Doyle et al.,2001,,,,,1.3804,,,,,1.323006778,,1.321767207
+Listeria,monocytogenes,,Meat,Egg,"liquid, white",,8.2,55,7.58,9.43,0.879669206,1.0656,Doyle et al.,2001,,,,,1.1428,,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,,Meat,Egg,"liquid, white",,9.1,55,7.59,6.41,0.880241776,1.0656,Doyle et al.,2001,,,,,1.1428,,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,,Meat,Egg,"liquid, white",,9,55,12.9,7,1.11058971,1.0656,Doyle et al.,2001,,,,,1.1428,,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,,Meat,Egg,"liquid, white",,,55.5,13,11.3,1.113943352,0.9946,Doyle et al.,2001,,,,,1.0768,,,,,1.00543256,,0.99518962
+Listeria,monocytogenes,,Meat,Egg,"liquid, white",,7.8,56.65,10.4,,1.017033339,0.8313,Doyle et al.,2001,,,,,0.925,,,,,0.846645451,,0.831900826
+Listeria,monocytogenes,,Meat,Egg,"liquid, white",,8.2,56.65,16.5,,1.217483944,0.8313,Doyle et al.,2001,,,,,0.925,,,,,0.846645451,,0.831900826
+Listeria,monocytogenes,,Meat,Egg,"liquid, white",,8.8,56.65,20.3,,1.307496038,0.8313,Doyle et al.,2001,,,,,0.925,,,,,0.846645451,,0.831900826
+Listeria,monocytogenes,,Meat,Egg,"liquid, white",,9.3,56.65,20.9,,1.320146286,0.8313,Doyle et al.,2001,,,,,0.925,,,,,0.846645451,,0.831900826
+Listeria,monocytogenes,,Meat,Egg,"liquid, white",,8.2,56.65,4.76,9.43,0.677606953,0.8313,Doyle et al.,2001,,,,,0.925,,,,,0.846645451,,0.831900826
+Listeria,monocytogenes,,Meat,Egg,"liquid, white",,9.1,56.65,4.35,6.41,0.638489257,0.8313,Doyle et al.,2001,,,,,0.925,,,,,0.846645451,,0.831900826
+Listeria,monocytogenes,,Meat,Egg,"liquid, white",,,56.65,12,11.3,1.079181246,0.8313,Doyle et al.,2001,,,,,0.925,,,,,0.846645451,,0.831900826
+Listeria,monocytogenes,,Meat,Egg,"liquid, white",,,57.7,8.3,11.3,0.919078092,0.6822,Doyle et al.,2001,,,,,0.7864,,,,,0.701665916,,0.682811058
+Listeria,monocytogenes,,Meat,Egg,"liquid, white",,8.2,58.15,3.47,9.43,0.540329475,0.6183,Doyle et al.,2001,,,,,0.727,,,,,0.63953183,,0.618915443
+Listeria,monocytogenes,,Meat,Egg,"liquid, white",,9.1,58.15,2.41,6.41,0.382017043,0.6183,Doyle et al.,2001,,,,,0.727,,,,,0.63953183,,0.618915443
+Listeria,monocytogenes,,Meat,Egg,"liquid, white",,9,58.15,3.8,7,0.579783597,0.6183,Doyle et al.,2001,,,,,0.727,,,,,0.63953183,,0.618915443
+Listeria,monocytogenes,,Meat,Egg,"liquid, white + H2O2 (0.875%)",,8.8,51.5,37.6,,1.575187845,1.5626,Doyle et al.,2001,,,,,1.6048,,,,,1.557735548,,1.563150641
+Listeria,monocytogenes,,Meat,Egg,"liquid, white + H2O2 (0.875%)",,8.8,53.2,23.3,,1.367355921,1.3212,Doyle et al.,2001,,,,,1.3804,,,,,1.323006778,,1.321767207
+Listeria,monocytogenes,Scott A,Meat,Egg,"liquid, whole",,,51,14.3,7,1.155336037,1.6336,Doyle et al.,2001,,,,,1.6708,,,,,1.626773421,,1.634145769
+Listeria,monocytogenes,F5069,Meat,Egg,"liquid, whole",,,51,22.6,7.2,1.354108439,1.6336,Doyle et al.,2001,,,,,1.6708,,,,,1.626773421,,1.634145769
+Listeria,monocytogenes,ATCC 19111,Meat,Egg,"liquid, whole",,,51,21.3,5.9,1.328379603,1.6336,Doyle et al.,2001,,,,,1.6708,,,,,1.626773421,,1.634145769
+Listeria,monocytogenes,NCF-U2K3,Meat,Egg,"liquid, whole",,,51,22,6.4,1.342422681,1.6336,Doyle et al.,2001,,,,,1.6708,,,,,1.626773421,,1.634145769
+Listeria,monocytogenes,NCF-FIKK4,Meat,Egg,"liquid, whole",,,51,21.5,6.6,1.33243846,1.6336,Doyle et al.,2001,,,,,1.6708,,,,,1.626773421,,1.634145769
+Listeria,monocytogenes,Scott A,Meat,Egg,"liquid, whole",,,55.75,5.3,7,0.72427587,0.9591,Doyle et al.,2001,,,,,1.0438,,,,,0.970913623,,0.959692056
+Listeria,monocytogenes,Scott A,Meat,Egg,"liquid, whole",,,55.75,3.4,8.36,0.531478917,0.9591,Doyle et al.,2001,,,,,1.0438,,,,,0.970913623,,0.959692056
+Listeria,monocytogenes,F5069,Meat,Egg,"liquid, whole",,,55.75,7.1,7.2,0.851258349,0.9591,Doyle et al.,2001,,,,,1.0438,,,,,0.970913623,,0.959692056
+Listeria,monocytogenes,ATCC 19111,Meat,Egg,"liquid, whole",,,55.75,6.2,5.9,0.792391689,0.9591,Doyle et al.,2001,,,,,1.0438,,,,,0.970913623,,0.959692056
+Listeria,monocytogenes,NCF-U2K3,Meat,Egg,"liquid, whole",,,55.75,8.1,6.4,0.908485019,0.9591,Doyle et al.,2001,,,,,1.0438,,,,,0.970913623,,0.959692056
+Listeria,monocytogenes,NCF-FIKK4,Meat,Egg,"liquid, whole",,,55.75,8,6.6,0.903089987,0.9591,Doyle et al.,2001,,,,,1.0438,,,,,0.970913623,,0.959692056
+Listeria,monocytogenes,,Meat,Egg,"liquid, whole",,,55.75,7.5,6,0.875061263,0.9591,Doyle et al.,2001,,,,,1.0438,,,,,0.970913623,,0.959692056
+Listeria,monocytogenes,Scott A,Meat,Egg,"liquid, whole",,,57,3.2,7.3,0.505149978,0.7816,Doyle et al.,2001,,,,,0.8788,,,,,0.798318939,,0.782204236
+Listeria,monocytogenes,Scott A,Meat,Egg,"liquid, whole",,,57,3.7,7.2,0.568201724,0.7816,Doyle et al.,2001,,,,,0.8788,,,,,0.798318939,,0.782204236
+Listeria,monocytogenes,Scott A,Meat,Egg,"liquid, whole",,,60,1.95,7.3,0.290034611,0.3556,Doyle et al.,2001,,,,,0.4828,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Meat,Egg,"liquid, whole",,,60,1.8,7.2,0.255272505,0.3556,Doyle et al.,2001,,,,,0.4828,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Meat,Egg,"liquid, whole",,,60,2.1,,0.322219295,0.3556,Doyle et al.,2001,,,,,0.4828,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Meat,Egg,"liquid, whole",,,60,1.3,7,0.113943352,0.3556,Doyle et al.,2001,,,,,0.4828,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Meat,Egg,"liquid, whole",,,60,1.3,8.36,0.113943352,0.3556,Doyle et al.,2001,,,,,0.4828,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,HAL 957E1,Meat,Egg,"liquid, whole",,,60,1.5,,0.176091259,0.3556,Doyle et al.,2001,,,,,0.4828,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,F5069,Meat,Egg,"liquid, whole",,,60,1.4,7.2,0.146128036,0.3556,Doyle et al.,2001,,,,,0.4828,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,ATCC 19111,Meat,Egg,"liquid, whole",,,60,1.3,5.9,0.113943352,0.3556,Doyle et al.,2001,,,,,0.4828,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,NCF-U2K3,Meat,Egg,"liquid, whole",,,60,1.6,6.4,0.204119983,0.3556,Doyle et al.,2001,,,,,0.4828,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,NCF-FIKK4,Meat,Egg,"liquid, whole",,,60,1.7,6.6,0.230448921,0.3556,Doyle et al.,2001,,,,,0.4828,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Meat,Egg,"liquid, whole",,,63,0.49,7.3,-0.30980392,-0.0704,Doyle et al.,2001,,,,,0.0868,,,,,-0.030135543,,-0.069737296
+Listeria,monocytogenes,Scott A,Meat,Egg,"liquid, whole",,,63,0.55,7.2,-0.259637311,-0.0704,Doyle et al.,2001,,,,,0.0868,,,,,-0.030135543,,-0.069737296
+Listeria,monocytogenes,,Meat,Egg,"liquid, whole",,,63,0.42,6,-0.37675071,-0.0704,Doyle et al.,2001,,,,,0.0868,,,,,-0.030135543,,-0.069737296
+Listeria,monocytogenes,Scott A,Meat,Egg,"liquid, whole",,,65.5,0.11,7,-0.958607315,-0.4254,Doyle et al.,2001,,,,,-0.2432,,,,,-0.37532491,,-0.424712934
+Listeria,monocytogenes,F5069,Meat,Egg,"liquid, whole",,,65.5,0.2,7.2,-0.698970004,-0.4254,Doyle et al.,2001,,,,,-0.2432,,,,,-0.37532491,,-0.424712934
+Listeria,monocytogenes,ATCC 19111,Meat,Egg,"liquid, whole",,,65.5,0.06,5.9,-1.22184875,-0.4254,Doyle et al.,2001,,,,,-0.2432,,,,,-0.37532491,,-0.424712934
+Listeria,monocytogenes,NCF-U2K3,Meat,Egg,"liquid, whole",,,65.5,0.11,6.4,-0.958607315,-0.4254,Doyle et al.,2001,,,,,-0.2432,,,,,-0.37532491,,-0.424712934
+Listeria,monocytogenes,NCF-FIKK4,Meat,Egg,"liquid, whole",,,65.5,0.12,6.6,-0.920818754,-0.4254,Doyle et al.,2001,,,,,-0.2432,,,,,-0.37532491,,-0.424712934
+Listeria,monocytogenes,Scott A,Meat,Egg,"liquid, whole + 10 ﾂｵg nisin/ml",,,55.75,2.17,,0.336459734,0.9591,Doyle et al.,2001,,,,,1.0438,,,,,0.970913623,,0.959692056
+Listeria,monocytogenes,Scott A,Meat,Egg,"liquid, whole + 10 ﾂｵg nisin/ml",,,60,1.4,,0.146128036,0.3556,Doyle et al.,2001,,,,,0.4828,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Meat,Egg,"liquid, whole + 10 ﾂｵg nisin/ml",,,60,1.1,,0.041392685,0.3556,Doyle et al.,2001,Pre-incubated with nisin for 2h,,,,0.4828,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Meat,Egg,"liquid, whole + 10% sucrose",,,61,1.9,,0.278753601,0.2136,Doyle et al.,2001,,,,,0.3508,,,,,0.246015951,,0.214243215
+Listeria,monocytogenes,HAL 957E1,Meat,Egg,"liquid, whole + 10% sucrose",,,61,1.2,,0.079181246,0.2136,Doyle et al.,2001,,,,,0.3508,,,,,0.246015951,,0.214243215
+Listeria,monocytogenes,,Meat,Egg,"liquid, yolk",,,60,1.34,6.06,0.127104798,0.3556,Doyle et al.,2001,,,,,0.4828,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Meat,Egg,"liquid, yolk",,,61.1,1.56,11.45,0.193124598,0.1994,Doyle et al.,2001,,,,,0.3376,,,,,0.232208376,,0.200044189
+Listeria,monocytogenes,Scott A 2045,Meat,Egg,"liquid, yolk",,,61.1,0.94,5.08,-0.026872146,0.1994,Doyle et al.,2001,,,,,0.3376,,,,,0.232208376,,0.200044189
+Listeria,monocytogenes,2284,Meat,Egg,"liquid, yolk",,,61.1,2.3,6.35,0.361727836,0.1994,Doyle et al.,2001,,,,,0.3376,,,,,0.232208376,,0.200044189
+Listeria,monocytogenes,ST.L.,Meat,Egg,"liquid, yolk",,,61.1,0.92,9.7,-0.036212173,0.1994,Doyle et al.,2001,,,,,0.3376,,,,,0.232208376,,0.200044189
+Listeria,monocytogenes,V-7,Meat,Egg,"liquid, yolk",,,61.1,0.7,6.22,-0.15490196,0.1994,Doyle et al.,2001,,,,,0.3376,,,,,0.232208376,,0.200044189
+Listeria,monocytogenes,,Meat,Egg,"liquid, yolk",,,61.1,0.89,6.06,-0.050609993,0.1994,Doyle et al.,2001,,,,,0.3376,,,,,0.232208376,,0.200044189
+Listeria,monocytogenes,,Meat,Egg,"liquid, yolk",,,61.1,1.41,6.7,0.149219113,0.1994,Doyle et al.,2001,,,,,0.3376,,,,,0.232208376,,0.200044189
+Listeria,monocytogenes,,Meat,Egg,"liquid, yolk",,,62.2,0.58,6.06,-0.236572006,0.0432,Doyle et al.,2001,,,,,0.1924,,,,,0.080325055,,0.043854908
+Listeria,monocytogenes,Scott A,Meat,Egg,"liquid, yolk",,,63.15,0.92,11.45,-0.036212173,-0.0917,Doyle et al.,2001,,,,,0.067,,,,,-0.050846905,,-0.091035834
+Listeria,monocytogenes,Scott A 2045,Meat,Egg,"liquid, yolk",,,63.15,0.35,5.08,-0.455931956,-0.0917,Doyle et al.,2001,,,,,0.067,,,,,-0.050846905,,-0.091035834
+Listeria,monocytogenes,2284,Meat,Egg,"liquid, yolk",,,63.15,1.28,6.35,0.10720997,-0.0917,Doyle et al.,2001,,,,,0.067,,,,,-0.050846905,,-0.091035834
+Listeria,monocytogenes,ST.L.,Meat,Egg,"liquid, yolk",,,63.15,0.38,9.7,-0.420216403,-0.0917,Doyle et al.,2001,,,,,0.067,,,,,-0.050846905,,-0.091035834
+Listeria,monocytogenes,V-7,Meat,Egg,"liquid, yolk",,,63.15,0.43,6.22,-0.366531544,-0.0917,Doyle et al.,2001,,,,,0.067,,,,,-0.050846905,,-0.091035834
+Listeria,monocytogenes,,Meat,Egg,"liquid, yolk",,,63.15,0.81,6.7,-0.091514981,-0.0917,Doyle et al.,2001,,,,,0.067,,,,,-0.050846905,,-0.091035834
+Listeria,monocytogenes,,Meat,Egg,"liquid, yolk",,,63.15,0.35,5,-0.455931956,-0.0917,Doyle et al.,2001,,,,,0.067,,,,,-0.050846905,,-0.091035834
+Listeria,monocytogenes,Scott A,Meat,Egg,"liquid, yolk",,,64.4,0.82,11.45,-0.086186148,-0.2692,Doyle et al.,2001,,,,,-0.098,,,,,-0.223441589,,-0.268523653
+Listeria,monocytogenes,Scott A 2045,Meat,Egg,"liquid, yolk",,,64.4,0.21,5.08,-0.677780705,-0.2692,Doyle et al.,2001,,,,,-0.098,,,,,-0.223441589,,-0.268523653
+Listeria,monocytogenes,2284,Meat,Egg,"liquid, yolk",,,64.4,0.66,6.35,-0.180456064,-0.2692,Doyle et al.,2001,,,,,-0.098,,,,,-0.223441589,,-0.268523653
+Listeria,monocytogenes,ST.L.,Meat,Egg,"liquid, yolk",,,64.4,0.46,9.7,-0.337242168,-0.2692,Doyle et al.,2001,,,,,-0.098,,,,,-0.223441589,,-0.268523653
+Listeria,monocytogenes,V-7,Meat,Egg,"liquid, yolk",,,64.4,0.19,6.22,-0.721246399,-0.2692,Doyle et al.,2001,,,,,-0.098,,,,,-0.223441589,,-0.268523653
+Listeria,monocytogenes,,Meat,Egg,"liquid, yolk",,,64.4,0.44,6.7,-0.356547324,-0.2692,Doyle et al.,2001,,,,,-0.098,,,,,-0.223441589,,-0.268523653
+Listeria,monocytogenes,,Meat,Egg,"liquid, yolk",,,66.85,0.08,5,-1.096910013,-0.6171,Doyle et al.,2001,,,,,-0.4214,,,,,-0.561727169,,-0.616399779
+Listeria,monocytogenes,,Meat,Egg,"liquid, yolk + NaCl (5%) + sucrose (5%)",,,63.15,3.75,6,0.574031268,-0.0917,Doyle et al.,2001,,,,,0.067,,,,,-0.050846905,,-0.091035834
+Listeria,monocytogenes,,Meat,Egg,"liquid, yolk + NaCl (5%) + sucrose (5%)",,,66.85,0.67,6,-0.173925197,-0.6171,Doyle et al.,2001,,,,,-0.4214,,,,,-0.561727169,,-0.616399779
+Listeria,monocytogenes,,Meat,Egg,"liquid, yolk + sucrose (10%)",,,61.1,2.05,8.9,0.311753861,0.1994,Doyle et al.,2001,,,,,0.3376,,,,,0.232208376,,0.200044189
+Listeria,monocytogenes,,Meat,Egg,"liquid, yolk + sucrose (10%)",,,63.15,1.05,8.9,0.021189299,-0.0917,Doyle et al.,2001,,,,,0.067,,,,,-0.050846905,,-0.091035834
+Listeria,monocytogenes,Scott A,Meat,Egg,"liquid, yolk + sucrose (10%)",,,63.15,2.1,,0.322219295,-0.0917,Doyle et al.,2001,,,,,0.067,,,,,-0.050846905,,-0.091035834
+Listeria,monocytogenes,HAL 957E1,Meat,Egg,"liquid, yolk + sucrose (10%)",,,63.15,0.8,,-0.096910013,-0.0917,Doyle et al.,2001,,,,,0.067,,,,,-0.050846905,,-0.091035834
+Listeria,monocytogenes,,Meat,Egg,"liquid, yolk + sucrose (10%)",,,64.4,0.97,8.9,-0.013228266,-0.2692,Doyle et al.,2001,,,,,-0.098,,,,,-0.223441589,,-0.268523653
+Listeria,monocytogenes,,Meat,Egg,"liquid, yolk + sucrose (10%)",,,66.85,0.46,8.9,-0.337242168,-0.6171,Doyle et al.,2001,,,,,-0.4214,,,,,-0.561727169,,-0.616399779
+Listeria,monocytogenes,,Meat,Ham,,,,54.7,17.8,5.05,1.250420002,1.1082,Doyle et al.,2001,,,,,1.1824,,,,,1.115893157,,1.108781824
+Listeria,monocytogenes,,Meat,Ham,,,,60,1.82,5.05,0.260071388,0.3556,Doyle et al.,2001,,,,,0.4828,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Meat,Ham,,,,54.7,19.2,6.74,1.283301229,1.1082,Doyle et al.,2001,"Heat shock, 60 min 42 ﾂｰC",,,,1.1824,,,,,1.115893157,,1.108781824
+Listeria,monocytogenes,,Meat,Ham,,,,60,3.48,6.74,0.541579244,0.3556,Doyle et al.,2001,"Heat shock, 60 min 42 ﾂｰC",,,,0.4828,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Meat,Meat,emulsion,,,60,7.3,,0.86332286,0.3556,ICMSF,1996,"37 ﾂｰC, 22-24h, heated to 60 ﾂｰC at 0.5 ﾂｰC/min",,,,0.4828,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Meat,Meat,emulsion,,,60,12.95,,1.112269768,0.3556,ICMSF,1996,"37 ﾂｰC, 22-24h, heated to 60 ﾂｰC at 0.5 ﾂｰC/min",,,,0.4828,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Meat,Meat,emulsion,,,63,3,,0.477121255,-0.0704,ICMSF,1996,"37 ﾂｰC, 22-24h, heated to 60 ﾂｰC at 0.5 ﾂｰC/min",,,,0.0868,,,,,-0.030135543,,-0.069737296
+Listeria,monocytogenes,,Meat,Meat,emulsion,,,63,5.4,,0.73239376,-0.0704,ICMSF,1996,"37 ﾂｰC, 22-24h, heated to 60 ﾂｰC at 0.5 ﾂｰC/min",,,,0.0868,,,,,-0.030135543,,-0.069737296
+Listeria,monocytogenes,,Meat,Meat,emulsion,,,66,1,,0,-0.4964,ICMSF,1996,"37 ﾂｰC, 22-24h, heated to 60 ﾂｰC at 0.5 ﾂｰC/min",,,,-0.3092,,,,,-0.444362784,,-0.495708062
+Listeria,monocytogenes,,Meat,Meat,ground,,,56,13.18,,1.11991541,0.9236,ICMSF,1996,,,,,1.0108,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,,Meat,Meat,ground,,,58,6.39,,0.805500858,0.6396,ICMSF,1996,,,,,0.7468,,,,,0.660243192,,0.640213981
+Listeria,monocytogenes,,Meat,Meat,ground,,,60,3.12,,0.494154594,0.3556,ICMSF,1996,,,,,0.4828,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Meat,Meat,ground,,,62,1.01,,0.004321374,0.0716,ICMSF,1996,,,,,0.2188,,,,,0.107940204,,0.07225296
+Listeria,monocytogenes,,Meat,Meat,"ground, cured",,,58,50,,1.698970004,0.6396,ICMSF,1996,,,,,0.7468,,,,,0.660243192,,0.640213981
+Listeria,monocytogenes,,Meat,Meat,"ground, cured",,,60,16.7,,1.222716471,0.3556,ICMSF,1996,,,,,0.4828,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Meat,Meat,"ground, cured",,,62,7.06,,0.848804701,0.0716,ICMSF,1996,,,,,0.2188,,,,,0.107940204,,0.07225296
+Listeria,monocytogenes,,Meat,Meat,"ground, cured",,,64,1.28,,0.10720997,-0.2124,ICMSF,1996,,,,,-0.0452,,,,,-0.16821129,,-0.211727551
+Listeria,monocytogenes,,Meat,Meat,"slurry (20% meat, 80% water)",,5.9,60,2.54,,0.404833717,0.3556,ICMSF,1996,,,,,0.4828,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Meat,Meat,"slurry (20% meat, 80% water)",,5.9,65,0.75,,-0.124938737,-0.3544,ICMSF,1996,,,,,-0.1772,,,,,-0.306287037,,-0.353717807
+Listeria,monocytogenes,,Meat,Meat,"slurry (20% meat, 80% water)",,5.9,70,0.23,,-0.638272164,-1.0644,ICMSF,1996,,,,,-0.8372,,,,,-0.996665772,,-1.063669084
+Listeria,monocytogenes,,Meat,Pork,#NAME?,,,50,114,5.45,2.056904851,1.7756,Doyle et al.,2001,,,,,1.8028,,,,,1.764849168,,1.776136024
+Listeria,monocytogenes,,Meat,Pork,#NAME?,,,55,10.2,5.45,1.008600172,1.0656,Doyle et al.,2001,,,,,1.1428,,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,,Meat,Pork,#NAME?,,,60,1.7,5.45,0.230448921,0.3556,Doyle et al.,2001,,,,,0.4828,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Meat,Pork,fresh,,,62,6.5,,0.812913357,0.0716,Doyle et al.,2001,,,,,0.2188,,,,,0.107940204,,0.07225296
+Listeria,monocytogenes,ATCC 19111,Meat,Pork,fresh,,,62,7.7,,0.886490725,0.0716,Doyle et al.,2001,,,,,0.2188,,,,,0.107940204,,0.07225296
+Listeria,monocytogenes,Scott A,Meat,Pork,old (3 months storage),,,62,4.3,,0.633468456,0.0716,Doyle et al.,2001,,,,,0.2188,,,,,0.107940204,,0.07225296
+Listeria,monocytogenes,ATCC 19111,Meat,Pork,old (3 months storage),,,62,5.2,,0.716003344,0.0716,Doyle et al.,2001,,,,,0.2188,,,,,0.107940204,,0.07225296
+Listeria,monocytogenes,ATCC 19111,Meat,Pork,,,,62,9.2,,0.963787827,0.0716,Doyle et al.,2001,Heating rate 1.3 ﾂｰC/min,,,,0.2188,,,,,0.107940204,,0.07225296
+Listeria,monocytogenes,ATCC 19111,Meat,Pork,,,,62,6.2,,0.792391689,0.0716,Doyle et al.,2001,Heating rate 2.2 ﾂｰC/min,,,,0.2188,,,,,0.107940204,,0.07225296
+Listeria,monocytogenes,ATCC 19111,Meat,Pork,,,,62,5.5,,0.740362689,0.0716,Doyle et al.,2001,Heating rate 8 ﾂｰC/min,,,,0.2188,,,,,0.107940204,,0.07225296
+Listeria,monocytogenes,,Meat,Pork,,,,50,109,5.05,2.037426498,1.7756,Doyle et al.,2001,,,,,1.8028,,,,,1.764849168,,1.776136024
+Listeria,monocytogenes,,Meat,Pork,,,,55,9.8,5.05,0.991226076,1.0656,Doyle et al.,2001,,,,,1.1428,,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,,Meat,Pork,,,,60,1.14,5.05,0.056904851,0.3556,Doyle et al.,2001,,,,,0.4828,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Meat,Sausage,"23% beef, 77% pork",,,51.7,44.4,10,1.64738297,1.5342,Doyle et al.,2001,,,,,1.5784,,,,,1.530120398,,1.53475259
+Listeria,monocytogenes,,Meat,Sausage,"23% beef, 77% pork",,,54.7,20.1,10,1.303196057,1.1082,Doyle et al.,2001,,,,,1.1824,,,,,1.115893157,,1.108781824
+Listeria,monocytogenes,,Meat,Sausage,"23% beef, 77% pork",,,57.2,11.2,10,1.049218023,0.7532,Doyle et al.,2001,,,,,0.8524,,,,,0.77070379,,0.753806185
+Listeria,monocytogenes,,Meat,Sausage,"23% beef, 77% pork",,,60,9.13,10,0.960470778,0.3556,Doyle et al.,2001,,,,,0.4828,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Meat,Sausage,fermented,,,52,38,,1.579783597,1.4916,ICMSF,1996,,,,,1.5388,,,,,1.488697674,,1.492155513
+Listeria,monocytogenes,,Meat,Sausage,fermented,,,52,42,,1.62324929,1.4916,ICMSF,1996,,,,,1.5388,,,,,1.488697674,,1.492155513
+Listeria,monocytogenes,,Meat,Sausage,fermented,,,54.4,20,,1.301029996,1.1508,ICMSF,1996,,,,,1.222,,,,,1.157315881,,1.151378901
+Listeria,monocytogenes,,Meat,Sausage,fermented,,,57.2,6.6,,0.819543936,0.7532,ICMSF,1996,,,,,0.8524,,,,,0.77070379,,0.753806185
+Listeria,monocytogenes,,Meat,Sausage,fermented,,,57.2,9.8,,0.991226076,0.7532,ICMSF,1996,,,,,0.8524,,,,,0.77070379,,0.753806185
+Listeria,monocytogenes,,Meat,Sausage,fermented,,,60,9.2,,0.963787827,0.3556,ICMSF,1996,,,,,0.4828,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Meat,Sausage,fermented,,,60,11,,1.041392685,0.3556,ICMSF,1996,,,,,0.4828,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Meat,Sausage,fermented beaker,,,48.9,98.6,,1.993876915,1.9318,ICMSF,1996,"37 ﾂｰC, overnight",,,,1.948,,,,,1.91673249,,1.932325305
+Listeria,monocytogenes,,Meat,Sausage,fermented beaker,,,48.9,106.3,,2.026533265,1.9318,ICMSF,1996,"37 ﾂｰC, overnight",,,,1.948,,,,,1.91673249,,1.932325305
+Listeria,monocytogenes,,Meat,Sausage,fermented beaker,,,51.7,44.4,,1.64738297,1.5342,ICMSF,1996,"37 ﾂｰC, overnight",,,,1.5784,,,,,1.530120398,,1.53475259
+Listeria,monocytogenes,,Meat,Sausage,fermented beaker,,,51.7,44.5,,1.648360011,1.5342,ICMSF,1996,"37 ﾂｰC, overnight",,,,1.5784,,,,,1.530120398,,1.53475259
+Listeria,monocytogenes,,Meat,Sausage,fermented beaker,,,54.4,20.1,,1.303196057,1.1508,ICMSF,1996,"37 ﾂｰC, overnight",,,,1.222,,,,,1.157315881,,1.151378901
+Listeria,monocytogenes,,Meat,Sausage,fermented beaker,,,54.4,19.7,,1.294466226,1.1508,ICMSF,1996,"37 ﾂｰC, overnight",,,,1.222,,,,,1.157315881,,1.151378901
+Listeria,monocytogenes,,Meat,Sausage,fermented beaker,,,57.2,11.2,,1.049218023,0.7532,ICMSF,1996,"37 ﾂｰC, overnight",,,,0.8524,,,,,0.77070379,,0.753806185
+Listeria,monocytogenes,,Meat,Sausage,fermented beaker,,,57.2,11.4,,1.056904851,0.7532,ICMSF,1996,"37 ﾂｰC, overnight",,,,0.8524,,,,,0.77070379,,0.753806185
+Listeria,monocytogenes,,Meat,Sausage,fermented beaker,,,60,9.13,,0.960470778,0.3556,ICMSF,1996,"37 ﾂｰC, overnight",,,,0.4828,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Meat,Sausage,fermented beaker,,,60,5.11,,0.7084209,0.3556,ICMSF,1996,"37 ﾂｰC, overnight",,,,0.4828,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Meat,Sausage,liver,,7,57.2,8.91,,0.949877704,0.7532,ICMSF,1996,,,,,0.8524,,,,,0.77070379,,0.753806185
+Listeria,monocytogenes,,Meat,Sausage,liver,,7,60,2.42,,0.383815366,0.3556,ICMSF,1996,,,,,0.4828,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Meat,Sausage,liver,,7,62.8,1.12,,0.049218023,-0.042,ICMSF,1996,,,,,0.1132,,,,,-0.002520394,,-0.041339245
+Listeria,monocytogenes,,Meat,Sausage,mix (pork+beef),,,64,3.3,,0.51851394,-0.2124,ICMSF,1996,,,,,-0.0452,,,,,-0.16821129,,-0.211727551
+Listeria,monocytogenes,,Meat,Sausage,mix (pork+beef),,,64,4.2,,0.62324929,-0.2124,ICMSF,1996,,,,,-0.0452,,,,,-0.16821129,,-0.211727551
+Listeria,monocytogenes,,Meat,Sausage,mix (pork+beef),,,64,4.7,,0.672097858,-0.2124,ICMSF,1996,,,,,-0.0452,,,,,-0.16821129,,-0.211727551
+Listeria,monocytogenes,,Meat,Sausage,mix (pork+beef),,,64,8,,0.903089987,-0.2124,ICMSF,1996,,,,,-0.0452,,,,,-0.16821129,,-0.211727551
+Listeria,monocytogenes,Scott A,Meat,Sausage,pork liver,,,57.2,8.91,6.2,0.949877704,0.7532,Doyle et al.,2001,,,,,0.8524,,,,,0.77070379,,0.753806185
+Listeria,monocytogenes,Scott A,Meat,Sausage,pork liver,,,60,2.42,6.2,0.383815366,0.3556,Doyle et al.,2001,,,,,0.4828,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Meat,Sausage,pork liver,,,62.9,1.12,6.2,0.049218023,-0.0562,Doyle et al.,2001,,,,,0.1,,,,,-0.016327968,,-0.05553827
+Listeria,monocytogenes,V7,Meat,Sausage,pork liver,,,60,1,,0,0.3556,Doyle et al.,2001,,,,,0.4828,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,HO-VJ-S,Meat,Sausage,pork liver,,,60,1.6,,0.204119983,0.3556,Doyle et al.,2001,,,,,0.4828,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Meat,Sausage,pork only,,,60,7.3,6.8,0.86332286,0.3556,Doyle et al.,2001,,,,,0.4828,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Meat,Sausage,pork only,,,62.9,3,6.8,0.477121255,-0.0562,Doyle et al.,2001,,,,,0.1,,,,,-0.016327968,,-0.05553827
+Listeria,monocytogenes,,Meat,Sausage,pork only,,,66,1,6.8,0,-0.4964,Doyle et al.,2001,,,,,-0.3092,,,,,-0.444362784,,-0.495708062
+Listeria,monocytogenes,,Meat,Sausage,,,,64,3.3,,0.51851394,-0.2124,Doyle et al.,2001,,,,,-0.0452,,,,,-0.16821129,,-0.211727551
+Listeria,monocytogenes,,Meat,Sausage,,,,64,4.2,,0.62324929,-0.2124,Doyle et al.,2001,"Heat shock, 30 min 48 ﾂｰC",,,,-0.0452,,,,,-0.16821129,,-0.211727551
+Listeria,monocytogenes,,Meat,Sausage,,,,64,4.7,,0.672097858,-0.2124,Doyle et al.,2001,"Heat shock, 60 min 48 ﾂｰC",,,,-0.0452,,,,,-0.16821129,,-0.211727551
+Listeria,monocytogenes,,Meat,Sausage,,,,64,8,,0.903089987,-0.2124,Doyle et al.,2001,"Heat shock, 120 min 48 ﾂｰC",,,,-0.0452,,,,,-0.16821129,,-0.211727551
+Listeria,monocytogenes,,Meat,Turkey,breast,,,55,119.05,5.29,2.0757294,1.0656,Murphy et al.,2003,,,,,1.1428,,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,,Meat,Turkey,breast,,,57.5,40.16,5.29,1.603793704,0.7106,Murphy et al.,2003,,,,,0.8128,,,,,0.729281066,,0.711209109
+Listeria,monocytogenes,,Meat,Turkey,breast,,,60,16.7,5.29,1.222716471,0.3556,Murphy et al.,2003,,,,,0.4828,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Meat,Turkey,breast,,,62.5,4.54,5.29,0.657055853,0.0006,Murphy et al.,2003,,,,,0.1528,,,,,0.038902331,,0.001257832
+Listeria,monocytogenes,,Meat,Turkey,breast,,,65,1.29,5.29,0.11058971,-0.3544,Murphy et al.,2003,,,,,-0.1772,,,,,-0.306287037,,-0.353717807
+Listeria,monocytogenes,,Meat,Turkey,breast,,,67.5,0.46,5.29,-0.337242168,-0.7094,Murphy et al.,2003,,,,,-0.5072,,,,,-0.651476404,,-0.708693445
+Listeria,monocytogenes,,Meat,Turkey,breast,,,70,0.21,5.29,-0.677780705,-1.0644,Murphy et al.,2003,,,,,-0.8372,,,,,-0.996665772,,-1.063669084
+Listeria,monocytogenes,Scott A,Media,Trypticase Soy with Yeast Extract,,,,50,49.4,6.6,1.693726949,1.7756,Doyle et al.,2001,No heat shock,,,,,,,,,1.764849168,,1.776136024
+Listeria,monocytogenes,Scott A,Media,Trypticase Soy with Yeast Extract,,,,50,96.9,6.7,1.986323777,1.7756,Doyle et al.,2001,precultured 10 min 48 ﾂｰC,,,,,,,,,1.764849168,,1.776136024
+Listeria,monocytogenes,Scott A,Media,TSB,,,,52,9.9,7.27,0.995635195,1.4916,Casadei et al.,1998,,,,,,,,,,1.488697674,,1.492155513
+Listeria,monocytogenes,1151,Media,TSB,,,,52,20.1,7.05,1.303196057,1.4916,Casadei et al.,1998,,,,,,,,,,1.488697674,,1.492155513
+Listeria,monocytogenes,F5069,Media,Trypticase Soy with Yeast Extract,,,,52,37.9,,1.57863921,1.4916,Doyle et al.,2001,No heat shock,,,,,,,,,1.488697674,,1.492155513
+Listeria,monocytogenes,,Media,Broth,tryptose phosphate,,7.1,52,38.8,,1.588831726,1.4916,ICMSF,1996,,,,,,,,,,1.488697674,,1.492155513
+Listeria,monocytogenes,Scott A,Media,Tryptose Phosphate Broth,,,,52,38.8,5.6,1.588831726,1.4916,Doyle et al.,2001,,,,,,,,,,1.488697674,,1.492155513
+Listeria,monocytogenes,LCDC 81-861,Media,Tryptose Phosphate Broth,,,,52,49.1,6,1.691081492,1.4916,Doyle et al.,2001,,,,,,,,,,1.488697674,,1.492155513
+Listeria,monocytogenes,F5069,Media,Trypticase Soy with Yeast Extract,,,,52,49.8,,1.697229343,1.4916,Doyle et al.,2001,precultured 30 min 48 ﾂｰC,,,,,,,,,1.488697674,,1.492155513
+Listeria,monocytogenes,DA-3,Media,Tryptose Phosphate Broth,,,,52,63.8,3.85,1.804820679,1.4916,Doyle et al.,2001,,,,,,,,,,1.488697674,,1.492155513
+Listeria,monocytogenes,,Media,Broth,tryptose phosphate,,7.1,52,64.1,,1.80685803,1.4916,ICMSF,1996,,,,,,,,,,1.488697674,,1.492155513
+Listeria,monocytogenes,Brie-1,Media,Tryptose Phosphate Broth,,,,52,64.1,6.6,1.80685803,1.4916,Doyle et al.,2001,,,,,,,,,,1.488697674,,1.492155513
+Listeria,monocytogenes,,Media,Broth,tryptose phosphate,,7.1,54,14.4,,1.158362492,1.2076,ICMSF,1996,,,,,,,,,,1.21254618,,1.208175003
+Listeria,monocytogenes,LCDC 81-861,Media,Tryptose Phosphate Broth,,,,54,14.4,6,1.158362492,1.2076,Doyle et al.,2001,,,,,,,,,,1.21254618,,1.208175003
+Listeria,monocytogenes,Scott A,Media,Tryptose Phosphate Broth,,,,54,16.8,5.6,1.225309282,1.2076,Doyle et al.,2001,,,,,,,,,,1.21254618,,1.208175003
+Listeria,monocytogenes,DA-3,Media,Tryptose Phosphate Broth,,,,54,22.8,3.85,1.357934847,1.2076,Doyle et al.,2001,,,,,,,,,,1.21254618,,1.208175003
+Listeria,monocytogenes,,Media,Broth,tryptose phosphate,,7.1,54,31.6,,1.499687083,1.2076,ICMSF,1996,,,,,,,,,,1.21254618,,1.208175003
+Listeria,monocytogenes,Brie-1,Media,Tryptose Phosphate Broth,,,,54,31.6,6.6,1.499687083,1.2076,Doyle et al.,2001,,,,,,,,,,1.21254618,,1.208175003
+Listeria,monocytogenes,NCTC 7973,Media,Phosphate buffer,,,,55,3.1,,0.491361694,1.0656,Doyle et al.,2001,Cells grown at 10 ﾂｰC in batch,,,,,,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,NCTC 7973,Media,Phosphate buffer,,,,55,3.9,,0.591064607,1.0656,Doyle et al.,2001,Cells grown at 10 ﾂｰC in chemostat,,,,,,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,NCTC 7973,Media,Phosphate buffer,,,,55,4.2,,0.62324929,1.0656,Doyle et al.,2001,Cells grown in batch,,,,,,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,NCTC 7973,Media,Phosphate buffer,,,,55,4.2,,0.62324929,1.0656,Doyle et al.,2001,Cells grown at 30 ﾂｰC in batch,,,,,,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,NCTC 7973,Media,Phosphate buffer,,,,55,6.3,,0.799340549,1.0656,Doyle et al.,2001,Cells grown in chemostat,,,,,,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,NCTC 7973,Media,Phosphate buffer,,,,55,6.3,,0.799340549,1.0656,Doyle et al.,2001,Cells grown at 30 ﾂｰC in chemostat,,,,,,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,,Media,Broth,trypticase,,,55,6.69,,0.825426118,1.0656,ICMSF,1996,,,,,,,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,Scott A,Media,Trypticase Soy with Yeast Extract,,,,55,8.81,6.6,0.944975908,1.0656,Doyle et al.,2001,No heat shock,,,,,,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,,Media,Broth,trypticase,,,55,8.89,,0.948901761,1.0656,ICMSF,1996,,,,,,,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,Scott A,Media,Trypticase Soy with Yeast Extract,,,,55,8.89,,0.948901761,1.0656,Doyle et al.,2001,No heat shock; survivors grown aerobically,,,,,,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,,Media,Broth,trypticase,,,55,9.55,,0.980003372,1.0656,ICMSF,1996,"Heat shock, 48 ﾂｰC, 10 min",,,,,,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,,Media,Broth,trypticase,,,55,12,,1.079181246,1.0656,ICMSF,1996,,,,,,,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,Scott A,Media,Trypticase Soy with Yeast Extract,,,,55,12,,1.079181246,1.0656,Doyle et al.,2001,No heat shock; survivors grown anaerobically,,,,,,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,,Media,Broth,trypticase,,,55,18.7,,1.271841607,1.0656,ICMSF,1996,"Heat shock, 48 ﾂｰC, 10 min",,,,,,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,Scott A,Media,Trypticase Soy with Yeast Extract,,,,55,18.7,,1.271841607,1.0656,Doyle et al.,2001,precultured 10 min 48 ﾂｰC; survivors grown aerobically,,,,,,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,Scott A,Media,Trypticase Soy with Yeast Extract,,,,55,20,6.7,1.301029996,1.0656,Doyle et al.,2001,precultured 10 min 48 ﾂｰC,,,,,,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,,Media,Broth,trypticase,,,55,26.4,,1.421603927,1.0656,ICMSF,1996,"Heat shock, 48 ﾂｰC, 10 min",,,,,,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,Scott A,Media,Trypticase Soy with Yeast Extract,,,,55,26.4,,1.421603927,1.0656,Doyle et al.,2001,precultured 10 min 48 ﾂｰC; survivors grown aerobically,,,,,,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,Scott A,Media,Trypticase Soy Broth with Yeast Extract,,,,56,1,,0,0.9236,Doyle et al.,2001,Log phase cells,,,,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,Scott A,Media,TSB,,,,56,2.21,7.27,0.344392274,0.9236,Casadei et al.,1998,,,,,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,Scott A,Media,Trypticase Soy Broth with Yeast Extract,+500 ppm H2O2,,,56,2.9,,0.462397998,0.9236,Doyle et al.,2001,Log phase cells,,,,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,Scott A,Media,Phosphate buffer,,,,56,3,5.9,0.477121255,0.9236,Doyle et al.,2001,,,,,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,1151,Media,TSB,,,,56,3.8,7.05,0.579783597,0.9236,Casadei et al.,1998,,,,,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,F5059,Media,Phosphate buffer,,,,56,4.1,6.6,0.612783857,0.9236,Doyle et al.,2001,,,,,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,Scott A,Media,Trypticase Soy Broth with Yeast Extract,+4-8% ethanol,,,56,4.1,,0.612783857,0.9236,Doyle et al.,2001,Log phase cells,,,,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,DA-3,Media,Tryptose Phosphate Broth,,,,56,5.7,3.85,0.755874856,0.9236,Doyle et al.,2001,,,,,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,Scott A,Media,Tryptose Phosphate Broth,,,,56,7.4,5.6,0.86923172,0.9236,Doyle et al.,2001,,,,,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,Scott A,Media,Trypticase Soy Broth with Yeast Extract,,,,56,8.6,,0.934498451,0.9236,Doyle et al.,2001,Stationary phase cells,,,,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,Scott A,Media,Trypticase Soy Broth with Yeast Extract,#NAME?,,4.5,56,8.8,,0.944482672,0.9236,Doyle et al.,2001,Log phase cells,,,,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,,Media,Broth,tryptose phosphate,,7.1,56,10.4,,1.017033339,0.9236,ICMSF,1996,,,,,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,LCDC 81-861,Media,Tryptose Phosphate Broth,,,,56,10.4,6,1.017033339,0.9236,Doyle et al.,2001,,,,,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,Scott A,Media,Trypticase Soy Broth with Yeast Extract,,,,56,13.6,,1.133538908,0.9236,Doyle et al.,2001,Log phase cells; starved 138-156h,,,,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,,Media,Broth,tryptose phosphate,,7.1,56,16,,1.204119983,0.9236,ICMSF,1996,,,,,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,Brie-1,Media,Tryptose Phosphate Broth,,,,56,16,6.6,1.204119983,0.9236,Doyle et al.,2001,,,,,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,F5069,Media,Trypticase Soy with Yeast Extract,,,,57.8,9.4,,0.973127854,0.668,Doyle et al.,2001,No heat shock,,,,,,,,,0.687858341,,0.668612032
+Listeria,monocytogenes,F5069,Media,Trypticase Soy with Yeast Extract,,,,57.8,10.3,,1.012837225,0.668,Doyle et al.,2001,precultured 30 min 48 ﾂｰC,,,,,,,,,0.687858341,,0.668612032
+Listeria,monocytogenes,F5069,Media,Trypticase Soy with Yeast Extract,,,,57.8,11.7,,1.068185862,0.668,Doyle et al.,2001,precultured 15 min 48 ﾂｰC,,,,,,,,,0.687858341,,0.668612032
+Listeria,monocytogenes,SLU 136,Media,Physiological saline,,,,58,1.3,6.5,0.113943352,0.6396,Doyle et al.,2001,,,,,,,,,,0.660243192,,0.640213981
+Listeria,monocytogenes,SLU 594,Media,Physiological saline,,,,58,1.7,5.3,0.230448921,0.6396,Doyle et al.,2001,,,,,,,,,,0.660243192,,0.640213981
+Listeria,monocytogenes,ATCC 19111,Media,Physiological saline,,,,58,1.8,5.6,0.255272505,0.6396,Doyle et al.,2001,,,,,,,,,,0.660243192,,0.640213981
+Listeria,monocytogenes,SLU 110,Media,Physiological saline,,,,58,1.9,6.6,0.278753601,0.6396,Doyle et al.,2001,,,,,,,,,,0.660243192,,0.640213981
+Listeria,monocytogenes,NCTC 5105,Media,Physiological saline,,,,58,1.9,5.7,0.278753601,0.6396,Doyle et al.,2001,,,,,,,,,,0.660243192,,0.640213981
+Listeria,monocytogenes,SLU 10,Media,Physiological saline,,,,58,2.2,5.6,0.342422681,0.6396,Doyle et al.,2001,,,,,,,,,,0.660243192,,0.640213981
+Listeria,monocytogenes,Scott A,Media,TSB,,,,60,0.38,7.27,-0.420216403,0.3556,Casadei et al.,1998,,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Media,Phosphate buffer,,,,60,0.5,5.9,-0.301029996,0.3556,Doyle et al.,2001,,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,13-249,Media,Tryptose Phosphate Broth,,,,60,0.6,,-0.22184875,0.3556,Doyle et al.,2001,No heat shock; log phase cells,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Media,Phosphate buffer,,,7.2,60,0.63,,-0.200659451,0.3556,ICMSF,1996,,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,F5059,Media,Phosphate buffer,,,,60,0.7,6.6,-0.15490196,0.3556,Doyle et al.,2001,,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,ATCC 19111,Media,Physiological saline,,,,60,0.72,5.6,-0.142667504,0.3556,Doyle et al.,2001,,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,SLU 594,Media,Physiological saline,,,,60,0.75,5.3,-0.124938737,0.3556,Doyle et al.,2001,,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,SLU 136,Media,Physiological saline,,,,60,0.81,6.5,-0.091514981,0.3556,Doyle et al.,2001,,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Media,Brain Heart Infusion,#NAME?,,,60,0.83,,-0.080921908,0.3556,Doyle et al.,2001,Cells grown at 10 ﾂｰC,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,SLU 110,Media,Physiological saline,,,,60,0.85,6.6,-0.070581074,0.3556,Doyle et al.,2001,,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,1151,Media,TSB,,,,60,0.88,7.05,-0.055517328,0.3556,Casadei et al.,1998,,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Media,Brain Heart Infusion,#NAME?,,,60,0.95,,-0.022276395,0.3556,Doyle et al.,2001,Cells grown at 10 ﾂｰC,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,NCTC 5105,Media,Physiological saline,,,,60,1.1,5.7,0.041392685,0.3556,Doyle et al.,2001,,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Media,Brain Heart Infusion,#NAME?,,,60,1.11,,0.045322979,0.3556,Doyle et al.,2001,Cells grown at 37 ﾂｰC,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Media,Brain Heart Infusion,#NAME?,,7,60,1.11,,0.045322979,0.3556,Doyle et al.,2001,,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Media,Brain Heart Infusion,#NAME?,,5.4,60,1.14,,0.056904851,0.3556,Doyle et al.,2001,,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,SLU 10,Media,Physiological saline,,,,60,1.2,5.6,0.079181246,0.3556,Doyle et al.,2001,,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Media,Brain Heart Infusion,#NAME?,,5.4,60,1.22,,0.086359831,0.3556,Doyle et al.,2001,,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Media,Brain Heart Infusion,#NAME?,,7,60,1.28,,0.10720997,0.3556,Doyle et al.,2001,,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Media,Brain Heart Infusion,#NAME?,,,60,1.28,,0.10720997,0.3556,Doyle et al.,2001,Cells grown at 37 ﾂｰC,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Media,Trypticase Soy with Yeast Extract,,,,60,1.58,6.6,0.198657087,0.3556,Doyle et al.,2001,No heat shock,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,13-249,Media,Tryptose Phosphate Broth,,,,60,1.7,,0.230448921,0.3556,Doyle et al.,2001,heat shock 30 min 46 ﾂｰC; log phase cells,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,SLU 92,Media,Physiological saline,,,,60,1.9,6.9,0.278753601,0.3556,Doyle et al.,2001,,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Media,Phosphate buffer,#NAME?,0.98,,60,2,,0.301029996,0.3556,Doyle et al.,2001,,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,13-249,Media,Tryptose Phosphate Broth,,,,60,2.22,,0.346352974,0.3556,Doyle et al.,2001,No heat shock; stationary phase cells,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Media,Phosphate buffer,#NAME?,0.96,,60,2.9,,0.462397998,0.3556,Doyle et al.,2001,,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,SLU 196,Media,Physiological saline,,,,60,3.1,6.1,0.491361694,0.3556,Doyle et al.,2001,,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Media,Trypticase Soy with Yeast Extract,,,,60,3.32,6.7,0.521138084,0.3556,Doyle et al.,2001,precultured 10 min 48 ﾂｰC,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,13-249,Media,Tryptose Phosphate Broth,,,,60,4.01,,0.603144373,0.3556,Doyle et al.,2001,heat shock 30 min 46 ﾂｰC; stationary phase cells,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Media,Broth,tryptone soya,,,60,4.1,,0.612783857,0.3556,ICMSF,1996,"37 ﾂｰC, 22-24h",,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,5S,Media,Trypticase Soy Broth,,,,60,4.1,6,0.612783857,0.3556,Doyle et al.,2001,,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Media,Phosphate buffer,#NAME?,0.94,,60,5.6,,0.748188027,0.3556,Doyle et al.,2001,,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,SLU 136,Media,Physiological saline,,,,62,0.1,6.5,-1,0.0716,Doyle et al.,2001,,,,,,,,,,0.107940204,,0.07225296
+Listeria,monocytogenes,SLU 594,Media,Physiological saline,,,,62,0.3,5.3,-0.522878745,0.0716,Doyle et al.,2001,,,,,,,,,,0.107940204,,0.07225296
+Listeria,monocytogenes,ATCC 19111,Media,Physiological saline,,,,62,0.35,5.6,-0.455931956,0.0716,Doyle et al.,2001,,,,,,,,,,0.107940204,,0.07225296
+Listeria,monocytogenes,NCTC 5105,Media,Physiological saline,,,,62,0.38,5.7,-0.420216403,0.0716,Doyle et al.,2001,,,,,,,,,,0.107940204,,0.07225296
+Listeria,monocytogenes,SLU 10,Media,Physiological saline,,,,62,0.42,5.6,-0.37675071,0.0716,Doyle et al.,2001,,,,,,,,,,0.107940204,,0.07225296
+Listeria,monocytogenes,SLU 110,Media,Physiological saline,,,,62,0.46,6.6,-0.337242168,0.0716,Doyle et al.,2001,,,,,,,,,,0.107940204,,0.07225296
+Listeria,monocytogenes,SLU 92,Media,Physiological saline,,,,62,1.1,6.9,0.041392685,0.0716,Doyle et al.,2001,,,,,,,,,,0.107940204,,0.07225296
+Listeria,monocytogenes,SLU 196,Media,Physiological saline,,,,62,1.3,6.1,0.113943352,0.0716,Doyle et al.,2001,,,,,,,,,,0.107940204,,0.07225296
+Listeria,monocytogenes,Scott A,Media,Phosphate buffer,#NAME?,0.98,,62.8,0.74,,-0.13076828,-0.042,Doyle et al.,2001,,,,,,,,,,-0.002520394,,-0.041339245
+Listeria,monocytogenes,Scott A,Media,Phosphate buffer,#NAME?,0.96,,62.8,0.97,,-0.013228266,-0.042,Doyle et al.,2001,,,,,,,,,,-0.002520394,,-0.041339245
+Listeria,monocytogenes,Scott A,Media,Phosphate buffer,#NAME?,0.94,,62.8,3,,0.477121255,-0.042,Doyle et al.,2001,,,,,,,,,,-0.002520394,,-0.041339245
+Listeria,monocytogenes,,Media,Broth,tryptone soya,,,63,1,,0,-0.0704,ICMSF,1996,"37 ﾂｰC, 22-24h",,,,,,,,,-0.030135543,,-0.069737296
+Listeria,monocytogenes,Scott A,Media,TSB,,,,64,0.15,7.27,-0.823908741,-0.2124,Casadei et al.,1998,,,,,,,,,,-0.16821129,,-0.211727551
+Listeria,monocytogenes,1151,Media,TSB,,,,64,0.23,7.05,-0.638272164,-0.2124,Casadei et al.,1998,,,,,,,,,,-0.16821129,,-0.211727551
+Listeria,monocytogenes,SLU 92,Media,Physiological saline,,,,64,0.5,6.9,-0.301029996,-0.2124,Doyle et al.,2001,,,,,,,,,,-0.16821129,,-0.211727551
+Listeria,monocytogenes,SLU 196,Media,Physiological saline,,,,64,0.68,6.1,-0.167491087,-0.2124,Doyle et al.,2001,,,,,,,,,,-0.16821129,,-0.211727551
+Listeria,monocytogenes,Scott A,Media,Trypticase Soy with Yeast Extract,,,,65,0.28,6.6,-0.552841969,-0.3544,Doyle et al.,2001,No heat shock,,,,,,,,,-0.306287037,,-0.353717807
+Listeria,monocytogenes,,Media,Phosphate buffer,,,7.2,65,0.29,,-0.537602002,-0.3544,ICMSF,1996,,,,,,,,,,-0.306287037,,-0.353717807
+Listeria,monocytogenes,Scott A,Media,Trypticase Soy with Yeast Extract,,,,65,0.54,6.7,-0.26760624,-0.3544,Doyle et al.,2001,precultured 10 min 48 ﾂｰC,,,,,,,,,-0.306287037,,-0.353717807
+Listeria,monocytogenes,Scott A,Media,Phosphate buffer,#NAME?,0.98,,65.6,0.36,,-0.443697499,-0.4396,Doyle et al.,2001,,,,,,,,,,-0.389132485,,-0.43891196
+Listeria,monocytogenes,Scott A,Media,Phosphate buffer,#NAME?,0.96,,65.6,0.52,,-0.283996656,-0.4396,Doyle et al.,2001,,,,,,,,,,-0.389132485,,-0.43891196
+Listeria,monocytogenes,Scott A,Media,Phosphate buffer,#NAME?,0.94,,65.6,1.1,,0.041392685,-0.4396,Doyle et al.,2001,,,,,,,,,,-0.389132485,,-0.43891196
+Listeria,monocytogenes,Scott A,Media,Phosphate buffer,,,,66,0.1,5.9,-1,-0.4964,Doyle et al.,2001,,,,,,,,,,-0.444362784,,-0.495708062
+Listeria,monocytogenes,F5059,Media,Phosphate buffer,,,,66,0.1,6.6,-1,-0.4964,Doyle et al.,2001,,,,,,,,,,-0.444362784,,-0.495708062
+Listeria,monocytogenes,,Media,Broth,tryptone soya,,,66,0.4,,-0.397940009,-0.4964,ICMSF,1996,"37 ﾂｰC, 22-24h",,,,,,,,,-0.444362784,,-0.495708062
+Listeria,monocytogenes,5S,Media,Trypticase Soy Broth,,,,66,0.4,6,-0.397940009,-0.4964,Doyle et al.,2001,,,,,,,,,,-0.444362784,,-0.495708062
+Listeria,monocytogenes,Scott A,Media,TSB,,,,68,0.066333333,,-1.178268178,-0.7804,Casadei et al.,1998,,,,,,,,,,-0.720514278,,-0.779688573
+Listeria,monocytogenes,1151,Media,TSB,,,,68,0.117833333,,-0.928731837,-0.7804,Casadei et al.,1998,,,,,,,,,,-0.720514278,,-0.779688573
+Listeria,monocytogenes,Scott A,Media,Phosphate buffer,#NAME?,0.98,,68.3,0.15,,-0.823908741,-0.823,Doyle et al.,2001,,,,,,,,,,-0.761937002,,-0.822285649
+Listeria,monocytogenes,Scott A,Media,Phosphate buffer,#NAME?,0.96,,68.3,0.3,,-0.522878745,-0.823,Doyle et al.,2001,,,,,,,,,,-0.761937002,,-0.822285649
+Listeria,monocytogenes,Scott A,Media,Phosphate buffer,#NAME?,0.94,,68.3,0.47,,-0.327902142,-0.823,Doyle et al.,2001,,,,,,,,,,-0.761937002,,-0.822285649
+Listeria,monocytogenes,,Media,Phosphate buffer,,,,70,0.15,,-0.823908741,-1.0644,ICMSF,1996,,,,,,,,,,-0.996665772,,-1.063669084
+Listeria,monocytogenes,Scott A,Media,,#NAME?,,,60,0.4,,-0.397940009,0.3556,Doyle et al.,2001,Grown and heated in 0.09M NaCl,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Media,,#NAME?,,,60,0.5,,-0.301029996,0.3556,Doyle et al.,2001,Grown at 0.09M and heated at 0.5M NaCl,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Media,,#NAME?,,,60,0.63,,-0.200659451,0.3556,Doyle et al.,2001,Grown at 0.5M and heated at 0.5M NaCl,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Media,,#NAME?,,,60,0.95,,-0.022276395,0.3556,Doyle et al.,2001,Grown at 1.5M and heated at 0.09M NaCl,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Media,,#NAME?,,,60,1.15,,0.06069784,0.3556,Doyle et al.,2001,Grown at 0.09M and heated at 1M NaCl,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Media,,#NAME?,,,60,1.85,,0.267171728,0.3556,Doyle et al.,2001,Grown at 1M and heated at 1M NaCl,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Media,,#NAME?,,,60,3.3,,0.51851394,0.3556,Doyle et al.,2001,Grown at 0.09M and heated at 1.5M NaCl,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Media,,#NAME?,,,60,9.53,,0.979092901,0.3556,Doyle et al.,2001,Grown at 1.5M and heated at 1.5M NaCl,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Vegetables,Broccoli,,,,56,2.3,7.8,0.361727836,0.9236,Doyle et al.,2001,,,,,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,,Vegetables,Broccoli,,,,60,0.62,7.8,-0.207608311,0.3556,Doyle et al.,2001,,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Vegetables,Broccoli,,,,62,0.39,7.8,-0.408935393,0.0716,Doyle et al.,2001,,,,,,,,,,0.107940204,,0.07225296
+Listeria,monocytogenes,Scott A,Vegetables,Cabbage,juice,,4.6,50,25,7.01,1.397940009,1.7756,Doyle et al.,2001,,,,,,,,,,1.764849168,,1.776136024
+Listeria,monocytogenes,Scott A,Vegetables,Cabbage,juice,,4.6,54,6.71,7.01,0.82672252,1.2076,Doyle et al.,2001,,,,,,,,,,1.21254618,,1.208175003
+Listeria,monocytogenes,Scott A,Vegetables,Cabbage,juice,,4.6,56,3.64,7.01,0.561101384,0.9236,Doyle et al.,2001,,,,,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,Scott A,Vegetables,Cabbage,juice,,5.6,54,8.35,5.63,0.921686475,1.2076,Doyle et al.,2001,,,,,,,,,,1.21254618,,1.208175003
+Listeria,monocytogenes,Scott A,Vegetables,Cabbage,juice,,5.6,56,6.8,5.63,0.832508913,0.9236,Doyle et al.,2001,,,,,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,LCDC 810861,Vegetables,Cabbage,juice,,4.6,50,13.3,7.54,1.123851641,1.7756,Doyle et al.,2001,,,,,,,,,,1.764849168,,1.776136024
+Listeria,monocytogenes,LCDC 810861,Vegetables,Cabbage,juice,,4.6,54,4.88,7.54,0.688419822,1.2076,Doyle et al.,2001,,,,,,,,,,1.21254618,,1.208175003
+Listeria,monocytogenes,LCDC 810861,Vegetables,Cabbage,juice,,4.6,56,2.04,7.54,0.309630167,0.9236,Doyle et al.,2001,,,,,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,LCDC 810861,Vegetables,Cabbage,juice,,5.6,54,8.93,6.45,0.950851459,1.2076,Doyle et al.,2001,,,,,,,,,,1.21254618,,1.208175003
+Listeria,monocytogenes,LCDC 810861,Vegetables,Cabbage,juice,,5.6,56,4.74,6.45,0.675778342,0.9236,Doyle et al.,2001,,,,,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,,Vegetables,Cabbage,juice,,4.6,50,13.33,,1.124830149,1.7756,ICMSF,1996,,,,,,,,,,1.764849168,,1.776136024
+Listeria,monocytogenes,,Vegetables,Cabbage,juice,,4.6,50,25,,1.397940009,1.7756,ICMSF,1996,,,,,,,,,,1.764849168,,1.776136024
+Listeria,monocytogenes,,Vegetables,Cabbage,juice,,4.6,51.7,8.2,,0.913813852,1.5342,ICMSF,1996,,,,,,,,,,1.530120398,,1.53475259
+Listeria,monocytogenes,,Vegetables,Cabbage,juice,,4.6,51.7,14.39,,1.158060794,1.5342,ICMSF,1996,,,,,,,,,,1.530120398,,1.53475259
+Listeria,monocytogenes,,Vegetables,Cabbage,juice,,5.6,52,20,,1.301029996,1.4916,ICMSF,1996,,,,,,,,,,1.488697674,,1.492155513
+Listeria,monocytogenes,,Vegetables,Cabbage,juice,,5.6,52,34.48,,1.537567257,1.4916,ICMSF,1996,,,,,,,,,,1.488697674,,1.492155513
+Listeria,monocytogenes,,Vegetables,Cabbage,juice,,4.6,54,4.88,,0.688419822,1.2076,ICMSF,1996,,,,,,,,,,1.21254618,,1.208175003
+Listeria,monocytogenes,,Vegetables,Cabbage,juice,,4.6,54,6.71,,0.82672252,1.2076,ICMSF,1996,,,,,,,,,,1.21254618,,1.208175003
+Listeria,monocytogenes,,Vegetables,Cabbage,juice,,5.6,54,8.35,,0.921686475,1.2076,ICMSF,1996,,,,,,,,,,1.21254618,,1.208175003
+Listeria,monocytogenes,,Vegetables,Cabbage,juice,,5.6,54,8.39,,0.923761961,1.2076,ICMSF,1996,,,,,,,,,,1.21254618,,1.208175003
+Listeria,monocytogenes,,Vegetables,Cabbage,juice,,4.6,56,2.04,,0.309630167,0.9236,ICMSF,1996,,,,,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,,Vegetables,Cabbage,juice,,4.6,56,4.74,,0.675778342,0.9236,ICMSF,1996,,,,,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,,Vegetables,Cabbage,juice,,5.6,56,4.74,,0.675778342,0.9236,ICMSF,1996,,,,,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,,Vegetables,Cabbage,juice,,5.6,56,6.8,,0.832508913,0.9236,ICMSF,1996,,,,,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,,Vegetables,Carrot,homogenate,,,60,5.02,,0.700703717,0.3556,ICMSF,1996,,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Vegetables,Carrot,homogenate,,,60,7.76,,0.889861721,0.3556,ICMSF,1996,,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Vegetables,Carrot,homogenate,,,62,3.1,,0.491361694,0.0716,ICMSF,1996,,,,,,,,,,0.107940204,,0.07225296
+Listeria,monocytogenes,,Vegetables,Carrot,homogenate,,,62,3.29,,0.517195898,0.0716,ICMSF,1996,,,,,,,,,,0.107940204,,0.07225296
+Listeria,monocytogenes,,Vegetables,Carrot,homogenate,,,64,1.47,,0.167317335,-0.2124,ICMSF,1996,,,,,,,,,,-0.16821129,,-0.211727551
+Listeria,monocytogenes,,Vegetables,Carrot,homogenate,,,64,2.53,,0.403120521,-0.2124,ICMSF,1996,,,,,,,,,,-0.16821129,,-0.211727551
+Listeria,monocytogenes,,Vegetables,Carrot,homogenate,,,68,0.3,,-0.522878745,-0.7804,ICMSF,1996,,,,,,,,,,-0.720514278,,-0.779688573
+Listeria,monocytogenes,,Vegetables,Carrot,homogenate,,,68,0.44,,-0.356547324,-0.7804,ICMSF,1996,,,,,,,,,,-0.720514278,,-0.779688573
+Listeria,monocytogenes,,Vegetables,Carrot,homogenate,,,70,0.23,,-0.638272164,-1.0644,ICMSF,1996,,,,,,,,,,-0.996665772,,-1.063669084
+Listeria,monocytogenes,,Vegetables,Carrot,homogenate,,,70,0.27,,-0.568636236,-1.0644,ICMSF,1996,,,,,,,,,,-0.996665772,,-1.063669084
+Listeria,monocytogenes,Scott A,Vegetables,Carrot ,homogenate,,,60,5.02,7.04,0.700703717,0.3556,Doyle et al.,2001,,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Vegetables,Carrot ,homogenate,,,64,1.47,7.04,0.167317335,-0.2124,Doyle et al.,2001,,,,,,,,,,-0.16821129,,-0.211727551
+Listeria,monocytogenes,Scott A,Vegetables,Carrot ,homogenate,,,68,0.3,7.04,-0.522878745,-0.7804,Doyle et al.,2001,,,,,,,,,,-0.720514278,,-0.779688573
+Listeria,monocytogenes,NCTC 11994,Vegetables,Carrot ,homogenate,,,60,7.76,6.7,0.889861721,0.3556,Doyle et al.,2001,,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,NCTC 11994,Vegetables,Carrot ,homogenate,,,64,2.53,6.7,0.403120521,-0.2124,Doyle et al.,2001,,,,,,,,,,-0.16821129,,-0.211727551
+Listeria,monocytogenes,NCTC 11994,Vegetables,Carrot ,homogenate,,,68,0.44,6.7,-0.356547324,-0.7804,Doyle et al.,2001,,,,,,,,,,-0.720514278,,-0.779688573
+Listeria,monocytogenes,,Vegetables,Carrot ,homogenate,,,66,0.73,,-0.13667714,-0.4964,ICMSF,1996,,,,,,,,,,-0.444362784,,-0.495708062
+Listeria,monocytogenes,,Vegetables,Carrot ,homogenate,,,66,0.91,,-0.040958608,-0.4964,ICMSF,1996,,,,,,,,,,-0.444362784,,-0.495708062
+Listeria,monocytogenes,,Vegetables,Mushrooms,,,,56,5,4.9,0.698970004,0.9236,Doyle et al.,2001,,,,,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,,Vegetables,Mushrooms,,,,60,0.69,4.9,-0.161150909,0.3556,Doyle et al.,2001,,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Vegetables,Mushrooms,,,,62,0.3,4.9,-0.522878745,0.0716,Doyle et al.,2001,,,,,,,,,,0.107940204,,0.07225296
+Listeria,monocytogenes,,Vegetables,Onions,,,,56,0.8,6.7,-0.096910013,0.9236,Doyle et al.,2001,,,,,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,,Vegetables,Onions,,,,60,0.23,6.7,-0.638272164,0.3556,Doyle et al.,2001,,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Vegetables,Onions,,,,62,0.1,6.7,-1,0.0716,Doyle et al.,2001,,,,,,,,,,0.107940204,,0.07225296
+Listeria,monocytogenes,,Vegetables,Peas,,,,56,5.2,5.5,0.716003344,0.9236,Doyle et al.,2001,,,,,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,,Vegetables,Peas,,,,60,1.04,5.5,0.017033339,0.3556,Doyle et al.,2001,,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Vegetables,Peas,,,,62,0.41,5.5,-0.387216143,0.0716,Doyle et al.,2001,,,,,,,,,,0.107940204,,0.07225296
+Listeria,monocytogenes,,Vegetables,Pepper (green),,,,56,3.9,5.5,0.591064607,0.9236,Doyle et al.,2001,,,,,,,,,,0.936394686,,0.924194492
+Listeria,monocytogenes,,Vegetables,Pepper (green),,,,60,0.92,5.5,-0.036212173,0.3556,Doyle et al.,2001,,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,Vegetables,Pepper (green),,,,62,0.31,5.5,-0.508638306,0.0716,Doyle et al.,2001,,,,,,,,,,0.107940204,,0.07225296
+Listeria,monocytogenes,NCTC 11994,Vegetables,Potato,slices,,,50,30.6,5.59,1.485721426,1.7756,Doyle et al.,2001,,,,,,,,,,1.764849168,,1.776136024
+Listeria,monocytogenes,NCTC 11994,Vegetables,Potato,slices,,,55,3.3,5.59,0.51851394,1.0656,Doyle et al.,2001,,,,,,,,,,1.074470433,,1.066184747
+Listeria,monocytogenes,NCTC 11994,Vegetables,Potato,slices,,,60,0.5,5.59,-0.301029996,0.3556,Doyle et al.,2001,,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,,Unknown,,,,60,5,,0.698970004,0.3556,Adams and Moss,2000,,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,,,Unknown,,,,60,8.3,,0.919078092,0.3556,Adams and Moss,2000,,,,,,,,,,0.384091698,,0.35623347
+Listeria,monocytogenes,Scott A,Meat,Egg,"liquid, whole + 10 ﾂｵg nisin/ml + NaCl (10%)",,,63,2.6,,0.414973348,0.937517611,Doyle et al.,2001,Pre-incubated with nisin for 2h,,,0.937517611,,,,,,-0.030135543,0.937517611,
+Listeria,monocytogenes,Scott A,Meat,Egg,"liquid, whole + 10 ﾂｵg nisin/ml + NaCl (10%)",,,63,7.4,,0.86923172,0.937517611,Doyle et al.,2001,,,,0.937517611,,,,,,-0.030135543,0.937517611,
+Listeria,monocytogenes,Scott A,Meat,Egg,"liquid, whole + NaCl (10%)",,,55.75,99.2,5.47,1.996511672,1.721454648,Doyle et al.,2001,,,,1.721454648,,,,,,0.970913623,1.721454648,
+Listeria,monocytogenes,Scott A,Meat,Egg,"liquid, whole + NaCl (10%)",,,60,27.8,5.47,1.444044796,1.261905351,Doyle et al.,2001,,,,1.261905351,,,,,,0.384091698,1.261905351,
+Listeria,monocytogenes,HAL 957E1,Meat,Egg,"liquid, whole + NaCl (10%)",,,63,5.5,,0.740362689,0.937517611,Doyle et al.,2001,,,,0.937517611,,,,,,-0.030135543,0.937517611,
+Listeria,monocytogenes,Scott A,Meat,Egg,"liquid, whole + NaCl (10%)",,,63,13.7,,1.136720567,0.937517611,Doyle et al.,2001,,,,0.937517611,,,,,,-0.030135543,0.937517611,
+Listeria,monocytogenes,Scott A,Meat,Egg,"liquid, whole + NaCl (10%)",,,65.5,2.33,5.47,0.367355921,0.667194495,Doyle et al.,2001,,,,0.667194495,,,,,,-0.37532491,0.667194495,
+Listeria,monocytogenes,,Meat,Egg,"liquid, yolk + NaCl (10%)",,,63.15,7.9,10,0.897627091,0.921298225,Doyle et al.,2001,,,,0.921298225,,,,,,-0.050846905,0.921298225,
+Listeria,monocytogenes,HAL 957E1,Meat,Egg,"liquid, yolk + NaCl (10%)",,,63.15,8.2,,0.913813852,0.921298225,Doyle et al.,2001,,,,0.921298225,,,,,,-0.050846905,0.921298225,
+Listeria,monocytogenes,,Meat,Egg,"liquid, yolk + NaCl (10%)",,,63.15,10.5,5.4,1.021189299,0.921298225,Doyle et al.,2001,,,,0.921298225,,,,,,-0.050846905,0.921298225,
+Listeria,monocytogenes,Scott A,Meat,Egg,"liquid, yolk + NaCl (10%)",,,63.15,18.5,,1.267171728,0.921298225,Doyle et al.,2001,,,,0.921298225,,,,,,-0.050846905,0.921298225,
+Listeria,monocytogenes,,Meat,Egg,"liquid, yolk + NaCl (10%)",,,64.4,6.11,5.4,0.78604121,0.786136666,Doyle et al.,2001,,,,0.786136666,,,,,,-0.223441589,0.786136666,
+Listeria,monocytogenes,,Meat,Egg,"liquid, yolk + NaCl (10%)",,,66.85,2.39,5.4,0.378397901,0.521220013,Doyle et al.,2001,,,,0.521220013,,,,,,-0.561727169,0.521220013,
+Listeria,monocytogenes,,Meat,Egg,"liquid, yolk + NaCl (10%)",,,66.85,2.4,10,0.380211242,0.521220013,Doyle et al.,2001,,,,0.521220013,,,,,,-0.561727169,0.521220013,
+Listeria,monocytogenes,,Meat,Egg,"liquid, yolk + NaCl (10%) + sucrose (5%)",,,63.15,21.3,5.4,1.328379603,0.921298225,Doyle et al.,2001,,,,0.921298225,,,,,,-0.050846905,0.921298225,
+Listeria,monocytogenes,,Meat,Egg,"liquid, yolk + NaCl (10%) + sucrose (5%)",,,64.4,8.26,5.4,0.916980047,0.786136666,Doyle et al.,2001,,,,0.786136666,,,,,,-0.223441589,0.786136666,
+Listeria,monocytogenes,,Meat,Egg,"liquid, yolk + NaCl (10%)+ sucrose (5%)",,,66.85,4.58,5.4,0.660865478,0.521220013,Doyle et al.,2001,,,,0.521220013,,,,,,-0.561727169,0.521220013,
+Listeria,monocytogenes,,Meat,Egg,"liquid, yolk + NaCl (20%)",,,64.4,27.3,7.4,1.436162647,0.786136666,Doyle et al.,2001,,,,0.786136666,,,,,,-0.223441589,0.786136666,
+Listeria,monocytogenes,,Meat,Egg,"liquid, yolk + NaCl (20%)",,,66.85,13.3,7.4,1.123851641,0.521220013,Doyle et al.,2001,,,,0.521220013,,,,,,-0.561727169,0.521220013,
+Listeria,monocytogenes,Scott A,Media,Phosphate buffer,#NAME?,0.9,,60,8.4,,0.924279286,1.261905351,Doyle et al.,2001,,,,1.261905351,,,,,,0.384091698,1.261905351,
+Listeria,monocytogenes,Scott A,Media,Phosphate buffer,#NAME?,0.9,,62.8,5.9,,0.770852012,0.959143461,Doyle et al.,2001,,,,0.959143461,,,,,,-0.002520394,0.959143461,
+Listeria,monocytogenes,Scott A,Media,Phosphate buffer,#NAME?,0.9,,65.6,3.8,,0.579783597,0.656381571,Doyle et al.,2001,,,,0.656381571,,,,,,-0.389132485,0.656381571,
+Listeria,monocytogenes,Scott A,Media,Phosphate buffer,#NAME?,0.9,,68.3,1.9,,0.278753601,0.364432605,Doyle et al.,2001,,,,0.364432605,,,,,,-0.761937002,0.364432605,
+Listeria,monocytogenes,Scott A,Media,Phosphate buffer,#NAME?,0.92,,60,7.6,,0.880813592,1.261905351,Doyle et al.,2001,,,,1.261905351,,,,,,0.384091698,1.261905351,
+Listeria,monocytogenes,Scott A,Media,Phosphate buffer,#NAME?,0.92,,62.8,5.3,,0.72427587,0.959143461,Doyle et al.,2001,,,,0.959143461,,,,,,-0.002520394,0.959143461,
+Listeria,monocytogenes,Scott A,Media,Phosphate buffer,#NAME?,0.92,,65.6,3.1,,0.491361694,0.656381571,Doyle et al.,2001,,,,0.656381571,,,,,,-0.389132485,0.656381571,
+Listeria,monocytogenes,Scott A,Media,Phosphate buffer,#NAME?,0.92,,68.3,1.6,,0.204119983,0.364432605,Doyle et al.,2001,,,,0.364432605,,,,,,-0.761937002,0.364432605,
+Listeria,monocytogenes,,Meat,Sausage,summer sausage,,,66,2.08,29.3,0.318063335,-0.495708062,Roering  et al. ,1998,Doubtful results: T is temp of waterbath and not of sausage!!,,,,,,,,,,,
+Listeria,monocytogenes,,Meat,Sausage,summer sausage,,,77,0.84,29.3,-0.075720714,-2.057600871,Roering  et al. ,1998,Doubtful results: T is temp of waterbath and not of sausage!!,,,,,,,,,,,
+Listeria,monocytogenes,,Meat,Sausage,summer sausage,,,88,0.37,29.3,-0.431798276,-3.619493681,Roering  et al. ,1998,Doubtful results: T is temp of waterbath and not of sausage!!,,,,,,,,,,,
+Listeria,monocytogenes,,Meat,Sausage,summer sausage,,,99,0.28,,-0.552841969,-5.18138649,Roering  et al. ,1998,Doubtful results: T is temp of waterbath and not of sausage!!,,,,,,,,,,,

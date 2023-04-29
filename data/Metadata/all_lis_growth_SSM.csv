@@ -1,0 +1,6 @@
+﻿Source,Species ,Strain,Product group ,Product,Treatment,Incubation medium,Incubation temperature,Incubation time,aw,pH,Method,Obtained by:,Number of experiments,Mathematical model,Competition,T,Lag,SD λ (h),Tg (h),µ_max,root µ_max,SD μmax (log10 CFU h-1),xmax (log10 CFU per ml),SD xmax (log10 CFU per ml),A (log10 CFU per ml),SD  A (log10 CFU per ml),N0 (log10 CFU per ml),SD N0 (log10 CFU per ml)
+23,L. monocytogenes,Scott A,Dairy,Semi-skimmed milk,,TSB,37,24,,6.7,colony count,calculated from combase,2,Baranyi,,4,140.546,19.956,,0.0167,0.12922848,0.00253,8.176,0.121,,,4.912,0.125
+28,L. monocytogenes,CA,Dairy,Semi-skimmed milk,Sterile,TB,35,24,,6.6,colony count,direct from combase,,,,13,12,,4.63,0.0641,0.253179778,,8.15,,,,,
+28,L. monocytogenes,V7,Dairy,Semi-skimmed milk,Sterile,TB,35,24,,6.6,colony count,direct from combase,,,,13,12,,4.38,0.0644,0.253771551,,8.07,,,,,
+29,L. monocytogenes,Scott A,Dairy,Semi-skimmed milk,,,,,,6.8,colony count,direct from combase,,,,4,,,,0.01,0.1,,,,,,,
+30,L. monocytogenes,NCTC 9863,Dairy,Semi-skimmed milk,Pasteurized,TSB,,,,6.6,colony count,calculated from combase,,,,6.7,153.861,13.348,,0.0159,0.126095202,0.00292,4.0933,0.26,,,2.274,0.0664
